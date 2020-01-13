@@ -4,7 +4,7 @@
 
 Les ***“Ratificateurs”*** adoptent cette ***“Constitution”*** comme structure d'autorité formelle de l'***“Organisation”***. Ce faisant, les Ratificateurs cèdent leur pouvoir de gouverner et appliquent les règles et processus de la Constitution au sein de l'Organisation, à l'exception de tout pouvoirs que les Ratificateurs n'ont pas l'autorité de déléguer. Les Ratificateurs et tous les autres ***“Partenaires”*** que l'Organisation a impliqué dans sa gouvernance et ses opérations doivent le faire sous les autorités et contraintes définies dessous.
 
-Any existing policies and systems the Organization has in effect before adopting this Constitution continue in full force after adoption, even if they include authorities or constraints that were not created under the Constitution's processes. However, these legacy policies and systems may not be expanded or modified, and lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.
+Toutes les politiques et systèmes existants dans l'Organisation avant d'adopter la Constitution restent pleinement en vigueur après l'adoption, même s'ils comprennent des autorités ou des contraintes qui n'ont pas été créés dans le cadre des processus de la Constitution. Cependant, ces politiques et systèmes anciens ne peuvent être étendus ou modifiés, et perdent tout poids et autorité aussitôt que les processus de cette Constitution créent quelque chose qui les remplace ou les contredit.
 
 The Ratifiers or their successors may amend this Constitution or repeal it using whatever process they relied upon to adopt it. Amendments must be in writing and published where all Partners can access them.
 
