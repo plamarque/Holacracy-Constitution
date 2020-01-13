@@ -2,11 +2,11 @@
 
 ## Préambule
 
-Les ***“Ratificateurs”*** adoptent cette ***“Constitution”*** comme structure d'autorité formelle de l'***“Organisation”***. Ce faisant, les Ratificateurs cèdent leur pouvoir de gouverner et appliquent les règles et processus de la Constitution au sein de l'Organisation, à l'exception de tout pouvoirs que les Ratificateurs n'ont pas l'autorité de déléguer. Les Ratificateurs et tous les autres ***“Partenaires”*** que l'Organisation a impliqué dans sa gouvernance et ses opérations doivent le faire sous les autorités et contraintes définies dessous.
+Les ***“Ratifieurs”*** adoptent cette ***“Constitution”*** comme structure d'autorité formelle de l'***“Organisation”***. Ce faisant, les Ratifieurs cèdent leur pouvoir de gouverner et appliquent les règles et processus de la Constitution au sein de l'Organisation, à l'exception de tout pouvoirs que les Ratifieurs n'ont pas l'autorité de déléguer. Les Ratifieurs et tous les autres ***“Partenaires”*** que l'Organisation a impliqué dans sa gouvernance et ses opérations doivent le faire sous les autorités et contraintes définies dessous.
 
 Toutes les politiques et systèmes existants dans l'Organisation avant d'adopter la Constitution restent pleinement en vigueur après l'adoption, même s'ils comprennent des autorités ou des contraintes qui n'ont pas été créés dans le cadre des processus de la Constitution. Cependant, ces politiques et systèmes anciens ne peuvent être étendus ou modifiés, et perdent tout poids et autorité aussitôt que les processus de la présente Constitution créent quelque chose qui les remplace ou les contredit.
 
-Les Ratificateurs ou leurs successeurs peuvent amender ou abroger la présente Constitution en utilisant le processus sur lequel ils se sont appuyés pour l'adopter. Les amendements doivent être rédigés et publiés dans un endroit où les Partenaires peuvent y accéder.
+Les Ratifieurs ou leurs successeurs peuvent amender ou abroger la présente Constitution en utilisant le processus sur lequel ils se sont appuyés pour l'adopter. Les amendements doivent être rédigés et publiés dans un endroit où les Partenaires peuvent y accéder.
 
 ## Article 1: Organizational Structure
 
@@ -58,7 +58,7 @@ Granting a Domain to a Role does not delegate any rights the Circle has to contr
 
 The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle has no Super-Circle, and holds all authorities and Domains of the Organization. The Anchor Circle may change its own Purpose or Accountabilities via a Policy adopted in its Governance Process.
 
-The Ratifiers may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.
+The Ratifieurs may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.
 
 #### 1.3.4 Linking Into Circles
 
@@ -467,7 +467,7 @@ As a Partner, you have a duty to align your behavior with any Working Agreements
 
 ### 4.3 Power Shift
 
-All of your responsibilities and constraints as a Partner of the Organization come from this Constitution and the Governance and Working Agreements it empowers, or from your legal duties to the Organization or while acting on its behalf. No implicit expectations or constraints carry any weight or authority. Nor do any dictates issued under the Organization's old power structure before it adopted this Constitution. As a Partner, you may rely upon the authorities granted by this Constitution to the full extent the Ratifiers held such authorities before adopting it.
+All of your responsibilities and constraints as a Partner of the Organization come from this Constitution and the Governance and Working Agreements it empowers, or from your legal duties to the Organization or while acting on its behalf. No implicit expectations or constraints carry any weight or authority. Nor do any dictates issued under the Organization's old power structure before it adopted this Constitution. As a Partner, you may rely upon the authorities granted by this Constitution to the full extent the Ratifieurs held such authorities before adopting it.
 
 ---
 
