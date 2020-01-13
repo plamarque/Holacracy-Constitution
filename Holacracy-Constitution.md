@@ -8,17 +8,17 @@ Toutes les politiques et systèmes existants dans l'Organisation avant d'adopter
 
 Les Ratifieurs ou leurs successeurs peuvent amender ou abroger la présente Constitution en utilisant le processus sur lequel ils se sont appuyés pour l'adopter. Les amendements doivent être rédigés et publiés dans un endroit où les Associés peuvent y accéder.
 
-## Article 1: Organisational Structure
+## Article 1: Structure Organisationnelle 
 
-### 1.1 Roles
+### 1.1 Rôles
 
-The Organisation’s Associés will perform its work while acting in explicitly defined Roles. A ***“Role”*** definition has a descriptive name and one or more of the following:
+Les Associés de l'Organisation effectueront son travail en agissant au travers de Rôles explicitement définis. Une définition de ***“Rôle”*** comprend un nom descriptif ainsi que une ou plusieurs des caractéristiques suivantes:
 
-- **(a)** a ***“Purpose”***, which is a capacity, potential, or goal that the Role will pursue or express.
-- **(b)** one or more ***“Domains”***, which are assets, processes, or other things the Role may exclusively control and regulate as its property, for its purpose.
-- **(c)** one or more ***“Accountabilities”***, which are ongoing activities the Role will manage and enact in service of other Roles or to support its Purpose.
+- **(a)** une ***“Raison d’Être”***, qui désigne une capacité, un potentiel, ou un but que le Rôle va poursuivre ou manifester.
+- **(b)** un ou plusieurs ***“Domaines”***, qui sont des actifs, des processus, ou d'autres choses que le Rôle peut exclusivement contrôler et règlementer comme sa propriété, pour sa Raison d’Être.
+- **(c)** une ou plusieurs ***“Redevabilités”***, qui sont des activités que le Rôle gèrera et mettra au service des autres Rôles ou pour soutenir sa Raison d’Être.
 
-A Role may also contain ***“Policies”***, which are grants or constraints of authority, or special rules that apply to operations within that Role.
+Un Rôle peut aussi contenir des ***“Politiques”***, qui sont des octrois ou des restrictions d'autorité, ou des règles spéciales qui s'appliquent aux opérations de ce Rôle.
 
 ### 1.2 Role Assignment
 
