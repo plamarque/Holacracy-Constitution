@@ -4,9 +4,9 @@
 
 Les ***“Ratificateurs”*** adoptent cette ***“Constitution”*** comme structure d'autorité formelle de l'***“Organisation”***. Ce faisant, les Ratificateurs cèdent leur pouvoir de gouverner et appliquent les règles et processus de la Constitution au sein de l'Organisation, à l'exception de tout pouvoirs que les Ratificateurs n'ont pas l'autorité de déléguer. Les Ratificateurs et tous les autres ***“Partenaires”*** que l'Organisation a impliqué dans sa gouvernance et ses opérations doivent le faire sous les autorités et contraintes définies dessous.
 
-Toutes les politiques et systèmes existants dans l'Organisation avant d'adopter la Constitution restent pleinement en vigueur après l'adoption, même s'ils comprennent des autorités ou des contraintes qui n'ont pas été créés dans le cadre des processus de la Constitution. Cependant, ces politiques et systèmes anciens ne peuvent être étendus ou modifiés, et perdent tout poids et autorité aussitôt que les processus de cette Constitution créent quelque chose qui les remplace ou les contredit.
+Toutes les politiques et systèmes existants dans l'Organisation avant d'adopter la Constitution restent pleinement en vigueur après l'adoption, même s'ils comprennent des autorités ou des contraintes qui n'ont pas été créés dans le cadre des processus de la Constitution. Cependant, ces politiques et systèmes anciens ne peuvent être étendus ou modifiés, et perdent tout poids et autorité aussitôt que les processus de la présente Constitution créent quelque chose qui les remplace ou les contredit.
 
-The Ratifiers or their successors may amend this Constitution or repeal it using whatever process they relied upon to adopt it. Amendments must be in writing and published where all Partners can access them.
+Les Ratificateurs ou leurs successeurs peuvent amender ou abroger la présente Constitution en utilisant le processus sur lequel ils se sont appuyés pour l'adopter. Les amendements doivent être rédigés et publiés dans un endroit où les Partenaires peuvent y accéder.
 
 ## Article 1: Organizational Structure
 
