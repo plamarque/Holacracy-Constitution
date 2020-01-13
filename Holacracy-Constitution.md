@@ -2,17 +2,17 @@
 
 ## Préambule
 
-Les ***“Ratifieurs”*** adoptent cette ***“Constitution”*** comme structure d'autorité formelle de l'***“Organisation”***. Ce faisant, les Ratifieurs cèdent leur pouvoir de gouverner et appliquent les règles et processus de la Constitution au sein de l'Organisation, à l'exception de tout pouvoirs que les Ratifieurs n'ont pas l'autorité de déléguer. Les Ratifieurs et tous les autres ***“Partenaires”*** que l'Organisation a impliqué dans sa gouvernance et ses opérations doivent le faire sous les autorités et contraintes définies dessous.
+Les ***“Ratifieurs”*** adoptent cette ***“Constitution”*** comme structure d'autorité formelle de l'***“Organisation”***. Ce faisant, les Ratifieurs cèdent leur pouvoir de gouverner et appliquent les règles et processus de la Constitution au sein de l'Organisation, à l'exception de tout pouvoirs que les Ratifieurs n'ont pas l'autorité de déléguer. Les Ratifieurs et tous les autres ***“Associés”*** que l'Organisation a impliqué dans sa gouvernance et ses opérations doivent le faire sous les autorités et contraintes définies dessous.
 
 Toutes les politiques et systèmes existants dans l'Organisation avant d'adopter la Constitution restent pleinement en vigueur après l'adoption, même s'ils comprennent des autorités ou des contraintes qui n'ont pas été créés dans le cadre des processus de la Constitution. Cependant, ces politiques et systèmes anciens ne peuvent être étendus ou modifiés, et perdent tout poids et autorité aussitôt que les processus de la présente Constitution créent quelque chose qui les remplace ou les contredit.
 
-Les Ratifieurs ou leurs successeurs peuvent amender ou abroger la présente Constitution en utilisant le processus sur lequel ils se sont appuyés pour l'adopter. Les amendements doivent être rédigés et publiés dans un endroit où les Partenaires peuvent y accéder.
+Les Ratifieurs ou leurs successeurs peuvent amender ou abroger la présente Constitution en utilisant le processus sur lequel ils se sont appuyés pour l'adopter. Les amendements doivent être rédigés et publiés dans un endroit où les Associés peuvent y accéder.
 
 ## Article 1: Organisational Structure
 
 ### 1.1 Roles
 
-The Organisation’s Partners will perform its work while acting in explicitly defined Roles. A ***“Role”*** definition has a descriptive name and one or more of the following:
+The Organisation’s Associés will perform its work while acting in explicitly defined Roles. A ***“Role”*** definition has a descriptive name and one or more of the following:
 
 - **(a)** a ***“Purpose”***, which is a capacity, potential, or goal that the Role will pursue or express.
 - **(b)** one or more ***“Domains”***, which are assets, processes, or other things the Role may exclusively control and regulate as its property, for its purpose.
@@ -26,7 +26,7 @@ A Role may control assignments into another Role as a Domain. Anyone filling a R
 
 #### 1.2.1 Eligibility
 
-A Role may only be assigned to a Partner of the Organisation, or to someone who has agreed to enact the duties required of the assignment. A Role may be assigned to several people simultaneously. A Policy may further constrain Role assignments or assignment removals.
+A Role may only be assigned to a Associé of the Organisation, or to someone who has agreed to enact the duties required of the assignment. A Role may be assigned to several people simultaneously. A Policy may further constrain Role assignments or assignment removals.
 
 #### 1.2.2 Focusing an Assignment
 
@@ -34,7 +34,7 @@ A Role assigner may focus an assignment on only a specific area or context, if a
 
 #### 1.2.3 Resigning from Roles
 
-As a Partner, you may decline a Role assignment or resign from a Role at any time, unless you’ve agreed otherwise.
+As a Associé, you may decline a Role assignment or resign from a Role at any time, unless you’ve agreed otherwise.
 
 ### 1.3 Circles
 
@@ -74,7 +74,7 @@ Two or more Roles may create a new Circle at any time to govern a shared Purpose
 
 ### 1.4 Circle Leads
 
-Any Partner serving as a Role Lead for a Role also automatically fills a ***“Circle Lead Role”*** within that Role's internal Circle, and is thus a ***“Circle Lead”*** while acting in that capacity. The Circle Lead Role has the definition given in Appendix A. A Circle with no Super-Circle has no Circle Leads, unless a Policy of the Circle says otherwise.
+Any Associé serving as a Role Lead for a Role also automatically fills a ***“Circle Lead Role”*** within that Role's internal Circle, and is thus a ***“Circle Lead”*** while acting in that capacity. The Circle Lead Role has the definition given in Appendix A. A Circle with no Super-Circle has no Circle Leads, unless a Policy of the Circle says otherwise.
 
 #### 1.4.1 Defining Priorities & Strategies
 
@@ -92,7 +92,7 @@ A Circle may not add Accountabilities or other functions to its own Circle Lead 
 
 Each Circle has a group of ***"Circle Members"*** who may represent its Roles in its Governance Process.
 
-A Circle's Circle Members include all Partners filling its Circle Lead Role, as well as each Partner serving as Role Lead for a Role in the Circle. If a Role has multiple Role Leads, a Circle may adopt a Policy to limit how many of them represent that Role as Circle Members in its Governance Process.
+A Circle's Circle Members include all Associés filling its Circle Lead Role, as well as each Associé serving as Role Lead for a Role in the Circle. If a Role has multiple Role Leads, a Circle may adopt a Policy to limit how many of them represent that Role as Circle Members in its Governance Process.
 
 #### 1.5.1 Circle Reps
 
@@ -100,7 +100,7 @@ Any Circle Member of a Circle may call for the selection of a ***"Circle Rep"***
 
 The Circle Rep becomes a Circle Member of any broader Circle containing that Circle's outer Role, with the authority to represent that Role just like a Role Lead. A containing Circle may limit or prevent these Circle Reps from becoming its Circle Members via a Policy, but only if its Roles have another way to enjoy comparable representation within that Circle.
 
-Selecting a Circle Rep happens via the election process and rules defined in Article 3, unless a Policy defines an alternate process. The only candidates eligible to serve as a Circle's Circle Rep are those Partners filling Roles within the Circle. Anyone serving as a Circle Lead for a Circle may not also serve as its Circle Rep. No more than one person may serve as a Circle's Circle Rep at a time, unless a Policy of a containing Circle allows it.
+Selecting a Circle Rep happens via the election process and rules defined in Article 3, unless a Policy defines an alternate process. The only candidates eligible to serve as a Circle's Circle Rep are those Associés filling Roles within the Circle. Anyone serving as a Circle Lead for a Circle may not also serve as its Circle Rep. No more than one person may serve as a Circle's Circle Rep at a time, unless a Policy of a containing Circle allows it.
 
 A Circle may add Accountabilities or Domains to its own Circle Rep Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose or any Accountabilities on the Circle Rep Role, nor remove the Role.
 
@@ -200,8 +200,8 @@ You have a duty to provide transparency in any of the following areas upon reque
 - **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for your Roles.
 - **(b) Relative Priority:** You must share your judgment of the relative priority of any of your Role's Projects or Next-Actions vs. anything else competing for your attention.
 - **(c) Projections:** You must provide a projection of when you expect to complete any of your Role's Projects or Next-Actions. A rough estimate is enough, considering your current context and priorities. Detailed analysis or planning is not required, and this projection is not a commitment in any way. Unless Governance says otherwise, you have no duty to track the projection or follow-up with the recipient if it changes.
-- **(d) Checklist Items:** You must verify completion of any recurring actions that you perform for your Roles or as a Partner of the Organisation. If requested, you must continue to share these verifications regularly, until you believe they are no longer useful.
-- **(e) Metrics:** You must share any metrics you collect in your Roles or as a Partner of the Organisation. If requested, you must continue to share these metrics regularly, until you determine they are no longer useful.
+- **(d) Checklist Items:** You must verify completion of any recurring actions that you perform for your Roles or as a Associé of the Organisation. If requested, you must continue to share these verifications regularly, until you believe they are no longer useful.
+- **(e) Metrics:** You must share any metrics you collect in your Roles or as a Associé of the Organisation. If requested, you must continue to share these metrics regularly, until you determine they are no longer useful.
 - **(f) Progress Updates:** You must share a summary of progress you've made in a Role or towards any of your Role's Projects since the last update you shared. If requested, you must continue to share these updates regularly, until you determine they are no longer useful.
 
 #### 2.3.2 Duty of Processing
@@ -222,11 +222,11 @@ You have a duty to prioritize your attention in alignment with the following:
 
 ### 2.4 Tactical Meetings
 
-In service of a Role, any Partner may convene a ***“Tactical Meeting”*** to engage other Roles in their responsibilities and duties.
+In service of a Role, any Associé may convene a ***“Tactical Meeting”*** to engage other Roles in their responsibilities and duties.
 
 #### 2.4.1 Attendance
 
-The Partner convening a Tactical Meeting must name the Roles desired in that meeting. All Role Leads of those Roles are then invited to attend, unless the convener narrows the invite to include only a subset of Role Leads for a Role. The convener may choose the Facilitator of any relevant Circle to run the meeting.
+The Associé convening a Tactical Meeting must name the Roles desired in that meeting. All Role Leads of those Roles are then invited to attend, unless the convener narrows the invite to include only a subset of Role Leads for a Role. The convener may choose the Facilitator of any relevant Circle to run the meeting.
 
 #### 2.4.2 Facilitation & Process
 
@@ -248,7 +248,7 @@ If an unelected Role invited to a Tactical Meeting is unrepresented in the meeti
 
 ### 2.5 Individual Initiative
 
-As a Partner of the Organisation, in some cases you are authorized to act beyond the authority of your Roles, or break the rules of this Constitution. By acting under this extended authority you are taking ***“Individual Initiative”***, and you are bound by the following rules:
+As a Associé of the Organisation, in some cases you are authorized to act beyond the authority of your Roles, or break the rules of this Constitution. By acting under this extended authority you are taking ***“Individual Initiative”***, and you are bound by the following rules:
 
 #### 2.5.1 Allowed Situations
 
@@ -343,7 +343,7 @@ In addition to any regular Governance Meetings of the Circle, the Secretary must
 
 All Circle Members of a Circle may participate in its Governance Meetings. The acting Facilitator and Secretary may also participate even if they are not Circle Members of the Circle. In that case, they become temporary Circle Members for the duration of the meeting.
 
-As a Circle Rep for a Circle, you may invite any Partner to join the Governance Meeting of any Circle immediately containing your Circle. You may only extend this invitation to one Partner at a time, and only to aid in the processing of a specific Tension affecting the Circle you represent. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. Your invited guest becomes a temporary Circle Member for the duration of the meeting, or until you withdraw the invitation. Your guest may represent your Circle along with you in the meeting, but only while processing that specific Tension.
+As a Circle Rep for a Circle, you may invite any Associé to join the Governance Meeting of any Circle immediately containing your Circle. You may only extend this invitation to one Associé at a time, and only to aid in the processing of a specific Tension affecting the Circle you represent. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. Your invited guest becomes a temporary Circle Member for the duration of the meeting, or until you withdraw the invitation. Your guest may represent your Circle along with you in the meeting, but only while processing that specific Tension.
 
 Beyond the above, no one else may participate in a Circle’s Governance Meetings.
 
@@ -409,13 +409,13 @@ A Circle may also adopt a Policy to define a time limit for responding to asynch
 
 ### 3.5 Interpreting the Constitution & Governance
 
-As a Partner, you may use reasonable judgment to interpret this Constitution and anything under its authority. You may also interpret how these apply within any specific situation you face, and act based on your interpretations.
+As a Associé, you may use reasonable judgment to interpret this Constitution and anything under its authority. You may also interpret how these apply within any specific situation you face, and act based on your interpretations.
 
 You must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it. You may not use any interpretation that conflicts with this context.
 
 #### 3.5.1 Interpretation Conflicts
 
-Your interpretation may sometimes conflict with another Partner's. If that happens, you may ask the Secretary of any affected Circle to rule on which interpretation to use. All Partners must then align with that ruling until the relevant text or context changes. You may appeal a Secretary's interpretation to the Secretary of any Super-Circle. A Super-Circle Secretary may overrule the interpretation of any Sub-Circle Secretary.
+Your interpretation may sometimes conflict with another Associé's. If that happens, you may ask the Secretary of any affected Circle to rule on which interpretation to use. All Associés must then align with that ruling until the relevant text or context changes. You may appeal a Secretary's interpretation to the Secretary of any Super-Circle. A Super-Circle Secretary may overrule the interpretation of any Sub-Circle Secretary.
 
 #### 3.5.2 Interpretation Precedents
 
@@ -423,7 +423,7 @@ After ruling on an interpretation, a Secretary may publish the ruling and the lo
 
 #### 3.5.3 Striking Invalid Governance
 
-Any Partner may ask a Circle's Secretary to rule on the validity of any Governance within that Circle or any Sub-Circle thereof. If the Secretary concludes it violates the rules of this Constitution, the Secretary must strike it from the Circle's records. After doing so, the Secretary must promptly communicate what they struck and why to all of that Circle's Circle Members.
+Any Associé may ask a Circle's Secretary to rule on the validity of any Governance within that Circle or any Sub-Circle thereof. If the Secretary concludes it violates the rules of this Constitution, the Secretary must strike it from the Circle's records. After doing so, the Secretary must promptly communicate what they struck and why to all of that Circle's Circle Members.
 
 ### 3.6 Process Breakdown
 
@@ -451,23 +451,23 @@ If the Circle in Process Breakdown has no Super-Circle, then the powers above al
 A Process Breakdown in one Circle is not automatically considered a Process Breakdown of its Super-Circle. However, if it remains unresolved for an unreasonable time, then the Super-Circle is also considered in a Process Breakdown.
 
 
-## Article 4: People & Partnership
+## Article 4: People & Associéship
 
-### 4.1 Partner Relationships
+### 4.1 Associé Relationships
 
-The Organisation may grant Partner status to anyone who has agreed to abide by this Constitution while working on its behalf. This creates a ***“Partner Relationship”*** between that person and the Organisation. Any promises either party makes to the other in conjunction with the grant of Partner status are part of that Partner Relationship. Unless otherwise agreed, each party needs the other's consent to change these agreements. However, either party may still end the Partner Relationship without the consent of the other. Doing so immediately ends that person's rights and responsibilities as a Partner.
+The Organisation may grant Associé status to anyone who has agreed to abide by this Constitution while working on its behalf. This creates a ***“Associé Relationship”*** between that person and the Organisation. Any promises either party makes to the other in conjunction with the grant of Associé status are part of that Associé Relationship. Unless otherwise agreed, each party needs the other's consent to change these agreements. However, either party may still end the Associé Relationship without the consent of the other. Doing so immediately ends that person's rights and responsibilities as a Associé.
 
 ### 4.2 Working Agreements
 
-The Organisation's Partners may make ***“Working Agreements”*** with each other. These are agreements about how the Partners will relate together or fulfill their general functions as Partners. They must focus on shaping behaviors that generally underpin work. They may not set expectations of work to do in a Role, nor expectations about how a Partner will prioritize across different Roles. Further, they may only specify concrete acts to do or behavioral constraints to honor. They may not include promises to achieve specific outcomes or embody abstract qualities.
+The Organisation's Associés may make ***“Working Agreements”*** with each other. These are agreements about how the Associés will relate together or fulfill their general functions as Associés. They must focus on shaping behaviors that generally underpin work. They may not set expectations of work to do in a Role, nor expectations about how a Associé will prioritize across different Roles. Further, they may only specify concrete acts to do or behavioral constraints to honor. They may not include promises to achieve specific outcomes or embody abstract qualities.
 
-As a Partner, you may request a Working Agreement of another Partner for your own personal preferences or to serve a Role you fill. That Partner may accept or reject the requested Working Agreement based on their own personal preferences. Either party may later terminate the agreement without the consent of the other party, unless otherwise agreed.
+As a Associé, you may request a Working Agreement of another Associé for your own personal preferences or to serve a Role you fill. That Associé may accept or reject the requested Working Agreement based on their own personal preferences. Either party may later terminate the agreement without the consent of the other party, unless otherwise agreed.
 
-As a Partner, you have a duty to align your behavior with any Working Agreements you have made. A Facilitator may also enforce Working Agreements while facilitating meetings, as long as they don't conflict with the processes and rules in this Constitution.
+As a Associé, you have a duty to align your behavior with any Working Agreements you have made. A Facilitator may also enforce Working Agreements while facilitating meetings, as long as they don't conflict with the processes and rules in this Constitution.
 
 ### 4.3 Power Shift
 
-All of your responsibilities and constraints as a Partner of the Organisation come from this Constitution and the Governance and Working Agreements it empowers, or from your legal duties to the Organisation or while acting on its behalf. No implicit expectations or constraints carry any weight or authority. Nor do any dictates issued under the Organisation's old power structure before it adopted this Constitution. As a Partner, you may rely upon the authorities granted by this Constitution to the full extent the Ratifieurs held such authorities before adopting it.
+All of your responsibilities and constraints as a Associé of the Organisation come from this Constitution and the Governance and Working Agreements it empowers, or from your legal duties to the Organisation or while acting on its behalf. No implicit expectations or constraints carry any weight or authority. Nor do any dictates issued under the Organisation's old power structure before it adopted this Constitution. As a Associé, you may rely upon the authorities granted by this Constitution to the full extent the Ratifieurs held such authorities before adopting it.
 
 ---
 
@@ -484,7 +484,7 @@ All of your responsibilities and constraints as a Partner of the Organisation co
 **Accountabilities:**
 
 - Defining Roles and/or Policies via the Circle's Governance Process to enact its Purpose and Accountabilities
-- Assigning Partners to the Circle’s Roles, monitoring the fit, and re-assigning Roles to other Partners to optimize fit
+- Assigning Associés to the Circle’s Roles, monitoring the fit, and re-assigning Roles to other Associés to optimize fit
 - Judging the relative value of Circle efforts on request to resolve priority conflicts across Roles
 
 _The Circle Lead also holds all Accountabilities on the Circle to the extent they are not covered by the Circle's Roles or processes._
