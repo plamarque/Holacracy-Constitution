@@ -1,8 +1,8 @@
-# **Holacracy Constitution**
+# ** Constitution Holacracy**
 
-## Preamble
+## Préambule
 
-The ***“Ratifiers”*** are adopting this ***“Constitution”*** as the formal authority structure of the specified ***“Organization”***. In so doing, the Ratifiers cede their power to govern and run the Organization into the Constitution's rules and processes, except for any powers that the Ratifiers lack the authority to delegate. The Ratifiers and all other ***“Partners”*** the Organization has engaged to take part in its governance and operations must do so under the authorities and constraints defined herein.
+Les ***“Ratificateurs”*** adoptent cette ***“Constitution”*** comme structure d'autorité formelle de l'***“Organisation”***. Ce faisant, les Ratificateurs cèdent leur pouvoir de gouverner et appliquent les règles et processus de la Constitution au sein de l'Organisation, à l'exception de tout pouvoirs que les Ratificateurs n'ont pas l'autorité de déléguer. Les Ratificateurs et tous les autres ***“Partenaires”*** que l'Organisation a impliqué dans sa gouvernance et ses opérations doivent le faire sous les autorités et contraintes définies dessous.
 
 Any existing policies and systems the Organization has in effect before adopting this Constitution continue in full force after adoption, even if they include authorities or constraints that were not created under the Constitution's processes. However, these legacy policies and systems may not be expanded or modified, and lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.
 
