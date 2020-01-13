@@ -8,11 +8,11 @@ Toutes les politiques et systèmes existants dans l'Organisation avant d'adopter
 
 Les Ratifieurs ou leurs successeurs peuvent amender ou abroger la présente Constitution en utilisant le processus sur lequel ils se sont appuyés pour l'adopter. Les amendements doivent être rédigés et publiés dans un endroit où les Partenaires peuvent y accéder.
 
-## Article 1: Organizational Structure
+## Article 1: Organisational Structure
 
 ### 1.1 Roles
 
-The Organization’s Partners will perform its work while acting in explicitly defined Roles. A ***“Role”*** definition has a descriptive name and one or more of the following:
+The Organisation’s Partners will perform its work while acting in explicitly defined Roles. A ***“Role”*** definition has a descriptive name and one or more of the following:
 
 - **(a)** a ***“Purpose”***, which is a capacity, potential, or goal that the Role will pursue or express.
 - **(b)** one or more ***“Domains”***, which are assets, processes, or other things the Role may exclusively control and regulate as its property, for its purpose.
@@ -26,7 +26,7 @@ A Role may control assignments into another Role as a Domain. Anyone filling a R
 
 #### 1.2.1 Eligibility
 
-A Role may only be assigned to a Partner of the Organization, or to someone who has agreed to enact the duties required of the assignment. A Role may be assigned to several people simultaneously. A Policy may further constrain Role assignments or assignment removals.
+A Role may only be assigned to a Partner of the Organisation, or to someone who has agreed to enact the duties required of the assignment. A Role may be assigned to several people simultaneously. A Policy may further constrain Role assignments or assignment removals.
 
 #### 1.2.2 Focusing an Assignment
 
@@ -56,7 +56,7 @@ Granting a Domain to a Role does not delegate any rights the Circle has to contr
 
 #### 1.3.3 Anchor Circle
 
-The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle has no Super-Circle, and holds all authorities and Domains of the Organization. The Anchor Circle may change its own Purpose or Accountabilities via a Policy adopted in its Governance Process.
+The broadest Circle that holds the Purpose of the whole Organisation is its ***“Anchor Circle”***. The Anchor Circle has no Super-Circle, and holds all authorities and Domains of the Organisation. The Anchor Circle may change its own Purpose or Accountabilities via a Policy adopted in its Governance Process.
 
 The Ratifieurs may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.
 
@@ -150,7 +150,7 @@ You may also impact any Domain held by a Circle containing your Role and not fur
 
 You may not exert control or cause a material impact on a Domain delegated to a Role or Circle that doesn't contain your Role, unless you get permission. Nor may you do so on a Domain owned by another sovereign entity without permission.
 
-When you need permission to impact a Domain, you may get it from whomever controls that Domain. You may also get permission by announcing your intent to take a specific action, and inviting anyone with a relevant Domain to object. You must then wait a reasonable time to allow responses. If no one objects in that time, you then have permission to impact any Domains owned by any Role in the Organization that your announcement reached. You may assume a written announcement reached anyone who typically reads messages in the channel you used. Any permission so granted only applies while taking the specific action you announced. A Policy may further change or constrain this process.
+When you need permission to impact a Domain, you may get it from whomever controls that Domain. You may also get permission by announcing your intent to take a specific action, and inviting anyone with a relevant Domain to object. You must then wait a reasonable time to allow responses. If no one objects in that time, you then have permission to impact any Domains owned by any Role in the Organisation that your announcement reached. You may assume a written announcement reached anyone who typically reads messages in the channel you used. Any permission so granted only applies while taking the specific action you announced. A Policy may further change or constrain this process.
 
 #### 2.1.3 Don't Spend Money
 
@@ -185,13 +185,13 @@ You are responsible for capturing and tracking all Projects and Next-Actions for
 
 #### 2.2.5 Prioritizing Your Attention
 
-Whenever you have time available to act in a Role, you are responsible for considering the Next-Actions you could take, and executing whichever you believe would add the most value to the Organization. In assessing that, you must integrate any relative prioritizations and Strategies of the Circle holding your Role, as well as any acting upon that Circle itself. If you intend to prioritize in a way that is substantially opposed to these priorities, you must notify the relevant Circle Leads of your intent.
+Whenever you have time available to act in a Role, you are responsible for considering the Next-Actions you could take, and executing whichever you believe would add the most value to the Organisation. In assessing that, you must integrate any relative prioritizations and Strategies of the Circle holding your Role, as well as any acting upon that Circle itself. If you intend to prioritize in a way that is substantially opposed to these priorities, you must notify the relevant Circle Leads of your intent.
 
 If the Governance of a Circle includes a deadline specifying when something must be done by, you do not necessarily have to meet that deadline. Instead, you must interpret it as an official Circle prioritization of any actions needed to hit that deadline over any other actions for that Circle. A Circle Lead or another Role or process with the authority to judge Circle priorities may overrule this prioritization.
 
 ### 2.3 Duties to Other Role-Fillers
 
-As a Role Lead, you have the following duties to all others filling Roles in the Organization. These duties only apply when the other party is acting on behalf of one of their own Roles in the Organization, and names that Role on request. 
+As a Role Lead, you have the following duties to all others filling Roles in the Organisation. These duties only apply when the other party is acting on behalf of one of their own Roles in the Organisation, and names that Role on request. 
 
 #### 2.3.1 Duty of Transparency
 
@@ -200,8 +200,8 @@ You have a duty to provide transparency in any of the following areas upon reque
 - **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for your Roles.
 - **(b) Relative Priority:** You must share your judgment of the relative priority of any of your Role's Projects or Next-Actions vs. anything else competing for your attention.
 - **(c) Projections:** You must provide a projection of when you expect to complete any of your Role's Projects or Next-Actions. A rough estimate is enough, considering your current context and priorities. Detailed analysis or planning is not required, and this projection is not a commitment in any way. Unless Governance says otherwise, you have no duty to track the projection or follow-up with the recipient if it changes.
-- **(d) Checklist Items:** You must verify completion of any recurring actions that you perform for your Roles or as a Partner of the Organization. If requested, you must continue to share these verifications regularly, until you believe they are no longer useful.
-- **(e) Metrics:** You must share any metrics you collect in your Roles or as a Partner of the Organization. If requested, you must continue to share these metrics regularly, until you determine they are no longer useful.
+- **(d) Checklist Items:** You must verify completion of any recurring actions that you perform for your Roles or as a Partner of the Organisation. If requested, you must continue to share these verifications regularly, until you believe they are no longer useful.
+- **(e) Metrics:** You must share any metrics you collect in your Roles or as a Partner of the Organisation. If requested, you must continue to share these metrics regularly, until you determine they are no longer useful.
 - **(f) Progress Updates:** You must share a summary of progress you've made in a Role or towards any of your Role's Projects since the last update you shared. If requested, you must continue to share these updates regularly, until you determine they are no longer useful.
 
 #### 2.3.2 Duty of Processing
@@ -248,15 +248,15 @@ If an unelected Role invited to a Tactical Meeting is unrepresented in the meeti
 
 ### 2.5 Individual Initiative
 
-As a Partner of the Organization, in some cases you are authorized to act beyond the authority of your Roles, or break the rules of this Constitution. By acting under this extended authority you are taking ***“Individual Initiative”***, and you are bound by the following rules:
+As a Partner of the Organisation, in some cases you are authorized to act beyond the authority of your Roles, or break the rules of this Constitution. By acting under this extended authority you are taking ***“Individual Initiative”***, and you are bound by the following rules:
 
 #### 2.5.1 Allowed Situations
 
 You may only take Individual Initiative when all of the following are true:
 
-- **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization.
-- **(b)** You believe your action would resolve or prevent more Tension for the Organization than it would likely create.
-- **(c)** Your action would not commit the Organization to any spending beyond what you’re already authorized to spend.
+- **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organisation.
+- **(b)** You believe your action would resolve or prevent more Tension for the Organisation than it would likely create.
+- **(c)** Your action would not commit the Organisation to any spending beyond what you’re already authorized to spend.
 - **(d)** If your action would violate any Policies or Domains, you believe much value would be lost from delaying to get permission or change Governance.
 
 #### 2.5.2 Communication & Restoration
@@ -312,7 +312,7 @@ If at any point the Facilitator becomes clear that a Proposal does not meet this
 A concern about adopting a Proposal only counts as an Objection if the Objector can provide a reasonable argument for why it meets **all** of the following criteria:
 
 - **(a)** The Proposal would reduce the capacity of the Circle to enact its Purpose or Accountabilities.
-- **(b)** The Proposal would limit the Objector's capacity to enact the Purpose or an Accountability of a Role the Objector represents in the Circle, even if the Objector filled no other Roles in the Organization.
+- **(b)** The Proposal would limit the Objector's capacity to enact the Purpose or an Accountability of a Role the Objector represents in the Circle, even if the Objector filled no other Roles in the Organisation.
 - **(c)** The concern does not already exist even in the absence of the Proposal. Thus, a new Tension would be created specifically by adopting the Proposal.
 - **(d)** The Proposal would necessarily cause the impact, or, if it might cause the impact, the Circle wouldn't have an adequate opportunity to adapt before significant harm could result.
 
@@ -455,11 +455,11 @@ A Process Breakdown in one Circle is not automatically considered a Process Brea
 
 ### 4.1 Partner Relationships
 
-The Organization may grant Partner status to anyone who has agreed to abide by this Constitution while working on its behalf. This creates a ***“Partner Relationship”*** between that person and the Organization. Any promises either party makes to the other in conjunction with the grant of Partner status are part of that Partner Relationship. Unless otherwise agreed, each party needs the other's consent to change these agreements. However, either party may still end the Partner Relationship without the consent of the other. Doing so immediately ends that person's rights and responsibilities as a Partner.
+The Organisation may grant Partner status to anyone who has agreed to abide by this Constitution while working on its behalf. This creates a ***“Partner Relationship”*** between that person and the Organisation. Any promises either party makes to the other in conjunction with the grant of Partner status are part of that Partner Relationship. Unless otherwise agreed, each party needs the other's consent to change these agreements. However, either party may still end the Partner Relationship without the consent of the other. Doing so immediately ends that person's rights and responsibilities as a Partner.
 
 ### 4.2 Working Agreements
 
-The Organization's Partners may make ***“Working Agreements”*** with each other. These are agreements about how the Partners will relate together or fulfill their general functions as Partners. They must focus on shaping behaviors that generally underpin work. They may not set expectations of work to do in a Role, nor expectations about how a Partner will prioritize across different Roles. Further, they may only specify concrete acts to do or behavioral constraints to honor. They may not include promises to achieve specific outcomes or embody abstract qualities.
+The Organisation's Partners may make ***“Working Agreements”*** with each other. These are agreements about how the Partners will relate together or fulfill their general functions as Partners. They must focus on shaping behaviors that generally underpin work. They may not set expectations of work to do in a Role, nor expectations about how a Partner will prioritize across different Roles. Further, they may only specify concrete acts to do or behavioral constraints to honor. They may not include promises to achieve specific outcomes or embody abstract qualities.
 
 As a Partner, you may request a Working Agreement of another Partner for your own personal preferences or to serve a Role you fill. That Partner may accept or reject the requested Working Agreement based on their own personal preferences. Either party may later terminate the agreement without the consent of the other party, unless otherwise agreed.
 
@@ -467,7 +467,7 @@ As a Partner, you have a duty to align your behavior with any Working Agreements
 
 ### 4.3 Power Shift
 
-All of your responsibilities and constraints as a Partner of the Organization come from this Constitution and the Governance and Working Agreements it empowers, or from your legal duties to the Organization or while acting on its behalf. No implicit expectations or constraints carry any weight or authority. Nor do any dictates issued under the Organization's old power structure before it adopted this Constitution. As a Partner, you may rely upon the authorities granted by this Constitution to the full extent the Ratifieurs held such authorities before adopting it.
+All of your responsibilities and constraints as a Partner of the Organisation come from this Constitution and the Governance and Working Agreements it empowers, or from your legal duties to the Organisation or while acting on its behalf. No implicit expectations or constraints carry any weight or authority. Nor do any dictates issued under the Organisation's old power structure before it adopted this Constitution. As a Partner, you may rely upon the authorities granted by this Constitution to the full extent the Ratifieurs held such authorities before adopting it.
 
 ---
 
