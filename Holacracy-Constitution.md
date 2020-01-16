@@ -467,7 +467,7 @@ En tant qu'Associé, vous avez le devoir d'aligner votre comportement avec toute
 
 ### 4.3 Power Shift
 
-All of your responsibilities and constraints as a Associé of the Organisation come from this Constitution and the Governance and Working Agreements it empowers, or from your legal duties to the Organisation or while acting on its behalf. No implicit expectations or constraints carry any weight or authority. Nor do any dictates issued under the Organisation's old power structure before it adopted this Constitution. As a Associé, you may rely upon the authorities granted by this Constitution to the full extent the Ratifieurs held such authorities before adopting it.
+All of your responsibilities and constraints as a Associé of the Organisation come from this Constitution and the Governance and Ententes de Travail it empowers, or from your legal duties to the Organisation or while acting on its behalf. No implicit expectations or constraints carry any weight or authority. Nor do any dictates issued under the Organisation's old power structure before it adopted this Constitution. As a Associé, you may rely upon the authorities granted by this Constitution to the full extent the Ratifieurs held such authorities before adopting it.
 
 ---
 
