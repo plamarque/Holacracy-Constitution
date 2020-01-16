@@ -62,11 +62,11 @@ Les Ratifieurs peuvent définir une structure initiale et une Gouvernance diffé
 
 #### 1.3.4 Relier les Cercles
 
-Un Rôle peut choisir de se lier à un autre Cercle si une Politique de cet autre Cercle ou de l'un de ses Super-Cercle l'y invite. Un Rôle doit accepter une telle invitation si une Politique de l'un de ses Super-Cercles l'exige.
+Un Rôle peut choisir de se lier à un autre Cercle si une Politique de cet autre Cercle ou de l'un des Super-Cercle dudit Cercle l'y invite. Un Rôle doit accepter une telle invitation si une Politique de l'un de ses Super-Cercles l'exige.
 
-Dès lors qu'il est relié à un autre Cercle, un Rôle participe à sa Gouvernance. Le Processus de Gouvernance de ce Cercle peut élargir ce Rôle and plus tard changer ce qu'il ajoute. Cependant, il ne peut pas supprimer le Rôle ni changer quoi que ce soit ajouté par un autre Cercle, de même qu'un autre Cercle ne peut pas changer quoi que ce soit ajouté par un autre cercle au Rôle. L'autorité d'ajouter ou changer des affectations à ce Rôle reste dans son Cercle d'origine. Le Cercle auquel un Rôle se lie n'est pas considéré comme son Super-Cercle, ni le Cercle intérieur du Rôle considéré comme un Sous-Cercle du Cercle relié.
+Dès lors qu'il est relié à un autre Cercle, un Rôle participe pleinement à la Gouvernance du Cercle relié. Le Processus de Gouvernance du Cercle relié peut élargir le Rôle lié, et plus tard changer ce qu'il ajoute. Cependant, il ne peut pas supprimer le Rôle en lui-même ni changer quoi que ce soit d'ajouté par un autre Cercle, de même qu'un autre Cercle ne peut pas changer quoi que ce soit d'ajouté par un autre cercle au Rôle. L'autorité d'affectation à ce Rôle reste dans son Cercle d'origine. Le Cercle relié n'est pas considéré comme le Super-Cercle du lien, ni le Cercle intérieur du lien considéré comme un Sous-Cercle du Cercle relié.
 
-Un Cercle peut délier un Rôle en supprimant la Politique qui l'a invité à se relier, ou par un autre mécanisme défini dans cette Politique. Un Rôle peut aussi choisir de se retirer d'un Cercle auquel il est relié, à moins qu'une Politique au sein ou agissant sur le Super-Cercle du Rôle n'en décide autrement. Une fois délié d'un Cercle, toute Gouvernance ajoutée au Rôle par ce Cercle est automatiquement supprimée.
+Un Cercle peut délier un Rôle en supprimant la Politique qui l'a invité à se relier, ou par un autre mécanisme défini dans cette Politique. Un Rôle peut aussi choisir de se retirer d'un Cercle auquel il est relié, à moins qu'une Politique au sein du - ou agissant sur - le Super-Cercle du Rôle n'en décide autrement. Une fois délié, toute Gouvernance ajoutée au Rôle par un Cercle aupravant relié est automatiquement supprimée.
 
 #### 1.3.5 Créer des Cercles Transverses aux Rôles
 
