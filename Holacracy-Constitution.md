@@ -457,9 +457,9 @@ A Process Breakdown in one Circle is not automatically considered a Process Brea
 
 The Organisation may grant Associé status to anyone who has agreed to abide by this Constitution while working on its behalf. This creates a ***“Associé Relationship”*** between that person and the Organisation. Any promises either party makes to the other in conjunction with the grant of Associé status are part of that Associé Relationship. Unless otherwise agreed, each party needs the other's consent to change these agreements. However, either party may still end the Associé Relationship without the consent of the other. Doing so immediately ends that person's rights and responsibilities as a Associé.
 
-### 4.2 Working Agreements
+### 4.2 Ententes de Travail
 
-The Organisation's Associés may make ***“Working Agreements”*** with each other. These are agreements about how the Associés will relate together or fulfill their general functions as Associés. They must focus on shaping behaviors that generally underpin work. They may not set expectations of work to do in a Role, nor expectations about how a Associé will prioritize across different Roles. Further, they may only specify concrete acts to do or behavioral constraints to honor. They may not include promises to achieve specific outcomes or embody abstract qualities.
+Les Associés de l'Organisation peuvent passer des ***“Ententes de Travail”*** entre eux. Ce sont des accords sur la façon dont les Associés se comporteront ensemble ou rempliront leurs fonctions générales en tant qu'Associés. Ils doivent se focaliser à façonner les comportements en rapport avec le travail. Ils ne devraient pas fixer des attentes sur le travail d'un Role, ni d'attentes sur comment un Associé priorisera ses différents Rôles. De plus, ils ne peuvent spécifier que des actes concrets à faire ou des contraintes comportementales à honorer. Ils ne doivent pas inclure des promesses d'atteindre des résultats particuliers ou d'incarner des qualités abstraites.
 
 As a Associé, you may request a Working Agreement of another Associé for your own personal preferences or to serve a Role you fill. That Associé may accept or reject the requested Working Agreement based on their own personal preferences. Either party may later terminate the agreement without the consent of the other party, unless otherwise agreed.
 
