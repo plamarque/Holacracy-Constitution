@@ -32,9 +32,9 @@ Un Rôle peut seulement être affecté à un Associé de l'Organisation, ou à q
 
 Celui qui décide d'une affectation de Rôle peut la focaliser sur seulement une zone ou un contexte particulier, si tous les champs de la définition du Rôle restent valables dans ce focus. Chaque focus est traité comme un Rôle entièrement séparé, mais la Raison d’Être du Rôle, ses Redevabilités, et Domaines s'appliquent uniquement dans le focus spécifié pour chaque affectation.
 
-#### 1.2.3 Resigning from Rôles
+#### 1.2.3 Renoncer à des Rôles
 
-As a Associé, you may decline a Rôle assignment or resign from a Rôle at any time, unless you’ve agreed otherwise.
+En tant qu'Associé, vous pouvez décliner l'affectation d'un Rôle ou y renoncer à tout moment, à moins que vous n'en ayez convenu autrement.
 
 ### 1.3 Circles
 
