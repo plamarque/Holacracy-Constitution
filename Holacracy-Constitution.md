@@ -461,7 +461,7 @@ The Organisation may grant Associé status to anyone who has agreed to abide by 
 
 Les Associés de l'Organisation peuvent passer des ***“Ententes de Travail”*** entre eux. Ce sont des accords sur la façon dont les Associés se comporteront ensemble ou rempliront leurs fonctions générales en tant qu'Associés. Ils doivent se focaliser à façonner les comportements en rapport avec le travail. Ils ne devraient pas fixer des attentes sur le travail d'un Role, ni d'attentes sur comment un Associé priorisera ses différents Rôles. De plus, ils ne peuvent spécifier que des actes concrets à faire ou des contraintes comportementales à honorer. Ils ne doivent pas inclure des promesses d'atteindre des résultats particuliers ou d'incarner des qualités abstraites.
 
-As a Associé, you may request a Working Agreement of another Associé for your own personal preferences or to serve a Role you fill. That Associé may accept or reject the requested Working Agreement based on their own personal preferences. Either party may later terminate the agreement without the consent of the other party, unless otherwise agreed.
+En tant qu'Associé, vous pouvez demander une Entente de Travail à un autre Associé pour votre convenance personnelle ou pour servir un Rôle que vous remplissez. Cet Associé peut accepter or rejeter l'Entente de Travail demandée selon ses convenances personnelles. Chaque partie peut terminer l'entente sans le conssentement de l'autre partie, sauf s'il est convenu autrement.
 
 As a Associé, you have a duty to align your behavior with any Working Agreements you have made. A Facilitator may also enforce Working Agreements while facilitating meetings, as long as they don't conflict with the processes and rules in this Constitution.
 
