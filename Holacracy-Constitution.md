@@ -22,7 +22,7 @@ Un Rôle peut aussi contenir des ***“Politiques”***, qui sont des octrois ou
 
 ### 1.2 Rôle Assignment
 
-A Rôle may control assignments into another Rôle as a Domain. Anyone filling a Rôle with such a Domain may assign people to fill the target Rôle or remove people from that Rôle at any time. Anyone so assigned becomes the ***"Rôle Lead"*** for that Rôle. When a Rôle is unfilled, the Rôle Leads of the assigning Rôle are automatically considered the Rôle Leads of the unfilled Rôle as well.
+A Rôle may control assignments into another Rôle as a Domaine. Anyone filling a Rôle with such a Domaine may assign people to fill the target Rôle or remove people from that Rôle at any time. Anyone so assigned becomes the ***"Rôle Lead"*** for that Rôle. When a Rôle is unfilled, the Rôle Leads of the assigning Rôle are automatically considered the Rôle Leads of the unfilled Rôle as well.
 
 #### 1.2.1 Eligibility
 
@@ -30,7 +30,7 @@ A Rôle may only be assigned to a Associé of the Organisation, or to someone wh
 
 #### 1.2.2 Focusing an Assignment
 
-A Rôle assigner may focus an assignment on only a specific area or context, if all fields in the Rôle definition are still relevant within that focus. When a focus is used, each assignment focus is treated like an entirely separate Rôle, and the Rôle's Purpose, Redevabilités, and Domains apply only within the focus specified for each assignment.
+A Rôle assigner may focus an assignment on only a specific area or context, if all fields in the Rôle definition are still relevant within that focus. When a focus is used, each assignment focus is treated like an entirely separate Rôle, and the Rôle's Raison d’Être, Redevabilités, and Domaines apply only within the focus specified for each assignment.
 
 #### 1.2.3 Resigning from Rôles
 
@@ -38,7 +38,7 @@ As a Associé, you may decline a Rôle assignment or resign from a Rôle at any 
 
 ### 1.3 Circles
 
-A ***“Circle”*** is a container for organizing Rôles and Policies around a common Purpose. The Rôles and Policies within a Circle make up its acting ***“Governance”***. No one may change a Circle's Governance except through its ***“Governance Process”***, described in Article 3.
+A ***“Circle”*** is a container for organizing Rôles and Policies around a common Raison d’Être. The Rôles and Policies within a Circle make up its acting ***“Governance”***. No one may change a Circle's Governance except through its ***“Governance Process”***, described in Article 3.
 
 #### 1.3.1 Breaking Down Rôles
 
@@ -46,17 +46,17 @@ Every Rôle is also a Circle internally. A Rôle's inner Circle can hold Rôles 
 
 A Rôle and its inner Circle is considered a ***“Sub-Circle”*** of the broader Circle that holds the Rôle, while that broader Circle is its ***“Super-Circle”***.
 
-#### 1.3.2 Delegating Domains
+#### 1.3.2 Delegating Domaines
 
-When a Circle grants a Domain to one of its Rôles, any Rôle Lead for that Rôle may control that Domain on behalf of the Circle. A Circle may only grant Domains to its Rôles that fall within the Circle's own Domains, or that are only relevant within its own internal processes.
+When a Circle grants a Domaine to one of its Rôles, any Rôle Lead for that Rôle may control that Domaine on behalf of the Circle. A Circle may only grant Domaines to its Rôles that fall within the Circle's own Domaines, or that are only relevant within its own internal processes.
 
-Once a Rôle controls a Domain, it may create Policies governing that Domain within its own Governance Process. However, the Circle that delegated the Domain retains the right to define its own Policies governing that Domain. Any such Policies trump those defined by the Rôle in the event of a conflict.
+Once a Rôle controls a Domaine, it may create Policies governing that Domaine within its own Governance Process. However, the Circle that delegated the Domaine retains the right to define its own Policies governing that Domaine. Any such Policies trump those defined by the Rôle in the event of a conflict.
 
-Granting a Domain to a Rôle does not delegate any rights the Circle has to control spending of money or assets, unless explicitly specified.
+Granting a Domaine to a Rôle does not delegate any rights the Circle has to control spending of money or assets, unless explicitly specified.
 
 #### 1.3.3 Anchor Circle
 
-The broadest Circle that holds the Purpose of the whole Organisation is its ***“Anchor Circle”***. The Anchor Circle has no Super-Circle, and holds all authorities and Domains of the Organisation. The Anchor Circle may change its own Purpose or Redevabilités via a Policy adopted in its Governance Process.
+The broadest Circle that holds the Raison d’Être of the whole Organisation is its ***“Anchor Circle”***. The Anchor Circle has no Super-Circle, and holds all authorities and Domaines of the Organisation. The Anchor Circle may change its own Raison d’Être or Redevabilités via a Policy adopted in its Governance Process.
 
 The Ratifieurs may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.
 
@@ -70,7 +70,7 @@ A Circle may unlink a Rôle by removing the Policy that invited it to link, or b
 
 #### 1.3.5 Creating Circles Across Rôles
 
-Two or more Rôles may create a new Circle at any time to govern a shared Purpose across the Rôles. To do so, the founding Rôles must agree on an initial Purpose and any Redevabilités for the new Circle. The new Circle starts with the founding Rôles linked into it, and a Policy inviting those links. A Circle created this way has no Super-Circle and no Domains, and may change its own Purpose or Redevabilités via a Policy. Such a Circle is immediately dissolved if it has no Rôles linked into it at any point.
+Two or more Rôles may create a new Circle at any time to govern a shared Raison d’Être across the Rôles. To do so, the founding Rôles must agree on an initial Raison d’Être and any Redevabilités for the new Circle. The new Circle starts with the founding Rôles linked into it, and a Policy inviting those links. A Circle created this way has no Super-Circle and no Domaines, and may change its own Raison d’Être or Redevabilités via a Policy. Such a Circle is immediately dissolved if it has no Rôles linked into it at any point.
 
 ### 1.4 Circle Leads
 
@@ -86,7 +86,7 @@ Whenever Governance outside the Circle references the Circle itself or any Rôle
 
 #### 1.4.3 Amending the Circle Lead Rôle
 
-A Circle may not add Redevabilités or other functions to its own Circle Lead Rôle, nor change the Rôle’s Purpose, nor remove the Rôle. A Circle may remove any Redevabilités, Domains, authorities, or functions of its Circle Lead Rôle. It can do this either by placing them on another Rôle in the Circle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant element from the Circle Lead Rôle, for as long as the delegation remains in place.
+A Circle may not add Redevabilités or other functions to its own Circle Lead Rôle, nor change the Rôle’s Raison d’Être, nor remove the Rôle. A Circle may remove any Redevabilités, Domaines, authorities, or functions of its Circle Lead Rôle. It can do this either by placing them on another Rôle in the Circle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant element from the Circle Lead Rôle, for as long as the delegation remains in place.
 
 ### 1.5 Circle Members
 
@@ -102,7 +102,7 @@ The Circle Rep becomes a Circle Member of any broader Circle containing that Cir
 
 Selecting a Circle Rep happens via the election process and rules defined in Article 3, unless a Policy defines an alternate process. The only candidates eligible to serve as a Circle's Circle Rep are those Associés filling Rôles within the Circle. Anyone serving as a Circle Lead for a Circle may not also serve as its Circle Rep. No more than one person may serve as a Circle's Circle Rep at a time, unless a Policy of a containing Circle allows it.
 
-A Circle may add Redevabilités or Domains to its own Circle Rep Rôle, as well as amend or remove those additions. No Circle may amend or remove the Purpose or any Redevabilités on the Circle Rep Rôle, nor remove the Rôle.
+A Circle may add Redevabilités or Domaines to its own Circle Rep Rôle, as well as amend or remove those additions. No Circle may amend or remove the Raison d’Être or any Redevabilités on the Circle Rep Rôle, nor remove the Rôle.
 
 ### 1.6 Facilitator and Secretary
 
@@ -118,7 +118,7 @@ During the election process, the Facilitator must specify a term for each electi
 
 #### 1.6.3 Amending Facilitator or Secretary
 
-A Circle may add Redevabilités or Domains to its own Facilitator or Secretary Rôle, as well as amend or remove those additions. No Circle may amend or remove the Purpose, Domain, or any Redevabilités on either Rôle, nor remove the Rôle.
+A Circle may add Redevabilités or Domaines to its own Facilitator or Secretary Rôle, as well as amend or remove those additions. No Circle may amend or remove the Raison d’Être, Domaine, or any Redevabilités on either Rôle, nor remove the Rôle.
 
 #### 1.6.4 Surrogates
 
@@ -136,27 +136,27 @@ Whenever a surrogate is needed, the surrogate is, in this order of precedence:
 
 ### 2.1 Authority of Rôle-Fillers
 
-When filling a Rôle, you have the authority to take any action or make any decision to enact your Rôle’s Purpose or Redevabilités, as long as you don't break a rule defined in this Constitution.
+When filling a Rôle, you have the authority to take any action or make any decision to enact your Rôle’s Raison d’Être or Redevabilités, as long as you don't break a rule defined in this Constitution.
 
 #### 2.1.1 Don't Violate Policies
 
 While acting in a Rôle, you may not violate any Policies of the Rôle itself or of any Circle containing the Rôle.
 
-#### 2.1.2 Don't Impact Domains
+#### 2.1.2 Don't Impact Domaines
 
-In service of your Rôle, you have the authority to impact and control your Rôle's Domains.
+In service of your Rôle, you have the authority to impact and control your Rôle's Domaines.
 
-You may also impact any Domain held by a Circle containing your Rôle and not further delegated, or any Domain such a Circle itself may impact. But if you believe your impact will be substantially difficult or expensive to undo, you need advance permission.
+You may also impact any Domaine held by a Circle containing your Rôle and not further delegated, or any Domaine such a Circle itself may impact. But if you believe your impact will be substantially difficult or expensive to undo, you need advance permission.
 
-You may not exert control or cause a material impact on a Domain delegated to a Rôle or Circle that doesn't contain your Rôle, unless you get permission. Nor may you do so on a Domain owned by another sovereign entity without permission.
+You may not exert control or cause a material impact on a Domaine delegated to a Rôle or Circle that doesn't contain your Rôle, unless you get permission. Nor may you do so on a Domaine owned by another sovereign entity without permission.
 
-When you need permission to impact a Domain, you may get it from whomever controls that Domain. You may also get permission by announcing your intent to take a specific action, and inviting anyone with a relevant Domain to object. You must then wait a reasonable time to allow responses. If no one objects in that time, you then have permission to impact any Domains owned by any Rôle in the Organisation that your announcement reached. You may assume a written announcement reached anyone who typically reads messages in the channel you used. Any permission so granted only applies while taking the specific action you announced. A Policy may further change or constrain this process.
+When you need permission to impact a Domaine, you may get it from whomever controls that Domaine. You may also get permission by announcing your intent to take a specific action, and inviting anyone with a relevant Domaine to object. You must then wait a reasonable time to allow responses. If no one objects in that time, you then have permission to impact any Domaines owned by any Rôle in the Organisation that your announcement reached. You may assume a written announcement reached anyone who typically reads messages in the channel you used. Any permission so granted only applies while taking the specific action you announced. A Policy may further change or constrain this process.
 
 #### 2.1.3 Don't Spend Money
 
-While energizing your Rôle, you may not spend any money or other assets unless you first get authorized to do so. This authorization must come from a Circle that already has control of those resources for spending purposes. It counts as spending if you dispose of significant property of the Circle, or significantly limit any of its rights.
+While energizing your Rôle, you may not spend any money or other assets unless you first get authorized to do so. This authorization must come from a Circle that already has control of those resources for spending Raison d’Êtres. It counts as spending if you dispose of significant property of the Circle, or significantly limit any of its rights.
 
-To get authorized to spend, you must announce your intent to spend in writing to the Circle you're seeking authorization from. You must share this announcement where all Circle Members of that Circle will typically see it. Your statement must include the reason for the spending, and the Rôle you'll spend from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the spending for extra consideration. You may not proceed with the spending if escalated, however a Circle Lead of that Circle may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Rôle gains control of those resources. You may spend them for your stated purpose, or further authorize others to. The Circle you got authorization from in turn loses this control, however a Circle Lead of that Circle may revoke the authorization at any time.
+To get authorized to spend, you must announce your intent to spend in writing to the Circle you're seeking authorization from. You must share this announcement where all Circle Members of that Circle will typically see it. Your statement must include the reason for the spending, and the Rôle you'll spend from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the spending for extra consideration. You may not proceed with the spending if escalated, however a Circle Lead of that Circle may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Rôle gains control of those resources. You may spend them for your stated Raison d’Être, or further authorize others to. The Circle you got authorization from in turn loses this control, however a Circle Lead of that Circle may revoke the authorization at any time.
 
 A Policy may change this process in any way, or directly authorize a Rôle to control spending of the Circle's resources.
 
@@ -166,11 +166,11 @@ When filling a Rôle, you have the following responsibilities:
 
 #### 2.2.1 Processing Tensions
 
-You are responsible for comparing the actual expression of your Rôle’s Purpose and Redevabilités to your vision for their ideal potential expression, to identify gaps between the two (each gap is a ***“Tension”***). You are then responsible for trying to resolve those Tensions.
+You are responsible for comparing the actual expression of your Rôle’s Raison d’Être and Redevabilités to your vision for their ideal potential expression, to identify gaps between the two (each gap is a ***“Tension”***). You are then responsible for trying to resolve those Tensions.
 
-#### 2.2.2 Processing Purpose & Redevabilités
+#### 2.2.2 Processing Raison d’Être & Redevabilités
 
-You are responsible for regularly considering how to enact your Rôle's Purpose and each Redevabilité, by defining:
+You are responsible for regularly considering how to enact your Rôle's Raison d’Être and each Redevabilité, by defining:
 
 - **(a)** ***“Next-Actions”***, which are useful actions that you could take immediately, at least in the absence of competing priorities; and
 - **(b)** ***“Projects”***, which are specific outcomes that would be useful to work towards, at least in the absence of competing priorities.
@@ -208,9 +208,9 @@ You have a duty to provide transparency in any of the following areas upon reque
 
 You have a duty to promptly process messages and requests, as follows:
 
-- **(a) Requests for Processing:** Others may ask you to process the Purpose or any Redevabilité or Project of a Rôle you fill. You must then determine and communicate a Next-Action to move it forward, if there are any you could take. If there are not, you must instead share what you’re waiting on before you can take a Next-Action. If the Next-Action or waiting-on you share is part of a broader outcome for your Rôle to pursue, you must also capture and communicate that as a Project.
+- **(a) Requests for Processing:** Others may ask you to process the Raison d’Être or any Redevabilité or Project of a Rôle you fill. You must then determine and communicate a Next-Action to move it forward, if there are any you could take. If there are not, you must instead share what you’re waiting on before you can take a Next-Action. If the Next-Action or waiting-on you share is part of a broader outcome for your Rôle to pursue, you must also capture and communicate that as a Project.
 - **(b) Requests for Projects & Next-Actions:** Others may ask you to take on a specific Next-Action or Project in one of your Rôles. You must accept and track it if you believe it would make sense to work towards in your Rôle, at least in the absence of competing priorities. If you don't, then you must either explain your reasoning, or suggest something else that you believe will meet the requester’s goal instead.
-- **(c) Requests to Impact Domain:** Others may ask to impact a Domain controlled by one of your Rôles. You must allow the impact if you see no Objections to the request, as defined in Article 3. If you do, you must explain any Objections to the requester.
+- **(c) Requests to Impact Domaine:** Others may ask to impact a Domaine controlled by one of your Rôles. You must allow the impact if you see no Objections to the request, as defined in Article 3. If you do, you must explain any Objections to the requester.
 - **(d) Requests for Information:** Others may ask you questions or request information. You must respond in good faith with at least brief answers or relevant information that's readily available to you.
 
 #### 2.3.3 Duty of Prioritization
@@ -254,10 +254,10 @@ As a Associé of the Organisation, in some cases you are authorized to act beyon
 
 You may only take Individual Initiative when all of the following are true:
 
-- **(a)** You are acting in good faith to serve the Purpose or express the Redevabilités of some Rôle within the Organisation.
+- **(a)** You are acting in good faith to serve the Raison d’Être or express the Redevabilités of some Rôle within the Organisation.
 - **(b)** You believe your action would resolve or prevent more Tension for the Organisation than it would likely create.
 - **(c)** Your action would not commit the Organisation to any spending beyond what you’re already authorized to spend.
-- **(d)** If your action would violate any Policies or Domains, you believe much value would be lost from delaying to get permission or change Governance.
+- **(d)** If your action would violate any Policies or Domaines, you believe much value would be lost from delaying to get permission or change Governance.
 
 #### 2.5.2 Communication & Restoration
 
@@ -274,8 +274,8 @@ Within a Circle's Governance Process, the Circle may:
 
 - **(a)** define, amend, or remove its own Rôles; and
 - **(b)** define, amend, or remove its own Policies; and
-- **(c)** move its own Rôles or Policies into a Sub-Circle or any Sub-Circle thereof, but only if they enact the Purpose or Redevabilités of that Circle; and
-- **(d)** move Rôles or Policies from within a Sub-Circle or any Sub-Circle thereof out into itself, but only if they are no longer relevant to enacting the Purpose or Redevabilités of that Circle; and
+- **(c)** move its own Rôles or Policies into a Sub-Circle or any Sub-Circle thereof, but only if they enact the Raison d’Être or Redevabilités of that Circle; and
+- **(d)** move Rôles or Policies from within a Sub-Circle or any Sub-Circle thereof out into itself, but only if they are no longer relevant to enacting the Raison d’Être or Redevabilités of that Circle; and
 - **(e)** hold elections for any elected Rôle within the Circle.
 
 No other decisions are valid outputs from a Circle's Governance Process.
@@ -286,7 +286,7 @@ A Policy may only be one or more of the following:
 
 - **(a)** a constraint on the authority of one or more of the Circle's contained Rôles; or
 - **(b)** a grant of an authority the Circle or Circle Lead holds to one or more Rôles; or
-- **(c)** a grant of authority that allows people or Rôles not otherwise authorized to control or impact one of the Circle's Domains, or a constraint on how they may do so when otherwise authorized; or
+- **(c)** a grant of authority that allows people or Rôles not otherwise authorized to control or impact one of the Circle's Domaines, or a constraint on how they may do so when otherwise authorized; or
 - **(d)** a rule that changes a default rule or process in this Constitution, if that change is explicitly allowed.
 
 A Policy that grants or constrains authority applies in all Sub-Circles as well, recursively, unless otherwise stated. A Policy that changes a default rule or process in the Constitution applies only within the Circle that holds the Policy, or, if explicitly stated, within all Sub-Circles as well, recursively. In the latter case, a Sub-Circle may still override that Policy via one of its own, unless explicitly forbidden in the original Policy.
@@ -311,8 +311,8 @@ If at any point the Facilitator becomes clear that a Proposal does not meet this
 
 A concern about adopting a Proposal only counts as an Objection if the Objector can provide a reasonable argument for why it meets **all** of the following criteria:
 
-- **(a)** The Proposal would reduce the capacity of the Circle to enact its Purpose or Redevabilités.
-- **(b)** The Proposal would limit the Objector's capacity to enact the Purpose or an Redevabilité of a Rôle the Objector represents in the Circle, even if the Objector filled no other Rôles in the Organisation.
+- **(a)** The Proposal would reduce the capacity of the Circle to enact its Raison d’Être or Redevabilités.
+- **(b)** The Proposal would limit the Objector's capacity to enact the Raison d’Être or an Redevabilité of a Rôle the Objector represents in the Circle, even if the Objector filled no other Rôles in the Organisation.
 - **(c)** The concern does not already exist even in the absence of the Proposal. Thus, a new Tension would be created specifically by adopting the Proposal.
 - **(d)** The Proposal would necessarily cause the impact, or, if it might cause the impact, the Circle wouldn't have an adequate opportunity to adapt before significant harm could result.
 
@@ -411,7 +411,7 @@ A Circle may also adopt a Policy to define a time limit for responding to asynch
 
 As a Associé, you may use reasonable judgment to interpret this Constitution and anything under its authority. You may also interpret how these apply within any specific situation you face, and act based on your interpretations.
 
-You must interpret all Governance in the context of the Purpose and Redevabilités of the Circle containing it. You may not use any interpretation that conflicts with this context.
+You must interpret all Governance in the context of the Raison d’Être and Redevabilités of the Circle containing it. You may not use any interpretation that conflicts with this context.
 
 #### 3.5.1 Interpretation Conflicts
 
@@ -475,15 +475,15 @@ All of your responsibilities and constraints as a Associé of the Organisation c
 
 ## Circle Lead
 
-**Purpose:** _The Circle Lead holds the Purpose of the overall Circle._
+**Raison d’Être:** _The Circle Lead holds the Raison d’Être of the overall Circle._
 
-**Domains:**
+**Domaines:**
 
 - Rôle assignments for the Circle's Rôles
 
 **Redevabilités:**
 
-- Defining Rôles and/or Policies via the Circle's Governance Process to enact its Purpose and Redevabilités
+- Defining Rôles and/or Policies via the Circle's Governance Process to enact its Raison d’Être and Redevabilités
 - Assigning Associés to the Circle’s Rôles, monitoring the fit, and re-assigning Rôles to other Associés to optimize fit
 - Judging the relative value of Circle efforts on request to resolve priority conflicts across Rôles
 
@@ -491,7 +491,7 @@ _The Circle Lead also holds all Redevabilités on the Circle to the extent they 
 
 ## Circle Rep
 
-**Purpose:** Tensions relevant to process in a broader Circle channeled out and resolved.
+**Raison d’Être:** Tensions relevant to process in a broader Circle channeled out and resolved.
 
 **Redevabilités:**
 
@@ -501,7 +501,7 @@ _The Circle Lead also holds all Redevabilités on the Circle to the extent they 
 
 ## Facilitator
 
-**Purpose:** Circle governance and operational practices aligned with the Constitution.
+**Raison d’Être:** Circle governance and operational practices aligned with the Constitution.
 
 **Redevabilités:**
 
@@ -511,9 +511,9 @@ _The Circle Lead also holds all Redevabilités on the Circle to the extent they 
 
 ## Secretary
 
-**Purpose:** Steward the Circle’s governance records and stabilize its record-keeping process.
+**Raison d’Être:** Steward the Circle’s governance records and stabilize its record-keeping process.
 
-**Domains:**
+**Domaines:**
 
 - All governance records of the Circle
 
