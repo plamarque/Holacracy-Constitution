@@ -18,12 +18,12 @@ HolacracyOne n'est pas un cabinet juridique, et la Constitution ne devrait pas �
 ### Licence et Utilisation
 Tout comme Linux®, Wikipedia®, et Java®, Holacracy® est une marque déposée; en l'occurrence, par HolacracyOne LLC. Et comme les autres gardiens de plateformes ouvertes, HolacracyOne aspire à maintenir l'intégrité de sa marque et la qualité de ce qu'elle représente. Ainsi, nous vous invitons à créer et partager vos propres travaux dérivés de la Constitution Holacracy®, selon les termes de notre license open source CC BY-SA 4.0, et de préciser que votre travail est dérivé de la Constitution Officielle Holacracy - merci d'inclure un lien vers http://holacracy.org/constitution. Cependant, au delà de cette référence, vous ne pouvez pas nommer ou représenter vos travaux dérivés en utilisant la marque Holacracy, afin d'éviter toute confusion entre votre version et le document Holacracy officiel. Si vous avez des questions, merci de <a href="http://www.holacracy.org/contact/" target="_blank">contacter HolacracyOne</a>!
 
-### Contributors
-Up to version 4.0, the Holacracy Constitution was developed by Brian Robertson and HolacracyOne. 
+### Contributeurs
+Jusqu'à la version 4.0, la Constitution Holacracy fût développée par Brian Robertson et HolacracyOne. 
 
-Contributors to v4.1 include Brian Robertson, Rashid Gilanpour, Alexia Bowers, djwork, Martina Röll, Olivier Compagne, Koen Veltman, Mieke Byerley, Diederick Janse, Karilen Mays, Bernard Marie Chiquet, Tim Kelley, Dien Kwik, Kræn Hansen and Jeffrey Anthony.
+Les contributeurs à la version v4.1 incluent Brian Robertson, Rashid Gilanpour, Alexia Bowers, djwork, Martina Röll, Olivier Compagne, Koen Veltman, Mieke Byerley, Diederick Janse, Karilen Mays, Bernard Marie Chiquet, Tim Kelley, Dien Kwik, Kræn Hansen et Jeffrey Anthony.
 
-For a list of contributors to v5.0, please see the history of submissions to the Constitution's GitHub repo and issue database.
+Pour une liste des contributeurs de la v5.0, veuillez vous référer à l'historique des soumissions au rep GitHub de la Constitution et le bugtracker.
 
 ---
 
