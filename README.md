@@ -7,10 +7,10 @@ La Constitution Holacracy documente les règles de base, la structure et les pro
 ### Comment la Constitution Holacracy est-elle destinées à être utilisée?
 La Constitution est destinée à servir de référence pour toute déclaration ou accord  capturant la décision de s'organiser selon le système Holacracy. Il peut s'agir d'un règlement légal ou un accord de fonctionnement similaire, ou une simple décision du conseil d'administration ou une déclaration des dirigeants similaire à <a href="https://github.com/holacracyone/Holacracy-Constitution/blob/master/Adoption%20Declaration.md" target="_blank">cet exemple</a>.
 
-### What the Holacracy Constitution isn’t
-The Holacracy Constitution is **not a complete set of legal bylaws or a formal operating agreement**. (HolacracyOne separately publishes its own operating agreement as an example of a legal governing document that references and incorporates this Constitution.)
+### Ce que la Constitution Holacracy n'est pas
+La Constitution Holacracy n'est **pas un ensemble de clauses pour un accord officiel**. HolacracyOne publie séparément son propre accord de fonctionnement comme un exemple de document juridique qui référence et incorpore cette Constitution.
 
-The Constitution is also **not an instruction manual or a guidebook** for learning to use the Holacracy framework. Like the rulebook for a sport, it can serve as a critical reference at times, but reading it will not teach you how to play the game. If you're looking for an introduction, check out HolacracyOne's <a href="http://holacracy.org" target="_blank">website</a>.
+La Constitution n'est **pas non plus un manuel d'instruction ni un guide** pour apprendre l'utilisation du système Holacracy. Comme pour le règlement d'un sport, il peut parfois être une référence critique, mais sa lecture ne vous enseignera pas comment jouer au jeu. Si vous recherchez une introduction, regardez le <a href="http://holacracy.org" target="_blank">site web</a> de HolacracyOne.
 
 ### Legal Disclaimer
 HolacracyOne is not a law firm, and the Constitution should not be construed as a legal document or legal advice. Consult with your attorney about your specific situation before using the Constitution in any legal capacity or for any legal needs. This document is provided "as-is", without warranty or condition of any kind whatsoever. HolacracyOne does not warrant this document’s quality, accuracy, timeliness, completeness, merchantability, or fitness for use or purpose. To the maximum extent provided by law, HolacracyOne and its agents and members shall not be liable for any damages whatsoever arising from the use of this document.
