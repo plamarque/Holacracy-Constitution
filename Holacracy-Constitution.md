@@ -30,7 +30,7 @@ A Role may only be assigned to a Associé of the Organisation, or to someone who
 
 #### 1.2.2 Focusing an Assignment
 
-A Role assigner may focus an assignment on only a specific area or context, if all fields in the Role definition are still relevant within that focus. When a focus is used, each assignment focus is treated like an entirely separate Role, and the Role's Purpose, Accountabilities, and Domains apply only within the focus specified for each assignment.
+A Role assigner may focus an assignment on only a specific area or context, if all fields in the Role definition are still relevant within that focus. When a focus is used, each assignment focus is treated like an entirely separate Role, and the Role's Purpose, Redevabilités, and Domains apply only within the focus specified for each assignment.
 
 #### 1.2.3 Resigning from Roles
 
@@ -56,7 +56,7 @@ Granting a Domain to a Role does not delegate any rights the Circle has to contr
 
 #### 1.3.3 Anchor Circle
 
-The broadest Circle that holds the Purpose of the whole Organisation is its ***“Anchor Circle”***. The Anchor Circle has no Super-Circle, and holds all authorities and Domains of the Organisation. The Anchor Circle may change its own Purpose or Accountabilities via a Policy adopted in its Governance Process.
+The broadest Circle that holds the Purpose of the whole Organisation is its ***“Anchor Circle”***. The Anchor Circle has no Super-Circle, and holds all authorities and Domains of the Organisation. The Anchor Circle may change its own Purpose or Redevabilités via a Policy adopted in its Governance Process.
 
 The Ratifieurs may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.
 
@@ -70,7 +70,7 @@ A Circle may unlink a Role by removing the Policy that invited it to link, or by
 
 #### 1.3.5 Creating Circles Across Roles
 
-Two or more Roles may create a new Circle at any time to govern a shared Purpose across the Roles. To do so, the founding Roles must agree on an initial Purpose and any Accountabilities for the new Circle. The new Circle starts with the founding Roles linked into it, and a Policy inviting those links. A Circle created this way has no Super-Circle and no Domains, and may change its own Purpose or Accountabilities via a Policy. Such a Circle is immediately dissolved if it has no Roles linked into it at any point.
+Two or more Roles may create a new Circle at any time to govern a shared Purpose across the Roles. To do so, the founding Roles must agree on an initial Purpose and any Redevabilités for the new Circle. The new Circle starts with the founding Roles linked into it, and a Policy inviting those links. A Circle created this way has no Super-Circle and no Domains, and may change its own Purpose or Redevabilités via a Policy. Such a Circle is immediately dissolved if it has no Roles linked into it at any point.
 
 ### 1.4 Circle Leads
 
@@ -86,7 +86,7 @@ Whenever Governance outside the Circle references the Circle itself or any Role 
 
 #### 1.4.3 Amending the Circle Lead Role
 
-A Circle may not add Accountabilities or other functions to its own Circle Lead Role, nor change the Role’s Purpose, nor remove the Role. A Circle may remove any Accountabilities, Domains, authorities, or functions of its Circle Lead Role. It can do this either by placing them on another Role in the Circle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant element from the Circle Lead Role, for as long as the delegation remains in place.
+A Circle may not add Redevabilités or other functions to its own Circle Lead Role, nor change the Role’s Purpose, nor remove the Role. A Circle may remove any Redevabilités, Domains, authorities, or functions of its Circle Lead Role. It can do this either by placing them on another Role in the Circle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant element from the Circle Lead Role, for as long as the delegation remains in place.
 
 ### 1.5 Circle Members
 
@@ -102,7 +102,7 @@ The Circle Rep becomes a Circle Member of any broader Circle containing that Cir
 
 Selecting a Circle Rep happens via the election process and rules defined in Article 3, unless a Policy defines an alternate process. The only candidates eligible to serve as a Circle's Circle Rep are those Associés filling Roles within the Circle. Anyone serving as a Circle Lead for a Circle may not also serve as its Circle Rep. No more than one person may serve as a Circle's Circle Rep at a time, unless a Policy of a containing Circle allows it.
 
-A Circle may add Accountabilities or Domains to its own Circle Rep Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose or any Accountabilities on the Circle Rep Role, nor remove the Role.
+A Circle may add Redevabilités or Domains to its own Circle Rep Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose or any Redevabilités on the Circle Rep Role, nor remove the Role.
 
 ### 1.6 Facilitator and Secretary
 
@@ -118,7 +118,7 @@ During the election process, the Facilitator must specify a term for each electi
 
 #### 1.6.3 Amending Facilitator or Secretary
 
-A Circle may add Accountabilities or Domains to its own Facilitator or Secretary Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose, Domain, or any Accountabilities on either Role, nor remove the Role.
+A Circle may add Redevabilités or Domains to its own Facilitator or Secretary Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose, Domain, or any Redevabilités on either Role, nor remove the Role.
 
 #### 1.6.4 Surrogates
 
@@ -136,7 +136,7 @@ Whenever a surrogate is needed, the surrogate is, in this order of precedence:
 
 ### 2.1 Authority of Role-Fillers
 
-When filling a Role, you have the authority to take any action or make any decision to enact your Role’s Purpose or Accountabilities, as long as you don't break a rule defined in this Constitution.
+When filling a Role, you have the authority to take any action or make any decision to enact your Role’s Purpose or Redevabilités, as long as you don't break a rule defined in this Constitution.
 
 #### 2.1.1 Don't Violate Policies
 
@@ -166,11 +166,11 @@ When filling a Role, you have the following responsibilities:
 
 #### 2.2.1 Processing Tensions
 
-You are responsible for comparing the actual expression of your Role’s Purpose and Accountabilities to your vision for their ideal potential expression, to identify gaps between the two (each gap is a ***“Tension”***). You are then responsible for trying to resolve those Tensions.
+You are responsible for comparing the actual expression of your Role’s Purpose and Redevabilités to your vision for their ideal potential expression, to identify gaps between the two (each gap is a ***“Tension”***). You are then responsible for trying to resolve those Tensions.
 
-#### 2.2.2 Processing Purpose & Accountabilities
+#### 2.2.2 Processing Purpose & Redevabilités
 
-You are responsible for regularly considering how to enact your Role's Purpose and each Accountability, by defining:
+You are responsible for regularly considering how to enact your Role's Purpose and each Redevabilité, by defining:
 
 - **(a)** ***“Next-Actions”***, which are useful actions that you could take immediately, at least in the absence of competing priorities; and
 - **(b)** ***“Projects”***, which are specific outcomes that would be useful to work towards, at least in the absence of competing priorities.
@@ -208,7 +208,7 @@ You have a duty to provide transparency in any of the following areas upon reque
 
 You have a duty to promptly process messages and requests, as follows:
 
-- **(a) Requests for Processing:** Others may ask you to process the Purpose or any Accountability or Project of a Role you fill. You must then determine and communicate a Next-Action to move it forward, if there are any you could take. If there are not, you must instead share what you’re waiting on before you can take a Next-Action. If the Next-Action or waiting-on you share is part of a broader outcome for your Role to pursue, you must also capture and communicate that as a Project.
+- **(a) Requests for Processing:** Others may ask you to process the Purpose or any Redevabilité or Project of a Role you fill. You must then determine and communicate a Next-Action to move it forward, if there are any you could take. If there are not, you must instead share what you’re waiting on before you can take a Next-Action. If the Next-Action or waiting-on you share is part of a broader outcome for your Role to pursue, you must also capture and communicate that as a Project.
 - **(b) Requests for Projects & Next-Actions:** Others may ask you to take on a specific Next-Action or Project in one of your Roles. You must accept and track it if you believe it would make sense to work towards in your Role, at least in the absence of competing priorities. If you don't, then you must either explain your reasoning, or suggest something else that you believe will meet the requester’s goal instead.
 - **(c) Requests to Impact Domain:** Others may ask to impact a Domain controlled by one of your Roles. You must allow the impact if you see no Objections to the request, as defined in Article 3. If you do, you must explain any Objections to the requester.
 - **(d) Requests for Information:** Others may ask you questions or request information. You must respond in good faith with at least brief answers or relevant information that's readily available to you.
@@ -254,7 +254,7 @@ As a Associé of the Organisation, in some cases you are authorized to act beyon
 
 You may only take Individual Initiative when all of the following are true:
 
-- **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organisation.
+- **(a)** You are acting in good faith to serve the Purpose or express the Redevabilités of some Role within the Organisation.
 - **(b)** You believe your action would resolve or prevent more Tension for the Organisation than it would likely create.
 - **(c)** Your action would not commit the Organisation to any spending beyond what you’re already authorized to spend.
 - **(d)** If your action would violate any Policies or Domains, you believe much value would be lost from delaying to get permission or change Governance.
@@ -274,8 +274,8 @@ Within a Circle's Governance Process, the Circle may:
 
 - **(a)** define, amend, or remove its own Roles; and
 - **(b)** define, amend, or remove its own Policies; and
-- **(c)** move its own Roles or Policies into a Sub-Circle or any Sub-Circle thereof, but only if they enact the Purpose or Accountabilities of that Circle; and
-- **(d)** move Roles or Policies from within a Sub-Circle or any Sub-Circle thereof out into itself, but only if they are no longer relevant to enacting the Purpose or Accountabilities of that Circle; and
+- **(c)** move its own Roles or Policies into a Sub-Circle or any Sub-Circle thereof, but only if they enact the Purpose or Redevabilités of that Circle; and
+- **(d)** move Roles or Policies from within a Sub-Circle or any Sub-Circle thereof out into itself, but only if they are no longer relevant to enacting the Purpose or Redevabilités of that Circle; and
 - **(e)** hold elections for any elected Role within the Circle.
 
 No other decisions are valid outputs from a Circle's Governance Process.
@@ -311,8 +311,8 @@ If at any point the Facilitator becomes clear that a Proposal does not meet this
 
 A concern about adopting a Proposal only counts as an Objection if the Objector can provide a reasonable argument for why it meets **all** of the following criteria:
 
-- **(a)** The Proposal would reduce the capacity of the Circle to enact its Purpose or Accountabilities.
-- **(b)** The Proposal would limit the Objector's capacity to enact the Purpose or an Accountability of a Role the Objector represents in the Circle, even if the Objector filled no other Roles in the Organisation.
+- **(a)** The Proposal would reduce the capacity of the Circle to enact its Purpose or Redevabilités.
+- **(b)** The Proposal would limit the Objector's capacity to enact the Purpose or an Redevabilité of a Role the Objector represents in the Circle, even if the Objector filled no other Roles in the Organisation.
 - **(c)** The concern does not already exist even in the absence of the Proposal. Thus, a new Tension would be created specifically by adopting the Proposal.
 - **(d)** The Proposal would necessarily cause the impact, or, if it might cause the impact, the Circle wouldn't have an adequate opportunity to adapt before significant harm could result.
 
@@ -411,7 +411,7 @@ A Circle may also adopt a Policy to define a time limit for responding to asynch
 
 As a Associé, you may use reasonable judgment to interpret this Constitution and anything under its authority. You may also interpret how these apply within any specific situation you face, and act based on your interpretations.
 
-You must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it. You may not use any interpretation that conflicts with this context.
+You must interpret all Governance in the context of the Purpose and Redevabilités of the Circle containing it. You may not use any interpretation that conflicts with this context.
 
 #### 3.5.1 Interpretation Conflicts
 
@@ -481,19 +481,19 @@ All of your responsibilities and constraints as a Associé of the Organisation c
 
 - Role assignments for the Circle's Roles
 
-**Accountabilities:**
+**Redevabilités:**
 
-- Defining Roles and/or Policies via the Circle's Governance Process to enact its Purpose and Accountabilities
+- Defining Roles and/or Policies via the Circle's Governance Process to enact its Purpose and Redevabilités
 - Assigning Associés to the Circle’s Roles, monitoring the fit, and re-assigning Roles to other Associés to optimize fit
 - Judging the relative value of Circle efforts on request to resolve priority conflicts across Roles
 
-_The Circle Lead also holds all Accountabilities on the Circle to the extent they are not covered by the Circle's Roles or processes._
+_The Circle Lead also holds all Redevabilités on the Circle to the extent they are not covered by the Circle's Roles or processes._
 
 ## Circle Rep
 
 **Purpose:** Tensions relevant to process in a broader Circle channeled out and resolved.
 
-**Accountabilities:**
+**Redevabilités:**
 
 - Seeking to understand Tensions conveyed by Role-fillers within the Circle
 - Discerning Tensions appropriate to process within a broader Circle that holds the Circle
@@ -503,7 +503,7 @@ _The Circle Lead also holds all Accountabilities on the Circle to the extent the
 
 **Purpose:** Circle governance and operational practices aligned with the Constitution.
 
-**Accountabilities:**
+**Redevabilités:**
 
 - Facilitating the Governance Process and Tactical Meetings of the Circle or for its Roles
 - Coaching other Circle Members on the Constitution's rules and processes, either on request or when needed for effective meetings
@@ -517,7 +517,7 @@ _The Circle Lead also holds all Accountabilities on the Circle to the extent the
 
 - All governance records of the Circle
 
-**Accountabilities:**
+**Redevabilités:**
 
 - Scheduling Governance Meetings and Tactical Meetings of the Circle
 - Capturing and publishing the outputs of Governance Meetings and Tactical Meetings
