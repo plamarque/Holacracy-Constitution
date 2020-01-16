@@ -38,7 +38,7 @@ En tant qu'Associé, vous pouvez décliner l'affectation d'un Rôle ou y renonce
 
 ### 1.3 Cercles
 
-A ***“Cercle”*** is a container for organizing Rôles and Politiques around a common Raison d’Être. The Rôles and Politiques within a Cercle make up its acting ***“Governance”***. No one may change a Cercle's Governance except through its ***“Governance Process”***, described in Article 3.
+Un ***“Cercle”*** est un conteneur pour organiser des Rôles et des Politiques autour d'une Raison d’Être commune. Les Rôles et Politiques au sein d'un Cercle constituent sa ***“Gouvernance”***. Personne ne peut changer la Gouvernance d'un Cercle en dehors de son ***“Processus de Gouvernance”***, décrit dans l'Article 3.
 
 #### 1.3.1 Breaking Down Rôles
 
