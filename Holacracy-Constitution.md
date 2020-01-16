@@ -20,9 +20,9 @@ Les Associés de l'Organisation effectueront son travail en agissant au travers 
 
 Un Rôle peut aussi contenir des ***“Politiques”***, qui sont des octrois ou des restrictions d'autorité, ou des règles spéciales qui s'appliquent aux opérations de ce Rôle.
 
-### 1.2 Rôle Assignment
+### 1.2 Affectation de Rôle
 
-A Rôle may control assignments into another Rôle as a Domaine. Anyone filling a Rôle with such a Domaine may assign people to fill the target Rôle or remove people from that Rôle at any time. Anyone so assigned becomes the ***"Rôle Lead"*** for that Rôle. When a Rôle is unfilled, the Rôle Leads of the assigning Rôle are automatically considered the Rôle Leads of the unfilled Rôle as well.
+Un Rôle peut contrôler les affectations pour un autre Rôle grâce à un Domaine. Toute personne remplissant un Rôle avec un tel Domaine peut affecter des personnes à remplir le Rôle cible ou désaffecter des personnes de ce Rôle à tout moment. Toute personne affectée ainsi devient le ***"Rôle Lead"*** pour ce Rôle. Quand un Rôle n'est plus rempli, les Rôle Leads du Rôle sont automatiquement considérés Rôle Leads du Rôle non rempli.
 
 #### 1.2.1 Eligibility
 
