@@ -50,23 +50,23 @@ A Rôle and its inner Cercle is considered a ***“Sub-Cercle”*** of the broad
 
 When a Cercle grants a Domaine to one of its Rôles, any Rôle Lead for that Rôle may control that Domaine on behalf of the Cercle. A Cercle may only grant Domaines to its Rôles that fall within the Cercle's own Domaines, or that are only relevant within its own internal processes.
 
-Once a Rôle controls a Domaine, it may create Politiques governing that Domaine within its own Governance Process. However, the Cercle that delegated the Domaine retains the right to define its own Politiques governing that Domaine. Any such Politiques trump those defined by the Rôle in the event of a conflict.
+Once a Rôle controls a Domaine, it may create Politiques governing that Domaine within its own Processus de Gouvernance. However, the Cercle that delegated the Domaine retains the right to define its own Politiques governing that Domaine. Any such Politiques trump those defined by the Rôle in the event of a conflict.
 
 Granting a Domaine to a Rôle does not delegate any rights the Cercle has to control spending of money or assets, unless explicitly specified.
 
 #### 1.3.3 Anchor Cercle
 
-The broadest Cercle that holds the Raison d’Être of the whole Organisation is its ***“Anchor Cercle”***. The Anchor Cercle has no Super-Cercle, and holds all authorities and Domaines of the Organisation. The Anchor Cercle may change its own Raison d’Être or Redevabilités via a Politique adopted in its Governance Process.
+The broadest Cercle that holds the Raison d’Être of the whole Organisation is its ***“Anchor Cercle”***. The Anchor Cercle has no Super-Cercle, and holds all authorities and Domaines of the Organisation. The Anchor Cercle may change its own Raison d’Être or Redevabilités via a Politique adopted in its Processus de Gouvernance.
 
-The Ratifieurs may define an initial structure and other Governance within the Anchor Cercle upon adopting this Constitution.
+The Ratifieurs may define an initial structure and other Gouvernance within the Anchor Cercle upon adopting this Constitution.
 
 #### 1.3.4 Linking Into Cercles
 
 A Rôle may opt to link into another Cercle if a Politique of that other Cercle or any Super-Cercle thereof invites it. A Rôle must accept such an invitation if a Politique of its own Super-Cercle or any Super-Cercle thereof demands it.
 
-Once linked into another Cercle, a Rôle is considered part of the Governance of that other Cercle. That Cercle's Governance Process may add to the Rôle and later change what it adds. However, it may not delete the Rôle nor change anything added by another Cercle, and nor may another Cercle change or remove anything it adds. The authority to add or change assignments into the Rôle stays with its source Cercle. The Cercle a Rôle links into is not considered its Super-Cercle, and nor is the Rôle's inner Cercle considered its Sub-Cercle.
+Once linked into another Cercle, a Rôle is considered part of the Gouvernance of that other Cercle. That Cercle's Processus de Gouvernance may add to the Rôle and later change what it adds. However, it may not delete the Rôle nor change anything added by another Cercle, and nor may another Cercle change or remove anything it adds. The authority to add or change assignments into the Rôle stays with its source Cercle. The Cercle a Rôle links into is not considered its Super-Cercle, and nor is the Rôle's inner Cercle considered its Sub-Cercle.
 
-A Cercle may unlink a Rôle by removing the Politique that invited it to link, or by another mechanism defined in that Politique. A Rôle may also opt to remove itself from a Cercle it linked into, unless a Politique within or acting upon the Rôle's Super-Cercle says otherwise. Once unlinked from a Cercle, any Governance added to the Rôle by that Cercle is automatically removed.
+A Cercle may unlink a Rôle by removing the Politique that invited it to link, or by another mechanism defined in that Politique. A Rôle may also opt to remove itself from a Cercle it linked into, unless a Politique within or acting upon the Rôle's Super-Cercle says otherwise. Once unlinked from a Cercle, any Gouvernance added to the Rôle by that Cercle is automatically removed.
 
 #### 1.3.5 Creating Cercles Across Rôles
 
@@ -82,7 +82,7 @@ A Cercle Lead may judge the relative value of potential Cercle efforts, to help 
 
 #### 1.4.2 Routing External References
 
-Whenever Governance outside the Cercle references the Cercle itself or any Rôle in the Cercle, a Cercle Lead may update that reference to instead refer to another Rôle in the Cercle. This does not require using the Governance Process of any Cercle.
+Whenever Gouvernance outside the Cercle references the Cercle itself or any Rôle in the Cercle, a Cercle Lead may update that reference to instead refer to another Rôle in the Cercle. This does not require using the Processus de Gouvernance of any Cercle.
 
 #### 1.4.3 Amending the Cercle Lead Rôle
 
@@ -90,9 +90,9 @@ A Cercle may not add Redevabilités or other functions to its own Cercle Lead R�
 
 ### 1.5 Cercle Members
 
-Each Cercle has a group of ***"Cercle Members"*** who may represent its Rôles in its Governance Process.
+Each Cercle has a group of ***"Cercle Members"*** who may represent its Rôles in its Processus de Gouvernance.
 
-A Cercle's Cercle Members include all Associés filling its Cercle Lead Rôle, as well as each Associé serving as Rôle Lead for a Rôle in the Cercle. If a Rôle has multiple Rôle Leads, a Cercle may adopt a Politique to limit how many of them represent that Rôle as Cercle Members in its Governance Process.
+A Cercle's Cercle Members include all Associés filling its Cercle Lead Rôle, as well as each Associé serving as Rôle Lead for a Rôle in the Cercle. If a Rôle has multiple Rôle Leads, a Cercle may adopt a Politique to limit how many of them represent that Rôle as Cercle Members in its Processus de Gouvernance.
 
 #### 1.5.1 Cercle Reps
 
@@ -187,7 +187,7 @@ You are responsible for capturing and tracking all Projects and Next-Actions for
 
 Whenever you have time available to act in a Rôle, you are responsible for considering the Next-Actions you could take, and executing whichever you believe would add the most value to the Organisation. In assessing that, you must integrate any relative prioritizations and Strategies of the Cercle holding your Rôle, as well as any acting upon that Cercle itself. If you intend to prioritize in a way that is substantially opposed to these priorities, you must notify the relevant Cercle Leads of your intent.
 
-If the Governance of a Cercle includes a deadline specifying when something must be done by, you do not necessarily have to meet that deadline. Instead, you must interpret it as an official Cercle prioritization of any actions needed to hit that deadline over any other actions for that Cercle. A Cercle Lead or another Rôle or process with the authority to judge Cercle priorities may overrule this prioritization.
+If the Gouvernance of a Cercle includes a deadline specifying when something must be done by, you do not necessarily have to meet that deadline. Instead, you must interpret it as an official Cercle prioritization of any actions needed to hit that deadline over any other actions for that Cercle. A Cercle Lead or another Rôle or process with the authority to judge Cercle priorities may overrule this prioritization.
 
 ### 2.3 Duties to Other Rôle-Fillers
 
@@ -199,7 +199,7 @@ You have a duty to provide transparency in any of the following areas upon reque
 
 - **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for your Rôles.
 - **(b) Relative Priority:** You must share your judgment of the relative priority of any of your Rôle's Projects or Next-Actions vs. anything else competing for your attention.
-- **(c) Projections:** You must provide a projection of when you expect to complete any of your Rôle's Projects or Next-Actions. A rough estimate is enough, considering your current context and priorities. Detailed analysis or planning is not required, and this projection is not a commitment in any way. Unless Governance says otherwise, you have no duty to track the projection or follow-up with the recipient if it changes.
+- **(c) Projections:** You must provide a projection of when you expect to complete any of your Rôle's Projects or Next-Actions. A rough estimate is enough, considering your current context and priorities. Detailed analysis or planning is not required, and this projection is not a commitment in any way. Unless Gouvernance says otherwise, you have no duty to track the projection or follow-up with the recipient if it changes.
 - **(d) Checklist Items:** You must verify completion of any recurring actions that you perform for your Rôles or as a Associé of the Organisation. If requested, you must continue to share these verifications regularly, until you believe they are no longer useful.
 - **(e) Metrics:** You must share any metrics you collect in your Rôles or as a Associé of the Organisation. If requested, you must continue to share these metrics regularly, until you determine they are no longer useful.
 - **(f) Progress Updates:** You must share a summary of progress you've made in a Rôle or towards any of your Rôle's Projects since the last update you shared. If requested, you must continue to share these updates regularly, until you determine they are no longer useful.
@@ -257,7 +257,7 @@ You may only take Individual Initiative when all of the following are true:
 - **(a)** You are acting in good faith to serve the Raison d’Être or express the Redevabilités of some Rôle within the Organisation.
 - **(b)** You believe your action would resolve or prevent more Tension for the Organisation than it would likely create.
 - **(c)** Your action would not commit the Organisation to any spending beyond what you’re already authorized to spend.
-- **(d)** If your action would violate any Politiques or Domaines, you believe much value would be lost from delaying to get permission or change Governance.
+- **(d)** If your action would violate any Politiques or Domaines, you believe much value would be lost from delaying to get permission or change Gouvernance.
 
 #### 2.5.2 Communication & Restoration
 
@@ -266,11 +266,11 @@ Upon taking Individual Initiative, you must explain your action to any Rôle Lea
 You must prioritize the communication and restoration required by this section over your regular work. However, a Cercle Lead of a Cercle that contains all Rôles affected by your action may change this default priority.
 
 
-## Article 3: Governance
+## Article 3: Gouvernance
 
-### 3.1 Scope of Governance
+### 3.1 Scope of Gouvernance
 
-Within a Cercle's Governance Process, the Cercle may:
+Within a Cercle's Processus de Gouvernance, the Cercle may:
 
 - **(a)** define, amend, or remove its own Rôles; and
 - **(b)** define, amend, or remove its own Politiques; and
@@ -278,7 +278,7 @@ Within a Cercle's Governance Process, the Cercle may:
 - **(d)** move Rôles or Politiques from within a Sub-Cercle or any Sub-Cercle thereof out into itself, but only if they are no longer relevant to enacting the Raison d’Être or Redevabilités of that Cercle; and
 - **(e)** hold elections for any elected Rôle within the Cercle.
 
-No other decisions are valid outputs from a Cercle's Governance Process.
+No other decisions are valid outputs from a Cercle's Processus de Gouvernance.
 
 #### 3.1.1 Scope of Politique
 
@@ -291,11 +291,11 @@ A Politique may only be one or more of the following:
 
 A Politique that grants or constrains authority applies in all Sub-Cercles as well, recursively, unless otherwise stated. A Politique that changes a default rule or process in the Constitution applies only within the Cercle that holds the Politique, or, if explicitly stated, within all Sub-Cercles as well, recursively. In the latter case, a Sub-Cercle may still override that Politique via one of its own, unless explicitly forbidden in the original Politique.
 
-### 3.2 Changing Governance
+### 3.2 Changing Gouvernance
 
-Any Cercle Member of a Cercle may propose changing its Governance. The ***“Proposer”*** may do this by circulating a ***“Proposal”*** to all other Cercle Members. Those other Cercle Members must then have the opportunity to raise concerns about adopting the Proposal. Each concern is an ***“Objection”*** if it meets the criteria herein, and the person who raised it is the ***“Objector”***. When making Proposals or raising Objections, a Cercle Member may only represent the Rôles in the Cercle that they either fill as Rôle Lead or represent as Cercle Rep. A Cercle Member may also represent a Rôle that they have permission to temporarily represent from one of its Rôle Leads, until that permission expires or is withdrawn.
+Any Cercle Member of a Cercle may propose changing its Gouvernance. The ***“Proposer”*** may do this by circulating a ***“Proposal”*** to all other Cercle Members. Those other Cercle Members must then have the opportunity to raise concerns about adopting the Proposal. Each concern is an ***“Objection”*** if it meets the criteria herein, and the person who raised it is the ***“Objector”***. When making Proposals or raising Objections, a Cercle Member may only represent the Rôles in the Cercle that they either fill as Rôle Lead or represent as Cercle Rep. A Cercle Member may also represent a Rôle that they have permission to temporarily represent from one of its Rôle Leads, until that permission expires or is withdrawn.
 
-If no Objections are raised to a Proposal, it is adopted and amends the Cercle's Governance. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Cercle adopts the Proposal. After any such effort, all Cercle Members must then be given an opportunity to raise Objections again.
+If no Objections are raised to a Proposal, it is adopted and amends the Cercle's Gouvernance. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Cercle adopts the Proposal. After any such effort, all Cercle Members must then be given an opportunity to raise Objections again.
 
 #### 3.2.1 Criteria for Valid Proposals
 
@@ -333,31 +333,31 @@ While attempting to resolve an Objection, the following rules apply:
 - **(c)** Any Cercle Member may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitator believes the Proposer is not answering them in good faith, the Facilitator must deem the Proposal dropped.
 - **(d)** The Objector may suggest an amended Proposal, and offer reasonable arguments for why it should resolve the Tension. Then, upon the Objector’s request, the Proposer must present a reasonable argument for why the amended Proposal would fail to resolve the Tension in at least one of the examples the Proposer used to illustrate the Tension. If needed, the Proposer may add another example to illustrate why the amended Proposal would fail to resolve the Tension. If the Facilitator believes the Proposer is unable or unwilling to do so, the Facilitator must deem the Proposal dropped.
 
-### 3.3 Governance Meetings
+### 3.3 Gouvernance Meetings
 
-The Secretary of a Cercle is responsible for scheduling ***"Governance Meetings"*** to enact the Cercle’s Governance Process. The Cercle's Facilitator is responsible for facilitating Governance Meetings in alignment with the rules herein.
+The Secretary of a Cercle is responsible for scheduling ***"Gouvernance Meetings"*** to enact the Cercle’s Processus de Gouvernance. The Cercle's Facilitator is responsible for facilitating Gouvernance Meetings in alignment with the rules herein.
 
-In addition to any regular Governance Meetings of the Cercle, the Secretary must schedule special Governance Meetings promptly upon request of any Cercle Member. The requester may further specify an intention for a special Governance Meeting and any limits on what the meeting may change. This may include focusing the meeting on a specific Tension, or limiting it to only modifying certain Rôles. In that case, the authority of that special Governance Meeting is constrained to only processing Proposals for the stated intent, and only making changes within the stated limits.
+In addition to any regular Gouvernance Meetings of the Cercle, the Secretary must schedule special Gouvernance Meetings promptly upon request of any Cercle Member. The requester may further specify an intention for a special Gouvernance Meeting and any limits on what the meeting may change. This may include focusing the meeting on a specific Tension, or limiting it to only modifying certain Rôles. In that case, the authority of that special Gouvernance Meeting is constrained to only processing Proposals for the stated intent, and only making changes within the stated limits.
 
 #### 3.3.1 Attendance
 
-All Cercle Members of a Cercle may participate in its Governance Meetings. The acting Facilitator and Secretary may also participate even if they are not Cercle Members of the Cercle. In that case, they become temporary Cercle Members for the duration of the meeting.
+All Cercle Members of a Cercle may participate in its Gouvernance Meetings. The acting Facilitator and Secretary may also participate even if they are not Cercle Members of the Cercle. In that case, they become temporary Cercle Members for the duration of the meeting.
 
-As a Cercle Rep for a Cercle, you may invite any Associé to join the Governance Meeting of any Cercle immediately containing your Cercle. You may only extend this invitation to one Associé at a time, and only to aid in the processing of a specific Tension affecting the Cercle you represent. You must sense this Tension yourself as well, and believe it makes sense to process in the Cercle. Your invited guest becomes a temporary Cercle Member for the duration of the meeting, or until you withdraw the invitation. Your guest may represent your Cercle along with you in the meeting, but only while processing that specific Tension.
+As a Cercle Rep for a Cercle, you may invite any Associé to join the Gouvernance Meeting of any Cercle immediately containing your Cercle. You may only extend this invitation to one Associé at a time, and only to aid in the processing of a specific Tension affecting the Cercle you represent. You must sense this Tension yourself as well, and believe it makes sense to process in the Cercle. Your invited guest becomes a temporary Cercle Member for the duration of the meeting, or until you withdraw the invitation. Your guest may represent your Cercle along with you in the meeting, but only while processing that specific Tension.
 
-Beyond the above, no one else may participate in a Cercle’s Governance Meetings.
+Beyond the above, no one else may participate in a Cercle’s Gouvernance Meetings.
 
 #### 3.3.2 Notice & Duration
 
-A Cercle may only conduct a Governance Meeting if the Secretary gave all Cercle Members reasonable advance notice of the meeting. Beyond that, there is no quorum required for a Cercle to conduct a Governance Meeting, unless a Politique specifies one.
+A Cercle may only conduct a Gouvernance Meeting if the Secretary gave all Cercle Members reasonable advance notice of the meeting. Beyond that, there is no quorum required for a Cercle to conduct a Gouvernance Meeting, unless a Politique specifies one.
 
-Governance Meetings end once they reach the duration initially scheduled by the Secretary. The Secretary may choose to extend the duration within the meeting, but only if no Cercle Member requests otherwise.
+Gouvernance Meetings end once they reach the duration initially scheduled by the Secretary. The Secretary may choose to extend the duration within the meeting, but only if no Cercle Member requests otherwise.
 
-Any Cercle Member who misses part or all of a Governance Meeting counts as having had a chance to raise concerns about any Proposals made therein. Thus, a Cercle may adopt Proposals in a Governance Meeting without regard for absent members.
+Any Cercle Member who misses part or all of a Gouvernance Meeting counts as having had a chance to raise concerns about any Proposals made therein. Thus, a Cercle may adopt Proposals in a Gouvernance Meeting without regard for absent members.
 
 #### 3.3.3 Meeting Process
 
-The Facilitator must use the following process for Governance Meetings:
+The Facilitator must use the following process for Gouvernance Meetings:
 
 - **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
 - **(b) Agenda Building & Processing:** The Facilitator builds an agenda of Tensions to process, then processes each agenda item in turn.
@@ -371,7 +371,7 @@ A Politique of the Cercle may add to this process, but may not conflict with any
 
 The Facilitator builds an agenda of Tensions to process by soliciting agenda items from all participants. The Facilitator must do this in the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items during the meeting, between the processing of any existing agenda items.
 
-For a regular Governance Meeting, the Facilitator may choose the order in which to process agenda items. However, on request of a meeting participant, any agenda item calling for an election must go before all others. For a special Governance Meeting scheduled on request of a participant, that participant may choose the agenda order.
+For a regular Gouvernance Meeting, the Facilitator may choose the order in which to process agenda items. However, on request of a meeting participant, any agenda item calling for an election must go before all others. For a special Gouvernance Meeting scheduled on request of a participant, that participant may choose the agenda order.
 
 Agenda items are processed one at a time. To process a request for an election, the Facilitator uses the ***“Integrative Election Process”*** defined below. To process anything else, the Facilitator uses the ***“Integrative Decision-Making Process”*** defined below.
 
@@ -380,7 +380,7 @@ Agenda items are processed one at a time. To process a request for an election, 
 The Facilitator must enact the Integrative Decision-Making Process as follows:
 
 - **(a) Present Proposal:** First, the Proposer may describe the Tension and present a Proposal to address it. On the Proposer's request, the Facilitator may allow others to help craft a Proposal. However, the Facilitator must focus this help solely on getting to an initial Proposal to address the Proposer's Tension. The Facilitator must disallow discussing other Tensions or concerns about the Proposal.
-- **(b) Clarifying Questions:** Once the Proposer makes a Proposal, others may ask clarifying questions. These must be to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must stop any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Participants may also ask the Secretary to read the Proposal or show any existing Governance, during this step or at any other time when the participant is allowed to speak, and the Secretary must do so.
+- **(b) Clarifying Questions:** Once the Proposer makes a Proposal, others may ask clarifying questions. These must be to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must stop any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Participants may also ask the Secretary to read the Proposal or show any existing Gouvernance, during this step or at any other time when the participant is allowed to speak, and the Secretary must do so.
 - **(c) Reaction Round:** Next, each participant except the Proposer may share reactions to the Proposal, one person at a time. The Facilitator must immediately stop any out-of-turn comments, any attempts to engage others in a dialog, and any reactions to other reactions instead of to the Proposal.
 - **(d) Amend & Clarify:** Next, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. The Facilitator must immediately stop comments by anyone other than the Proposer or Secretary. Any engagement by the Secretary must focus solely on capturing the amended Proposal.
 - **(e) Objection Round:** Next, each participant, one at a time, may raise potential Objections to adopting the Proposal. The Facilitator must stop and disallow discussion or responses of any kind. The Facilitator may test Objections, and must capture any valid Objections. If there are no valid Objections, the Proposal is adopted.
@@ -397,21 +397,21 @@ The Facilitator must enact the Integrative Election Process as follows:
 - **(e) Make a Proposal:** The Facilitator counts the nominations, and makes a Proposal to elect the candidate with the most. If there is a tie, the Facilitator may do any one of the following: (i) if only one of the tied candidates has nominated himself or herself, propose that person; or (ii) if the person currently filling the Rôle is among those tied, propose that person; or (iii) blindly select one of the tied candidates randomly, and propose that person; or (iv) go back to the previous step and ask each participant who nominated someone other than a tied candidate to change that nomination to one of the tied candidates.
 - **(f) Process Proposal:** The Facilitator moves to the Integrative Decision-Making Process to resolve the Proposal, but starts with the Objection round. If any Objections surface, the Facilitator may choose to process them normally, or discard the Proposal. If discarded, the Facilitator must then go back to the prior step in this process, ignore all nominations for the discarded candidate, and apply the rules of the prior step to select another candidate to propose instead.
 
-### 3.4 Asynchronous Governance
+### 3.4 Asynchronous Gouvernance
 
-Cercle Members may make Proposals asynchronously instead of waiting for a Governance Meeting. To do so, the Proposer must distribute a Proposal in writing to all other Cercle Members. The Cercle’s Secretary decides which communication channels are allowed for asynchronous Proposals. Each Cercle Member may then ask clarifying questions, share reactions, or raise Objections. At any point before the process is complete, any Cercle Member may stop the process by requesting the Proposal go to a Governance Meeting.
+Cercle Members may make Proposals asynchronously instead of waiting for a Gouvernance Meeting. To do so, the Proposer must distribute a Proposal in writing to all other Cercle Members. The Cercle’s Secretary decides which communication channels are allowed for asynchronous Proposals. Each Cercle Member may then ask clarifying questions, share reactions, or raise Objections. At any point before the process is complete, any Cercle Member may stop the process by requesting the Proposal go to a Gouvernance Meeting.
 
-A Cercle Member may also request the Facilitator run an election outside of a Governance Meeting. The Facilitator may do so by enacting the required election process asynchronously.
+A Cercle Member may also request the Facilitator run an election outside of a Gouvernance Meeting. The Facilitator may do so by enacting the required election process asynchronously.
 
-A Cercle may adopt Politiques to further constrain when or how Proposals or elections may happen outside of a Governance Meeting. However, no Politique may limit the right to stop asynchronous processing of a Proposal by requesting it go to a Governance Meeting.
+A Cercle may adopt Politiques to further constrain when or how Proposals or elections may happen outside of a Gouvernance Meeting. However, no Politique may limit the right to stop asynchronous processing of a Proposal by requesting it go to a Gouvernance Meeting.
 
 A Cercle may also adopt a Politique to define a time limit for responding to asynchronous Proposals or election nominations. After that time limit, anyone who has not responded is assumed to have declined to raise an Objection or provide a nomination.
 
-### 3.5 Interpreting the Constitution & Governance
+### 3.5 Interpreting the Constitution & Gouvernance
 
 As a Associé, you may use reasonable judgment to interpret this Constitution and anything under its authority. You may also interpret how these apply within any specific situation you face, and act based on your interpretations.
 
-You must interpret all Governance in the context of the Raison d’Être and Redevabilités of the Cercle containing it. You may not use any interpretation that conflicts with this context.
+You must interpret all Gouvernance in the context of the Raison d’Être and Redevabilités of the Cercle containing it. You may not use any interpretation that conflicts with this context.
 
 #### 3.5.1 Interpretation Conflicts
 
@@ -421,17 +421,17 @@ Your interpretation may sometimes conflict with another Associé's. If that happ
 
 After ruling on an interpretation, a Secretary may publish the ruling and the logic behind it. If published, the Secretary of that Cercle and any contained Cercles must attempt to align with that logic in any future rulings. However, a Secretary may still contradict it once a compelling new circumstance renders the logic obsolete.
 
-#### 3.5.3 Striking Invalid Governance
+#### 3.5.3 Striking Invalid Gouvernance
 
-Any Associé may ask a Cercle's Secretary to rule on the validity of any Governance within that Cercle or any Sub-Cercle thereof. If the Secretary concludes it violates the rules of this Constitution, the Secretary must strike it from the Cercle's records. After doing so, the Secretary must promptly communicate what they struck and why to all of that Cercle's Cercle Members.
+Any Associé may ask a Cercle's Secretary to rule on the validity of any Gouvernance within that Cercle or any Sub-Cercle thereof. If the Secretary concludes it violates the rules of this Constitution, the Secretary must strike it from the Cercle's records. After doing so, the Secretary must promptly communicate what they struck and why to all of that Cercle's Cercle Members.
 
 ### 3.6 Process Breakdown
 
 A ***“Process Breakdown”*** occurs when a Cercle shows a pattern of behavior or output that violates the rules of this Constitution. The Facilitator or Secretary of a Cercle may declare a Process Breakdown in their own Cercle or any Sub-Cercle, using their reasonable judgment.
 
-#### 3.6.1 Breakdown from Failed Governance
+#### 3.6.1 Breakdown from Failed Gouvernance
 
-A Cercle's Facilitator may also declare a Process Breakdown in the Cercle if a Proposal made in a Governance Meeting fails to reach a resolution. If the Proposer specially requested the meeting, then the Proposer may also declare the Process Breakdown. In either case, the participants must first spend a reasonably long time trying to find a resolution.
+A Cercle's Facilitator may also declare a Process Breakdown in the Cercle if a Proposal made in a Gouvernance Meeting fails to reach a resolution. If the Proposer specially requested the meeting, then the Proposer may also declare the Process Breakdown. In either case, the participants must first spend a reasonably long time trying to find a resolution.
 
 #### 3.6.2 Process Restoration
 
@@ -467,7 +467,7 @@ En tant qu'Associé, vous avez le devoir d'aligner votre comportement avec toute
 
 ### 4.3 Power Shift
 
-All of your responsibilities and constraints as a Associé of the Organisation come from this Constitution and the Governance and Ententes de Travail it empowers, or from your legal duties to the Organisation or while acting on its behalf. No implicit expectations or constraints carry any weight or authority. Nor do any dictates issued under the Organisation's old power structure before it adopted this Constitution. As a Associé, you may rely upon the authorities granted by this Constitution to the full extent the Ratifieurs held such authorities before adopting it.
+All of your responsibilities and constraints as a Associé of the Organisation come from this Constitution and the Gouvernance and Ententes de Travail it empowers, or from your legal duties to the Organisation or while acting on its behalf. No implicit expectations or constraints carry any weight or authority. Nor do any dictates issued under the Organisation's old power structure before it adopted this Constitution. As a Associé, you may rely upon the authorities granted by this Constitution to the full extent the Ratifieurs held such authorities before adopting it.
 
 ---
 
@@ -483,7 +483,7 @@ All of your responsibilities and constraints as a Associé of the Organisation c
 
 **Redevabilités:**
 
-- Defining Rôles and/or Politiques via the Cercle's Governance Process to enact its Raison d’Être and Redevabilités
+- Defining Rôles and/or Politiques via the Cercle's Processus de Gouvernance to enact its Raison d’Être and Redevabilités
 - Assigning Associés to the Cercle’s Rôles, monitoring the fit, and re-assigning Rôles to other Associés to optimize fit
 - Judging the relative value of Cercle efforts on request to resolve priority conflicts across Rôles
 
@@ -501,26 +501,26 @@ _The Cercle Lead also holds all Redevabilités on the Cercle to the extent they 
 
 ## Facilitator
 
-**Raison d’Être:** Cercle governance and operational practices aligned with the Constitution.
+**Raison d’Être:** Cercle Gouvernance and operational practices aligned with the Constitution.
 
 **Redevabilités:**
 
-- Facilitating the Governance Process and Tactical Meetings of the Cercle or for its Rôles
+- Facilitating the Processus de Gouvernance and Tactical Meetings of the Cercle or for its Rôles
 - Coaching other Cercle Members on the Constitution's rules and processes, either on request or when needed for effective meetings
 - Auditing the meetings and records of Sub-Cercles on request, and declaring a Process Breakdown if one is discovered
 
 ## Secretary
 
-**Raison d’Être:** Steward the Cercle’s governance records and stabilize its record-keeping process.
+**Raison d’Être:** Steward the Cercle’s Gouvernance records and stabilize its record-keeping process.
 
 **Domaines:**
 
-- All governance records of the Cercle
+- All Gouvernance records of the Cercle
 
 **Redevabilités:**
 
-- Scheduling Governance Meetings and Tactical Meetings of the Cercle
-- Capturing and publishing the outputs of Governance Meetings and Tactical Meetings
+- Scheduling Gouvernance Meetings and Tactical Meetings of the Cercle
+- Capturing and publishing the outputs of Gouvernance Meetings and Tactical Meetings
 - Interpreting the Constitution and anything under its authority upon request
 
 ---
