@@ -28,9 +28,9 @@ Un Rôle peut contrôler les affectations pour un autre Rôle grâce à un Domai
 
 Un Rôle peut seulement être affecté à un Associé de l'Organisation, ou à quelqu'un qui a accepté d'exercer les fonctions requises par l'affectation. Un Rôle peut être affecté à plusieurs personnes simultanément. Une Politique peut être définie pour contraindre les affectations / désaffectations au Rôle.
 
-#### 1.2.2 Focusing an Assignment
+#### 1.2.2 Focaliser une Affectation
 
-A Rôle assigner may focus an assignment on only a specific area or context, if all fields in the Rôle definition are still relevant within that focus. When a focus is used, each assignment focus is treated like an entirely separate Rôle, and the Rôle's Raison d’Être, Redevabilités, and Domaines apply only within the focus specified for each assignment.
+Celui qui décide d'une affectation de Rôle peut la focaliser sur seulement une zone ou un contexte particulier, si tous les champs de la définition du Rôle restent valables dans ce focus. Chaque focus est traité comme un Rôle entièrement séparé, mais la Raison d’Être du Rôle, ses Redevabilités, et Domaines s'appliquent uniquement dans le focus spécifié pour chaque affectation.
 
 #### 1.2.3 Resigning from Rôles
 
