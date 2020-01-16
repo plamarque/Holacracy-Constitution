@@ -4,8 +4,8 @@
 
 La Constitution Holacracy documente les règles de base, la structure et les processus du système Holacracy de gouvernance et de gestion d'une organisation. Elle fournit le socle nécessaire pour la pratique de Holacracy, en ancrant le changement de pouvoir cible dans des “règles du jeu” concrètes et documentées.
 
-### How is the Holacracy Constitution intended to be used?
-The Constitution is intended to be referenced by whatever declaration or agreement captures the decision to organize using the Holacracy framework. That may be a formal set of legal bylaws or similar operating agreement, or a simple board resolution or CEO policy declaration similar to the <a href="https://github.com/holacracyone/Holacracy-Constitution/blob/master/Adoption%20Declaration.md" target="_blank">sample one attached here</a>.
+### Comment la Constitution Holacracy est-elle destinées à être utilisée?
+La Constitution est destinée à servir de référence pour toute déclaration ou accord  capturant la décision de s'organiser selon le système Holacracy. Il peut s'agir d'un règlement légal ou un accord de fonctionnement similaire, ou une simple décision du conseil d'administration ou une déclaration des dirigeants similaire à <a href="https://github.com/holacracyone/Holacracy-Constitution/blob/master/Adoption%20Declaration.md" target="_blank">cet exemple</a>.
 
 ### What the Holacracy Constitution isn’t
 The Holacracy Constitution is **not a complete set of legal bylaws or a formal operating agreement**. (HolacracyOne separately publishes its own operating agreement as an example of a legal governing document that references and incorporates this Constitution.)
