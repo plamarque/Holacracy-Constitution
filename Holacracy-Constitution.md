@@ -463,7 +463,7 @@ Les Associés de l'Organisation peuvent passer des ***“Ententes de Travail”*
 
 En tant qu'Associé, vous pouvez demander une Entente de Travail à un autre Associé pour votre convenance personnelle ou pour servir un Rôle que vous remplissez. Cet Associé peut accepter or rejeter l'Entente de Travail demandée selon ses convenances personnelles. Chaque partie peut terminer l'entente sans le conssentement de l'autre partie, sauf s'il est convenu autrement.
 
-As a Associé, you have a duty to align your behavior with any Working Agreements you have made. A Facilitator may also enforce Working Agreements while facilitating meetings, as long as they don't conflict with the processes and rules in this Constitution.
+En tant qu'Associé, vous avez le devoir d'aligner votre comportement avec toute Entente de Travail que vous avez passée. Un Facilitateur peut aussi faire appliquer une Entente de Travail lors de ses facilitations de réunion, tant qu'elles ne sont pas en conflit avec les processus et règles de cette Constitution.
 
 ### 4.3 Power Shift
 
