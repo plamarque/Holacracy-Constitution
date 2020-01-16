@@ -54,19 +54,19 @@ Lorsqu'un Rôle contrôle un Domaine, il peut créer des Politiques pour gouvern
 
 Octroyer un Domaine à un Rôle ne délègue aucun des droits dont le Cercle dispose pour contrôler des actifs ou dépenser de l'argent, à moins que cela ne soit explicitement spécifié.
 
-#### 1.3.3 Anchor Cercle
+#### 1.3.3 Cercle d'Ancrage
 
-The broadest Cercle that holds the Raison d’Être of the whole Organisation is its ***“Anchor Cercle”***. The Anchor Cercle has no Super-Cercle, and holds all authorities and Domaines of the Organisation. The Anchor Cercle may change its own Raison d’Être or Redevabilités via a Politique adopted in its Processus de Gouvernance.
+Le Cercle le plus large détenant la Raison d’Être de l'ensemble de l'Organisation est son ***“Cercle d'Ancrage”***. Le Cercle d'Ancrage n'a pas de Super-Cercle, et détient toutes les autorités et Domaines de l'Organisation. Le Cercle d'Ancrage peut changer sa propre Raison d’Être ou ses Redevabilités via une Politique adoptée par son Processus de Gouvernance.
 
-The Ratifieurs may define an initial structure and other Gouvernance within the Anchor Cercle upon adopting this Constitution.
+Les Ratifieurs peuvent définir une structure initiale et une Gouvernance différente pour le Cercle d'Ancrage lors de l'adoption de sa Constitution.
 
-#### 1.3.4 Linking Into Cercles
+#### 1.3.4 Relier les Cercles
 
-A Rôle may opt to link into another Cercle if a Politique of that other Cercle or any Super-Cercle thereof invites it. A Rôle must accept such an invitation if a Politique of its own Super-Cercle or any Super-Cercle thereof demands it.
+Un Rôle peut choisir de se lier à un autre Cercle si une Politique de cet autre Cercle ou de l'un de ses Super-Cercle l'y invite. Un Rôle doit accepter une telle invitation si une Politique de l'un de ses Super-Cercles l'exige.
 
-Once linked into another Cercle, a Rôle is considered part of the Gouvernance of that other Cercle. That Cercle's Processus de Gouvernance may add to the Rôle and later change what it adds. However, it may not delete the Rôle nor change anything added by another Cercle, and nor may another Cercle change or remove anything it adds. The authority to add or change assignments into the Rôle stays with its source Cercle. The Cercle a Rôle links into is not considered its Super-Cercle, and nor is the Rôle's inner Cercle considered its Sub-Cercle.
+Dès lors qu'il est relié à un autre Cercle, un Rôle participe à sa Gouvernance. Le Processus de Gouvernance de ce Cercle peut élargir ce Rôle and plus tard changer ce qu'il ajoute. Cependant, il ne peut pas supprimer le Rôle ni changer quoi que ce soit ajouté par un autre Cercle, de même qu'un autre Cercle ne peut pas changer quoi que ce soit ajouté par un autre cercle au Rôle. L'autorité d'ajouter ou changer des affectations à ce Rôle reste dans son Cercle d'origine. Le Cercle auquel un Rôle se lie n'est pas considéré comme son Super-Cercle, ni le Cercle intérieur du Rôle considéré comme un Sous-Cercle du Cercle relié.
 
-A Cercle may unlink a Rôle by removing the Politique that invited it to link, or by another mechanism defined in that Politique. A Rôle may also opt to remove itself from a Cercle it linked into, unless a Politique within or acting upon the Rôle's Super-Cercle says otherwise. Once unlinked from a Cercle, any Gouvernance added to the Rôle by that Cercle is automatically removed.
+Un Cercle peut délier un Rôle en supprimant la Politique qui l'a invité à se relier, ou par un autre mécanisme défini dans cette Politique. Un Rôle peut aussi choisir de se retirer d'un Cercle auquel il est relié, à moins qu'une Politique au sein ou agissant sur le Super-Cercle du Rôle n'en décide autrement. Une fois délié d'un Cercle, toute Gouvernance ajoutée au Rôle par ce Cercle est automatiquement supprimée.
 
 #### 1.3.5 Creating Cercles Across Rôles
 
