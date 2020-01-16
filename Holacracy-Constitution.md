@@ -46,13 +46,13 @@ Chaque Rôle est aussi un Cercle à l'intérieur. Le Cercle intérieur d'un Rôl
 
 Le Cercle intérieur d'un Rôle est appelé ***“Sous-Cercle”*** du Cercle supérieur détenant le Rôle, alors que ce cercle supérieur est son ***“Super-Cercle”***.
 
-#### 1.3.2 Delegating Domaines
+#### 1.3.2 Déléguer des Domaines
 
-When a Cercle grants a Domaine to one of its Rôles, any Rôle Lead for that Rôle may control that Domaine on behalf of the Cercle. A Cercle may only grant Domaines to its Rôles that fall within the Cercle's own Domaines, or that are only relevant within its own internal processes.
+Lorsqu'un Cercle octroie un Domaine à l'un de ses Rôles, tout Rôle Lead de ce Rôle peut contôler ce Domaine au nom du Cercle. Un Cercle ne peut octroyer à ses Rôles que des Domaines qui relèvent des ses propres Domaines, ou qui sont valables au sein de ses propres processus internes.
 
-Once a Rôle controls a Domaine, it may create Politiques governing that Domaine within its own Processus de Gouvernance. However, the Cercle that delegated the Domaine retains the right to define its own Politiques governing that Domaine. Any such Politiques trump those defined by the Rôle in the event of a conflict.
+Lorsqu'un Rôle contrôle un Domaine, il peut créer des Politiques pour gouverner ce Domaine à travers son propre Processus de Gouvernance. Cependant, le Cercle qui a délégué le Domaine conserve le droit de définir ses propres Politiques pour gouverner ce Domaine. En cas de conflit, ces politiques l'emportent sur celles définies au niveau du Rôle.
 
-Granting a Domaine to a Rôle does not delegate any rights the Cercle has to control spending of money or assets, unless explicitly specified.
+Octroyer un Domaine à un Rôle ne délègue aucun des droits dont le Cercle dispose pour contrôler des actifs ou dépenser de l'argent, à moins que cela ne soit explicitement spécifié.
 
 #### 1.3.3 Anchor Cercle
 
