@@ -68,7 +68,7 @@ Dès lors qu'il est relié à un autre Cercle, un Rôle participe pleinement à 
 
 Un Cercle peut délier un Rôle en supprimant la Politique qui l'a invité à se relier, ou par un autre mécanisme défini dans cette Politique. Un Rôle peut aussi choisir de se retirer d'un Cercle auquel il est relié, à moins qu'une Politique au sein du - ou agissant sur - le Super-Cercle du Rôle n'en décide autrement. Une fois délié, toute Gouvernance ajoutée au Rôle par un Cercle aupravant relié est automatiquement supprimée.
 
-#### 1.3.5 Créer des Cercles Transverses aux Rôles
+#### 1.3.5 Créer des Cercles Transverses
 
 Deux ou plusieurs Rôles peuvent créer un nouveau Cercle à tout moment pour gouverner une Raison d’Être partagée à travers des Rôles. Pour ce faire, les Rôles fondateurs doivent s'accorder sur une Raison d’Être initiale et sur les Redevabilités du nouveau Cercle. Le nouveau Cercle démarre avec les Rôles fondateurs reliés en son sein, et une Politique invitant ces liens. Un Cercle créé de cette façon n'a pas de Super-Cercle ni de Domaines, et peut changer sa propre Raison d’Être ou ses Redevabilités via une Politique. Un tel Cercle est immédiatement dissous dès lors qu'il n'a plus de Rôles reliés.
 
