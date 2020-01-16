@@ -24,9 +24,9 @@ Un Rôle peut aussi contenir des ***“Politiques”***, qui sont des octrois ou
 
 Un Rôle peut contrôler les affectations pour un autre Rôle grâce à un Domaine. Toute personne remplissant un Rôle avec un tel Domaine peut affecter des personnes à remplir le Rôle cible ou désaffecter des personnes de ce Rôle à tout moment. Toute personne affectée ainsi devient le ***"Rôle Lead"*** pour ce Rôle. Quand un Rôle n'est plus rempli, les Rôle Leads du Rôle sont automatiquement considérés Rôle Leads du Rôle non rempli.
 
-#### 1.2.1 Eligibility
+#### 1.2.1 Eligibilité
 
-A Rôle may only be assigned to a Associé of the Organisation, or to someone who has agreed to enact the duties required of the assignment. A Rôle may be assigned to several people simultaneously. A Policy may further constrain Rôle assignments or assignment removals.
+Un Rôle peut seulement être affecté à un Associé de l'Organisation, ou à quelqu'un qui a accepté d'exercer les fonctions requises par l'affectation. Un Rôle peut être affecté à plusieurs personnes simultanément. Une Politique peut être définie pour contraindre les affectations / désaffectations au Rôle.
 
 #### 1.2.2 Focusing an Assignment
 
