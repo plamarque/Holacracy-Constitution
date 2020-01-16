@@ -40,11 +40,11 @@ En tant qu'Associé, vous pouvez décliner l'affectation d'un Rôle ou y renonce
 
 Un ***“Cercle”*** est un conteneur pour organiser des Rôles et des Politiques autour d'une Raison d’Être commune. Les Rôles et Politiques au sein d'un Cercle constituent sa ***“Gouvernance”***. Personne ne peut changer la Gouvernance d'un Cercle en dehors de son ***“Processus de Gouvernance”***, décrit dans l'Article 3.
 
-#### 1.3.1 Breaking Down Rôles
+#### 1.3.1 Décomposer les Rôles
 
-Every Rôle is also a Cercle internally. A Rôle's inner Cercle can hold Rôles and Politiques to break down and organize the work of that Rôle. This does not apply to the Rôles defined in Appendix A, which may not be further broken down.
+Chaque Rôle est aussi un Cercle à l'intérieur. Le Cercle intérieur d'un Rôle peut détenir des Rôles et des Politiques pour décomposer et organiser le travail de ce Rôle. Ceci ne s'applique pas aux Rôles définis dans l'Annexe A, qui ne peuvent pas être plus décomposés.
 
-A Rôle and its inner Cercle is considered a ***“Sub-Cercle”*** of the broader Cercle that holds the Rôle, while that broader Cercle is its ***“Super-Cercle”***.
+Le Cercle intérieur d'un Rôle est appelé ***“Sous-Cercle”*** du Cercle supérieur détenant le Rôle, alors que ce cercle supérieur est son ***“Super-Cercle”***.
 
 #### 1.3.2 Delegating Domaines
 
