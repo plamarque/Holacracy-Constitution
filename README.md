@@ -27,11 +27,11 @@ Pour une liste des contributeurs de la v5.0, veuillez vous référer à l'histor
 
 ---
 
-#### For More Information or Support with the Holacracy Framework: <a href="http://holacracy.org" target="_blank">holacracy.org</a>
+#### Pour plus d'Information et de Support sur le Système Holacracy : <a href="http://holacracy.org" target="_blank">holacracy.org</a>
 
 ---
 
-*_The Holacracy Constitution is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>._*
+*_La Constitution est sous licence <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>._*
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> 
 
