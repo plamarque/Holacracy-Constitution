@@ -22,7 +22,7 @@ Un Rôle peut aussi contenir des ***“Politiques”***, qui sont des octrois ou
 
 ### 1.2 Affectation de Rôle
 
-Un Rôle peut contrôler les affectations pour un autre Rôle grâce à un Domaine. Toute personne remplissant un Rôle avec un tel Domaine peut affecter des personnes à remplir le Rôle cible ou désaffecter des personnes de ce Rôle à tout moment. Toute personne affectée ainsi devient le ***"Porteur"*** pour ce Rôle. Quand un Rôle n'est plus rempli, les Porteurs de Rôle du Rôle sont automatiquement considérés Porteurs de Rôle du Rôle non rempli.
+Un Rôle peut contrôler les affectations pour un autre Rôle grâce à un Domaine. Toute personne remplissant un Rôle avec un tel Domaine peut affecter des personnes à remplir le Rôle cible ou désaffecter des personnes de ce Rôle à tout moment. Toute personne affectée ainsi devient le ***"Porteur"*** de ce Rôle. Quand un Rôle n'est plus rempli, les Porteurs du Rôle sont automatiquement considérés Porteurs du Rôle non rempli.
 
 #### 1.2.1 Eligibilité
 
@@ -226,7 +226,7 @@ In service of a Rôle, any Associé may convene a ***“Tactical Meeting”*** t
 
 #### 2.4.1 Attendance
 
-The Associé convening a Tactical Meeting must name the Rôles desired in that meeting. All Porteurs de Rôle of those Rôles are then invited to attend, unless the convener narrows the invite to include only a subset of Porteurs de Rôle for a Rôle. The convener may choose the Facilitator of any relevant Cercle to run the meeting.
+The Associé convening a Tactical Meeting must name the Rôles desired in that meeting. All Porteurs de Rôle of those Rôles are then invited to attend, unless the convener narrows the invite to include only a subset of Porteurs de Rôle. The convener may choose the Facilitator of any relevant Cercle to run the meeting.
 
 #### 2.4.2 Facilitation & Process
 
