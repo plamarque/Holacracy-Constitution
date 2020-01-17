@@ -74,7 +74,7 @@ Deux ou plusieurs Rôles peuvent créer un nouveau Cercle à tout moment pour go
 
 ### 1.4 Premiers Liens
 
-Tout Associé serving as a Porteur for a Rôle also automatically fills a ***“Premier Lien Rôle”*** within that Rôle's internal Cercle, and is thus a ***“Premier Lien”*** while acting in that capacity. The Premier Lien Rôle has the definition given in Appendix A. A Cercle with no Super-Cercle has no Premiers Liens, unless a Politique of the Cercle says otherwise.
+Tout Associé Porteur d'un Rôle devient automatiquement un ***“Premier Lien*** pour le Cercle intérieur de ce Rôle, et agit donc en pleine capacité de Premier Lien. La définition du Rôle Premier Lien est donnée dans l'Annexe A. Un Cercle sans Super-Cercle n'a pas de Premier Lien, à moins qu'une Politique du Cercle n'en dispose autrement.
 
 #### 1.4.1 Defining Priorities & Strategies
 
