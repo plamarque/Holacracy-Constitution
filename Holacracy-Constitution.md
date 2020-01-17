@@ -96,13 +96,13 @@ Les Membres de Cercle incluent tous ses Premiers Liens, de même que chaque Asso
 
 #### 1.5.1 Seconds Liens
 
-Any Cercle Member of a Cercle may call for the selection of a ***"Second Lien"*** to help represent that Cercle within any broader Cercle containing it. The selected Second Lien fills the ***"Second Lien Rôle"*** in the Cercle, as defined in Appendix A.
+Tout Membre de Cercle peut appeler à la sélection d'un ***"Second Lien"*** pour aider à représenter ce Cercle dans un Cercle supérieur le contenant. Le Second Lien sélectionné remplit le ***"Rôle Second Lien"*** dans le Cercle, tel que défini dans l'Annexe A.
 
-The Second Lien becomes a Cercle Member of any broader Cercle containing that Cercle's outer Rôle, with the authority to represent that Rôle just like a Porteur. A containing Cercle may limit or prevent these Seconds Liens from becoming its Membres de Cercle via a Politique, but only if its Rôles have another way to enjoy comparable representation within that Cercle.
+Le Second Lien devient un Membre de Cercle de tout Cercle supérieur contenant le Rôle extérieur de ce Cercle, avec l'autorité de représenter ce Rôle à la place de ses Porteurs. Un Cercle contenant peut limiter ou empêcher ces Seconds Liens de devenir Membres de Cercle via une Politique, mais seulement si ces Rôles bénéficient d'un autre moyen comparable d'être représenté dans le Cercle.
 
-Selecting a Second Lien happens via the election process and rules defined in Article 3, unless a Politique defines an alternate process. The only candidates eligible to serve as a Cercle's Second Lien are those Associés filling Rôles within the Cercle. Anyone serving as a Premier Lien for a Cercle may not also serve as its Second Lien. No more than one person may serve as a Cercle's Second Lien at a time, unless a Politique of a containing Cercle allows it.
+Sélectionner un Second Lien se produit par le processus d'élection et les règles définies à l'Article 3, sauf si une Politique définit un processus alternatif. Seuls les Associés remplissant des Rôles dans le Cercle font des candidats éligibles pour y servir comme Second Lien. Quiconque servant en tant que Premier Lien pour un Cercle ne peut pas également servir comme son Second Lien. Une seule personne à la fois peut servir de Second Lien pour un Cercle, sauf si une Politique d'un Cercle contenant le permet.
 
-A Cercle may add Redevabilités or Domaines to its own Second Lien Rôle, as well as amend or remove those additions. No Cercle may amend or remove the Raison d’Être or any Redevabilités on the Second Lien Rôle, nor remove the Rôle.
+Un Cercle peut ajouter des Redevabilités ou des Domaines à son Rôle de Second Lien, de même qu'amender ou supprimer ces ajouts. Aucun Cercle ne peut amender ou supprimer la Raison d’Être ou toute Redevabilité du Rôle de Second Lien, ni supprimer ce Rôle.
 
 ### 1.6 Facilitator and Secretary
 
