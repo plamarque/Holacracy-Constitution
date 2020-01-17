@@ -465,9 +465,9 @@ En tant qu'Associé, vous pouvez demander une Entente de Travail à un autre Ass
 
 En tant qu'Associé, vous avez le devoir d'aligner votre comportement avec toute Entente de Travail que vous avez passée. Un Facilitateur peut aussi faire appliquer une Entente de Travail lors de ses facilitations de réunion, tant qu'elles ne sont pas en conflit avec les processus et règles de cette Constitution.
 
-### 4.3 Power Shift
+### 4.3 Bascule de Pouvoir
 
-All of your responsibilities and constraints as a Associé of the Organisation come from this Constitution and the Gouvernance and Ententes de Travail it empowers, or from your legal duties to the Organisation or while acting on its behalf. No implicit expectations or constraints carry any weight or authority. Nor do any dictates issued under the Organisation's old power structure before it adopted this Constitution. As a Associé, you may rely upon the authorities granted by this Constitution to the full extent the Ratifieurs held such authorities before adopting it.
+Toutes vos responsabilités et contraintes en tant qu'Associé de l'Organisation viennent de cette Constitution ainsi que de la Gouvernance et des Ententes de Travail qu'elle permet, ou bien de vos obligations légales envers l'Organisation lorsque vous agissez pour son compte. Les attentes ou contraintes implicites n'ont aucun poids ni autorité. Pas plus que les dictats émanant l'ancienne structure de pouvoir de l'Organisation avant qu'elle n'adopte cette Constitution. En tant qu'Associé, vous pouvez vous reposer sur les autorités octroyées par cette Constitution dans toute la mesure où les Ratifieurs détenaient de tels pouvoirs avant de l'adopter.
 
 ---
 
