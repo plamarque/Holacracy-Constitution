@@ -80,9 +80,9 @@ Tout Associé Porteur d'un Rôle devient automatiquement un ***“Premier Lien**
 
 Un Premier Lien peut juger de la valeur potentielle des efforts du Cercle, afin d'aider à clarifier et aligner les priorités entre les Rôles. Un Premier Lien peut également définir une ***“Stratégie”*** pour le Cercle, ou plusieurs Stratégies, qui sont des heuristiques pour guider la prioritisation dans le Cercle.
 
-#### 1.4.2 Routing External References
+#### 1.4.2 Router les Références Externes
 
-Whenever Gouvernance outside the Cercle references the Cercle itself or any Rôle in the Cercle, a Premier Lien may update that reference to instead refer to another Rôle in the Cercle. This does not require using the Processus de Gouvernance of any Cercle.
+Lorsqu'une Gouvernance en dehors du Cercle référence le Cercle lui-même ou n'importe quel Rôle dans le Cercle, un Premier Lien peut mettre à jour cette référence pour pointer vers un autre Rôle du Cercle. Ceci ne requiert d'utiliser le Processus de Gouvernance d'aucun Cercle.
 
 #### 1.4.3 Amending the Premier Lien Rôle
 
