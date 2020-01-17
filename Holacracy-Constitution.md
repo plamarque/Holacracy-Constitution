@@ -22,7 +22,7 @@ Un Rôle peut aussi contenir des ***“Politiques”***, qui sont des octrois ou
 
 ### 1.2 Affectation de Rôle
 
-Un Rôle peut contrôler les affectations pour un autre Rôle grâce à un Domaine. Toute personne remplissant un Rôle avec un tel Domaine peut affecter des personnes à remplir le Rôle cible ou désaffecter des personnes de ce Rôle à tout moment. Toute personne affectée ainsi devient le ***"Rôle Lead"*** pour ce Rôle. Quand un Rôle n'est plus rempli, les Rôle Leads du Rôle sont automatiquement considérés Rôle Leads du Rôle non rempli.
+Un Rôle peut contrôler les affectations pour un autre Rôle grâce à un Domaine. Toute personne remplissant un Rôle avec un tel Domaine peut affecter des personnes à remplir le Rôle cible ou désaffecter des personnes de ce Rôle à tout moment. Toute personne affectée ainsi devient le ***"Porteur"*** pour ce Rôle. Quand un Rôle n'est plus rempli, les Porteurs de Rôle du Rôle sont automatiquement considérés Porteurs de Rôle du Rôle non rempli.
 
 #### 1.2.1 Eligibilité
 
@@ -48,7 +48,7 @@ Le Cercle intérieur d'un Rôle est appelé ***“Sous-Cercle”*** du Cercle su
 
 #### 1.3.2 Déléguer des Domaines
 
-Lorsqu'un Cercle octroie un Domaine à l'un de ses Rôles, tout Rôle Lead de ce Rôle peut contôler ce Domaine au nom du Cercle. Un Cercle ne peut octroyer à ses Rôles que des Domaines qui relèvent des ses propres Domaines, ou qui sont valables au sein de ses propres processus internes.
+Lorsqu'un Cercle octroie un Domaine à l'un de ses Rôles, tout Porteur de ce Rôle peut contôler ce Domaine au nom du Cercle. Un Cercle ne peut octroyer à ses Rôles que des Domaines qui relèvent des ses propres Domaines, ou qui sont valables au sein de ses propres processus internes.
 
 Lorsqu'un Rôle contrôle un Domaine, il peut créer des Politiques pour gouverner ce Domaine à travers son propre Processus de Gouvernance. Cependant, le Cercle qui a délégué le Domaine conserve le droit de définir ses propres Politiques pour gouverner ce Domaine. En cas de conflit, ces politiques l'emportent sur celles définies au niveau du Rôle.
 
@@ -74,7 +74,7 @@ Deux ou plusieurs Rôles peuvent créer un nouveau Cercle à tout moment pour go
 
 ### 1.4 Premiers Liens
 
-Any Associé serving as a Rôle Lead for a Rôle also automatically fills a ***“Premier Lien Rôle”*** within that Rôle's internal Cercle, and is thus a ***“Premier Lien”*** while acting in that capacity. The Premier Lien Rôle has the definition given in Appendix A. A Cercle with no Super-Cercle has no Premiers Liens, unless a Politique of the Cercle says otherwise.
+Tout Associé serving as a Porteur for a Rôle also automatically fills a ***“Premier Lien Rôle”*** within that Rôle's internal Cercle, and is thus a ***“Premier Lien”*** while acting in that capacity. The Premier Lien Rôle has the definition given in Appendix A. A Cercle with no Super-Cercle has no Premiers Liens, unless a Politique of the Cercle says otherwise.
 
 #### 1.4.1 Defining Priorities & Strategies
 
@@ -92,13 +92,13 @@ A Cercle may not add Redevabilités or other functions to its own Premier Lien R
 
 Each Cercle has a group of ***"Cercle Members"*** who may represent its Rôles in its Processus de Gouvernance.
 
-A Cercle's Cercle Members include all Associés filling its Premier Lien Rôle, as well as each Associé serving as Rôle Lead for a Rôle in the Cercle. If a Rôle has multiple Rôle Leads, a Cercle may adopt a Politique to limit how many of them represent that Rôle as Cercle Members in its Processus de Gouvernance.
+A Cercle's Cercle Members include all Associés filling its Premier Lien Rôle, as well as each Associé serving as Porteur for a Rôle in the Cercle. If a Rôle has multiple Porteurs de Rôle, a Cercle may adopt a Politique to limit how many of them represent that Rôle as Cercle Members in its Processus de Gouvernance.
 
 #### 1.5.1 Cercle Reps
 
 Any Cercle Member of a Cercle may call for the selection of a ***"Cercle Rep"*** to help represent that Cercle within any broader Cercle containing it. The selected Cercle Rep fills the ***"Cercle Rep Rôle"*** in the Cercle, as defined in Appendix A.
 
-The Cercle Rep becomes a Cercle Member of any broader Cercle containing that Cercle's outer Rôle, with the authority to represent that Rôle just like a Rôle Lead. A containing Cercle may limit or prevent these Cercle Reps from becoming its Cercle Members via a Politique, but only if its Rôles have another way to enjoy comparable representation within that Cercle.
+The Cercle Rep becomes a Cercle Member of any broader Cercle containing that Cercle's outer Rôle, with the authority to represent that Rôle just like a Porteur. A containing Cercle may limit or prevent these Cercle Reps from becoming its Cercle Members via a Politique, but only if its Rôles have another way to enjoy comparable representation within that Cercle.
 
 Selecting a Cercle Rep happens via the election process and rules defined in Article 3, unless a Politique defines an alternate process. The only candidates eligible to serve as a Cercle's Cercle Rep are those Associés filling Rôles within the Cercle. Anyone serving as a Premier Lien for a Cercle may not also serve as its Cercle Rep. No more than one person may serve as a Cercle's Cercle Rep at a time, unless a Politique of a containing Cercle allows it.
 
@@ -191,7 +191,7 @@ If the Gouvernance of a Cercle includes a deadline specifying when something mus
 
 ### 2.3 Duties to Other Rôle-Fillers
 
-As a Rôle Lead, you have the following duties to all others filling Rôles in the Organisation. These duties only apply when the other party is acting on behalf of one of their own Rôles in the Organisation, and names that Rôle on request. 
+As a Porteur, you have the following duties to all others filling Rôles in the Organisation. These duties only apply when the other party is acting on behalf of one of their own Rôles in the Organisation, and names that Rôle on request. 
 
 #### 2.3.1 Duty of Transparency
 
@@ -226,7 +226,7 @@ In service of a Rôle, any Associé may convene a ***“Tactical Meeting”*** t
 
 #### 2.4.1 Attendance
 
-The Associé convening a Tactical Meeting must name the Rôles desired in that meeting. All Rôle Leads of those Rôles are then invited to attend, unless the convener narrows the invite to include only a subset of Rôle Leads for a Rôle. The convener may choose the Facilitator of any relevant Cercle to run the meeting.
+The Associé convening a Tactical Meeting must name the Rôles desired in that meeting. All Porteurs de Rôle of those Rôles are then invited to attend, unless the convener narrows the invite to include only a subset of Porteurs de Rôle for a Rôle. The convener may choose the Facilitator of any relevant Cercle to run the meeting.
 
 #### 2.4.2 Facilitation & Process
 
@@ -261,7 +261,7 @@ You may only take Individual Initiative when all of the following are true:
 
 #### 2.5.2 Communication & Restoration
 
-Upon taking Individual Initiative, you must explain your action to any Rôle Leads who may be significantly affected. Upon request of any such Rôle Lead, you must take further actions to help resolve any Tensions created by your Individual Initiative. You must also refrain from taking similar Individual Initiative upon request of any such Rôle Lead.
+Upon taking Individual Initiative, you must explain your action to any Porteurs de Rôle who may be significantly affected. Upon request of any such Porteur, you must take further actions to help resolve any Tensions created by your Individual Initiative. You must also refrain from taking similar Individual Initiative upon request of any such Porteur.
 
 You must prioritize the communication and restoration required by this section over your regular work. However, a Premier Lien of a Cercle that contains all Rôles affected by your action may change this default priority.
 
@@ -293,7 +293,7 @@ A Politique that grants or constrains authority applies in all Sub-Cercles as we
 
 ### 3.2 Changing Gouvernance
 
-Any Cercle Member of a Cercle may propose changing its Gouvernance. The ***“Proposer”*** may do this by circulating a ***“Proposal”*** to all other Cercle Members. Those other Cercle Members must then have the opportunity to raise concerns about adopting the Proposal. Each concern is an ***“Objection”*** if it meets the criteria herein, and the person who raised it is the ***“Objector”***. When making Proposals or raising Objections, a Cercle Member may only represent the Rôles in the Cercle that they either fill as Rôle Lead or represent as Cercle Rep. A Cercle Member may also represent a Rôle that they have permission to temporarily represent from one of its Rôle Leads, until that permission expires or is withdrawn.
+Any Cercle Member of a Cercle may propose changing its Gouvernance. The ***“Proposer”*** may do this by circulating a ***“Proposal”*** to all other Cercle Members. Those other Cercle Members must then have the opportunity to raise concerns about adopting the Proposal. Each concern is an ***“Objection”*** if it meets the criteria herein, and the person who raised it is the ***“Objector”***. When making Proposals or raising Objections, a Cercle Member may only represent the Rôles in the Cercle that they either fill as Porteur or represent as Cercle Rep. A Cercle Member may also represent a Rôle that they have permission to temporarily represent from one of its Porteurs de Rôle, until that permission expires or is withdrawn.
 
 If no Objections are raised to a Proposal, it is adopted and amends the Cercle's Gouvernance. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Cercle adopts the Proposal. After any such effort, all Cercle Members must then be given an opportunity to raise Objections again.
 
