@@ -1,30 +1,30 @@
-Constitution Adoption Declaration
-=================================
+Déclaration d'Adoption de la Constitution
+==========================================
 
-The Ratifier(s) signed below hereby adopt the attached Holacracy Constitution (the “Constitution”) as the governance and operating system within \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (the “Organization”). The Ratifiers cede their authority into the Constitution’s rules and processes, and endow its results with the weight and authority of the Ratifiers. The Ratifiers or their successors retain the right to amend this Constitution or repeal it at any point, however they agree not to willfully violate its rules in the meantime. They further agree to publish any amendments to the Constitution in writing, before relying on the amended rules.
+Les Ratifieurs signataires de la présente adoptent la Constitution de Holacracy (la “Constitution”) comme gouvernance et système de fonctionnement au sein de \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (l'“Organisation”). Les Ratifieurs cèdent leur autorité aux règles et processus de la Constitution, et dotent les résultats de ceux-ci de tout le poids de leur autorité. Les Ratifieurs ou leurs successeurs conservent le droit d'amender cette Constitution ou de l'abroger à tout moment, néanmoins, ils acceptent de ne pas volontairement violer ses règles dans l'intervalle. Ils conviennent en outre de publier par écrit tout amendement à la Constitution, avant de se fonder sur les règles modifiées.
 
-Further, the Ratifiers (choose one):
+En outre, les ratificateurs (faire un choix) :
 
-	- Appoint the following person(s) as Circle Lead(s) for the Anchor Circle: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+	- Nomment la(les) personne(s) suivante(s) comme Premier(s) Lien(s) du Cercle d'Ancrage: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-OR
+OU
 
-	- Leave the Anchor Circle without a Circle Lead.
+	- Laissent le Cercle d'Ancrage sans Premier Lien.
 
 ---
 
-The Organization hereby adopts the Constitution this \_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_, \_\_\_\_\_.
+L'Organisation adopte par la présente la Constitution ce \_\_\_\_ jour de \_\_\_\_\_\_\_\_\_\_\_\_\_, \_\_\_\_\_.
 
-*Ratifier(s) Signatures*
-
-x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-Name:
-Title:
+*Signatures des Ratifieurs*
 
 x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-Name:
-Title:
+Nom:
+Titre:
 
 x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-Name:
-Title:
+Nom:
+Titre:
+
+x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Nom:
+Titre:
