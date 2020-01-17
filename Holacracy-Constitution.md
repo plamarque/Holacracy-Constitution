@@ -108,9 +108,9 @@ Un Cercle peut ajouter des Redevabilités ou des Domaines à son Rôle de Second
 
 Tout Cercle avec plus d'un Membre de Cercle inclue un ***“Rôle Facilitateur”*** et un ***“Rôle Secrétaire”***, tel que défini dans l'Annexe A. Les personnes agissant dans chacun de ces rôles deviennent respectivement le ***“Facilitateur”*** et le ***“Secrétaire”*** du Cercle.
 
-#### 1.6.1 Elections & Eligibility
+#### 1.6.1 Elections & Eligibilité
 
-Upon request of a Cercle Member, a Cercle's Facilitateur will hold an election to elect someone to fill its Facilitateur Rôle or Secrétaire Rôle. No Rôle or Politique may assign these Rôles or remove an assignment via any other means, nor change the required process. Normally, the only candidates eligible for these elections are a Cercle's Membres de Cercle. However, a Politique of the Cercle or any Super-Cercle may add or limit eligible candidates.
+Sur demande d'un Membre de Cercle, un Facilitateur organisera une élection afin de choisir quelqu'un pour remplir son Rôle de Facilitateur ou de Secrétaire. Aucun Rôle et aucune Politique ne peut affecter ou désaffecter ces Rôles par un autre moyen, ni changer le processus obligatoire. Normalement seuls les  Membres de Cercle sont des candidats éligibles pour ces élections. Néanmoins, une Politique du Cercle ou de tout Super-Cercle peut ajouter ou restreindre les candidats éligibles.
 
 #### 1.6.2 Election Term
 
