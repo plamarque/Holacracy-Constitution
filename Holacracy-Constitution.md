@@ -104,30 +104,30 @@ Sélectionner un Second Lien se produit par le processus d'élection et les règ
 
 Un Cercle peut ajouter des Redevabilités ou des Domaines à son Rôle de Second Lien, de même qu'amender ou supprimer ces ajouts. Aucun Cercle ne peut amender ou supprimer la Raison d’Être ou toute Redevabilité du Rôle de Second Lien, ni supprimer ce Rôle.
 
-### 1.6 Facilitator and Secretary
+### 1.6 Facilitateur and Secrétaire
 
-Any Cercle with more than one Cercle Member includes a ***“Facilitator Rôle”*** and a ***“Secretary Rôle”***, as defined in Appendix A. The person acting in each becomes the Cercle’s ***“Facilitator”*** and ***“Secretary”*** respectively.
+Tout Cercle avec plus d'un Membre de Cercle inclue un ***“Rôle Facilitateur”*** et un ***“Rôle Secrétaire”***, tel que défini dans l'Annexe A. Les personnes agissant dans chacun de ces rôles deviennent respectivement le ***“Facilitateur”*** et le ***“Secrétaire”*** du Cercle.
 
 #### 1.6.1 Elections & Eligibility
 
-Upon request of a Cercle Member, a Cercle's Facilitator will hold an election to elect someone to fill its Facilitator Rôle or Secretary Rôle. No Rôle or Politique may assign these Rôles or remove an assignment via any other means, nor change the required process. Normally, the only candidates eligible for these elections are a Cercle's Membres de Cercle. However, a Politique of the Cercle or any Super-Cercle may add or limit eligible candidates.
+Upon request of a Cercle Member, a Cercle's Facilitateur will hold an election to elect someone to fill its Facilitateur Rôle or Secrétaire Rôle. No Rôle or Politique may assign these Rôles or remove an assignment via any other means, nor change the required process. Normally, the only candidates eligible for these elections are a Cercle's Membres de Cercle. However, a Politique of the Cercle or any Super-Cercle may add or limit eligible candidates.
 
 #### 1.6.2 Election Term
 
-During the election process, the Facilitator must specify a term for each election. After a term expires, the Secretary must trigger a new election for that Rôle. Even before a term has expired, any Cercle Member may trigger a new election at any time.
+During the election process, the Facilitateur must specify a term for each election. After a term expires, the Secrétaire must trigger a new election for that Rôle. Even before a term has expired, any Cercle Member may trigger a new election at any time.
 
-#### 1.6.3 Amending Facilitator or Secretary
+#### 1.6.3 Amending Facilitateur or Secrétaire
 
-A Cercle may add Redevabilités or Domaines to its own Facilitator or Secretary Rôle, as well as amend or remove those additions. No Cercle may amend or remove the Raison d’Être, Domaine, or any Redevabilités on either Rôle, nor remove the Rôle.
+A Cercle may add Redevabilités or Domaines to its own Facilitateur or Secrétaire Rôle, as well as amend or remove those additions. No Cercle may amend or remove the Raison d’Être, Domaine, or any Redevabilités on either Rôle, nor remove the Rôle.
 
 #### 1.6.4 Surrogates
 
-A surrogate may act as Facilitator or Secretary while the Rôle is unfilled. A surrogate may also fill in when the normal Facilitator or Secretary is unavailable for a meeting, or requests a surrogate for any reason.
+A surrogate may act as Facilitateur or Secrétaire while the Rôle is unfilled. A surrogate may also fill in when the normal Facilitateur or Secrétaire is unavailable for a meeting, or requests a surrogate for any reason.
 
 Whenever a surrogate is needed, the surrogate is, in this order of precedence:
 
 - **(a)** someone specified by the person to be replaced; or
-- **(b)** for Facilitator, the acting Secretary of the Cercle, and for Secretary, the acting Facilitator of the Cercle;
+- **(b)** for Facilitateur, the acting Secrétaire of the Cercle, and for Secrétaire, the acting Facilitateur of the Cercle;
 - **(c)** the Premier Lien of the Cercle, or, if there are multiple Premiers Liens, the first one to declare themselves acting as surrogate; or
 - **(d)** the first Cercle Member to declare themselves acting as surrogate.
 
@@ -226,7 +226,7 @@ In service of a Rôle, any Associé may convene a ***“Tactical Meeting”*** t
 
 #### 2.4.1 Attendance
 
-The Associé convening a Tactical Meeting must name the Rôles desired in that meeting. All Porteurs de Rôle of those Rôles are then invited to attend, unless the convener narrows the invite to include only a subset of Porteurs de Rôle. The convener may choose the Facilitator of any relevant Cercle to run the meeting.
+The Associé convening a Tactical Meeting must name the Rôles desired in that meeting. All Porteurs de Rôle of those Rôles are then invited to attend, unless the convener narrows the invite to include only a subset of Porteurs de Rôle. The convener may choose the Facilitateur of any relevant Cercle to run the meeting.
 
 #### 2.4.2 Facilitation & Process
 
@@ -236,8 +236,8 @@ Unless a Politique says otherwise, anyone facilitating a Tactical Meeting must u
 - **(b) Checklist Review:** Each participant verifies completion of any recurring actions that they are regularly reporting on for their Rôles in the meeting.
 - **(c) Metrics Review:** Each participant shares any metrics that they are regularly reporting on for their Rôles in the meeting.
 - **(d) Progress Updates:** Each participant highlights progress in any Rôle or Project that they are regularly reporting on for their Rôles in the meeting. Participants may only share progress made since a prior report, and not the general status of any work.
-- **(e) Build Agenda:** The Facilitator builds an agenda of Tensions to process by soliciting agenda items from all participants. The Facilitator must do this in the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items after this step, between the processing of any existing agenda items.
-- **(f) Triage Tensions:** To process each agenda item, the agenda item owner may make requests of the other participants. However, the agenda item owner may only make requests to serve a Rôle they were invited to represent in the meeting. Further, each participant only has duties that come from Rôles they were invited to represent in the meeting, or that exist regardless of the Rôles they fill. The Facilitator manages the time allowed for each agenda item to allow space for processing every item on the agenda. To that end, the Facilitator may cut off the processing of any item after its due share of the meeting time.
+- **(e) Build Agenda:** The Facilitateur builds an agenda of Tensions to process by soliciting agenda items from all participants. The Facilitateur must do this in the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items after this step, between the processing of any existing agenda items.
+- **(f) Triage Tensions:** To process each agenda item, the agenda item owner may make requests of the other participants. However, the agenda item owner may only make requests to serve a Rôle they were invited to represent in the meeting. Further, each participant only has duties that come from Rôles they were invited to represent in the meeting, or that exist regardless of the Rôles they fill. The Facilitateur manages the time allowed for each agenda item to allow space for processing every item on the agenda. To that end, the Facilitateur may cut off the processing of any item after its due share of the meeting time.
 - **(g) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
 
 A Politique of a Cercle may specify an alternate process or amend this default process for Tactical Meetings called by any of the Cercle's Rôles.
@@ -305,7 +305,7 @@ For a Proposal to be valid, the Proposer must be able to:
 - **(b)** share an example of an actual past or present situation illustrating that Tension; and
 - **(c)** give a reasonable explanation of how the Proposal would have reduced the Tension in that example.
 
-If at any point the Facilitator becomes clear that a Proposal does not meet this criteria, the Facilitator must discard the Proposal.
+If at any point the Facilitateur becomes clear that a Proposal does not meet this criteria, the Facilitateur must discard the Proposal.
 
 #### 3.2.2 Criteria for Valid Objections
 
@@ -320,28 +320,28 @@ However, regardless of the above criteria, a concern always counts as a valid Ob
 
 #### 3.2.3 Testing Objections
 
-The Facilitator may test the validity of a claimed Objection by asking the Objector if the Objection meets the required criteria, and how. When assessing responses, the Facilitator may only judge whether the Objector presented arguments for each criteria using logical reasoning. The Facilitator may not judge on the basis of an argument’s accuracy or the importance of addressing it.
+The Facilitateur may test the validity of a claimed Objection by asking the Objector if the Objection meets the required criteria, and how. When assessing responses, the Facilitateur may only judge whether the Objector presented arguments for each criteria using logical reasoning. The Facilitateur may not judge on the basis of an argument’s accuracy or the importance of addressing it.
 
-When an Objection is claimed because adopting a Proposal would violate the Constitution, the Facilitator may ask the Cercle’s Secretary to interpret if that's true. If the Secretary rules that it is not, the Facilitator must then dismiss the Objection.
+When an Objection is claimed because adopting a Proposal would violate the Constitution, the Facilitateur may ask the Cercle’s Secrétaire to interpret if that's true. If the Secrétaire rules that it is not, the Facilitateur must then dismiss the Objection.
 
 #### 3.2.4 Rules of Integration
 
 While attempting to resolve an Objection, the following rules apply:
 
-- **(a)** The Facilitator must test an Objection if requested by any Cercle Member. If it fails to meet the validity criteria, the Facilitator must discard it.
-- **(b)** The Objector must attempt to find an amendment to the Proposal that will resolve the Objection and still address the Proposer’s Tension. If the Facilitator believes the Objector is not making a good faith attempt to do so, the Facilitator must deem the Objection abandoned and drop it.
-- **(c)** Any Cercle Member may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitator believes the Proposer is not answering them in good faith, the Facilitator must deem the Proposal dropped.
-- **(d)** The Objector may suggest an amended Proposal, and offer reasonable arguments for why it should resolve the Tension. Then, upon the Objector’s request, the Proposer must present a reasonable argument for why the amended Proposal would fail to resolve the Tension in at least one of the examples the Proposer used to illustrate the Tension. If needed, the Proposer may add another example to illustrate why the amended Proposal would fail to resolve the Tension. If the Facilitator believes the Proposer is unable or unwilling to do so, the Facilitator must deem the Proposal dropped.
+- **(a)** The Facilitateur must test an Objection if requested by any Cercle Member. If it fails to meet the validity criteria, the Facilitateur must discard it.
+- **(b)** The Objector must attempt to find an amendment to the Proposal that will resolve the Objection and still address the Proposer’s Tension. If the Facilitateur believes the Objector is not making a good faith attempt to do so, the Facilitateur must deem the Objection abandoned and drop it.
+- **(c)** Any Cercle Member may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitateur believes the Proposer is not answering them in good faith, the Facilitateur must deem the Proposal dropped.
+- **(d)** The Objector may suggest an amended Proposal, and offer reasonable arguments for why it should resolve the Tension. Then, upon the Objector’s request, the Proposer must present a reasonable argument for why the amended Proposal would fail to resolve the Tension in at least one of the examples the Proposer used to illustrate the Tension. If needed, the Proposer may add another example to illustrate why the amended Proposal would fail to resolve the Tension. If the Facilitateur believes the Proposer is unable or unwilling to do so, the Facilitateur must deem the Proposal dropped.
 
 ### 3.3 Gouvernance Meetings
 
-The Secretary of a Cercle is responsible for scheduling ***"Gouvernance Meetings"*** to enact the Cercle’s Processus de Gouvernance. The Cercle's Facilitator is responsible for facilitating Gouvernance Meetings in alignment with the rules herein.
+The Secrétaire of a Cercle is responsible for scheduling ***"Gouvernance Meetings"*** to enact the Cercle’s Processus de Gouvernance. The Cercle's Facilitateur is responsible for facilitating Gouvernance Meetings in alignment with the rules herein.
 
-In addition to any regular Gouvernance Meetings of the Cercle, the Secretary must schedule special Gouvernance Meetings promptly upon request of any Cercle Member. The requester may further specify an intention for a special Gouvernance Meeting and any limits on what the meeting may change. This may include focusing the meeting on a specific Tension, or limiting it to only modifying certain Rôles. In that case, the authority of that special Gouvernance Meeting is constrained to only processing Proposals for the stated intent, and only making changes within the stated limits.
+In addition to any regular Gouvernance Meetings of the Cercle, the Secrétaire must schedule special Gouvernance Meetings promptly upon request of any Cercle Member. The requester may further specify an intention for a special Gouvernance Meeting and any limits on what the meeting may change. This may include focusing the meeting on a specific Tension, or limiting it to only modifying certain Rôles. In that case, the authority of that special Gouvernance Meeting is constrained to only processing Proposals for the stated intent, and only making changes within the stated limits.
 
 #### 3.3.1 Attendance
 
-All Membres de Cercle of a Cercle may participate in its Gouvernance Meetings. The acting Facilitator and Secretary may also participate even if they are not Membres de Cercle of the Cercle. In that case, they become temporary Membres de Cercle for the duration of the meeting.
+All Membres de Cercle of a Cercle may participate in its Gouvernance Meetings. The acting Facilitateur and Secrétaire may also participate even if they are not Membres de Cercle of the Cercle. In that case, they become temporary Membres de Cercle for the duration of the meeting.
 
 As a Second Lien for a Cercle, you may invite any Associé to join the Gouvernance Meeting of any Cercle immediately containing your Cercle. You may only extend this invitation to one Associé at a time, and only to aid in the processing of a specific Tension affecting the Cercle you represent. You must sense this Tension yourself as well, and believe it makes sense to process in the Cercle. Your invited guest becomes a temporary Cercle Member for the duration of the meeting, or until you withdraw the invitation. Your guest may represent your Cercle along with you in the meeting, but only while processing that specific Tension.
 
@@ -349,59 +349,59 @@ Beyond the above, no one else may participate in a Cercle’s Gouvernance Meetin
 
 #### 3.3.2 Notice & Duration
 
-A Cercle may only conduct a Gouvernance Meeting if the Secretary gave all Membres de Cercle reasonable advance notice of the meeting. Beyond that, there is no quorum required for a Cercle to conduct a Gouvernance Meeting, unless a Politique specifies one.
+A Cercle may only conduct a Gouvernance Meeting if the Secrétaire gave all Membres de Cercle reasonable advance notice of the meeting. Beyond that, there is no quorum required for a Cercle to conduct a Gouvernance Meeting, unless a Politique specifies one.
 
-Gouvernance Meetings end once they reach the duration initially scheduled by the Secretary. The Secretary may choose to extend the duration within the meeting, but only if no Cercle Member requests otherwise.
+Gouvernance Meetings end once they reach the duration initially scheduled by the Secrétaire. The Secrétaire may choose to extend the duration within the meeting, but only if no Cercle Member requests otherwise.
 
 Any Cercle Member who misses part or all of a Gouvernance Meeting counts as having had a chance to raise concerns about any Proposals made therein. Thus, a Cercle may adopt Proposals in a Gouvernance Meeting without regard for absent members.
 
 #### 3.3.3 Meeting Process
 
-The Facilitator must use the following process for Gouvernance Meetings:
+The Facilitateur must use the following process for Gouvernance Meetings:
 
 - **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
-- **(b) Agenda Building & Processing:** The Facilitator builds an agenda of Tensions to process, then processes each agenda item in turn.
+- **(b) Agenda Building & Processing:** The Facilitateur builds an agenda of Tensions to process, then processes each agenda item in turn.
 - **(c) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
 
-At any point during this process, a participant may request a ***“Time Out”*** pause. The Facilitator may choose to grant or deny this request. During the Time Out, participants may discuss administrative issues or the rules of this Constitution. They may not use the Time Out to work towards the resolution of a Tension, Proposal, or Objection. The Facilitator may end a Time Out at any point and resume the normal meeting process.
+At any point during this process, a participant may request a ***“Time Out”*** pause. The Facilitateur may choose to grant or deny this request. During the Time Out, participants may discuss administrative issues or the rules of this Constitution. They may not use the Time Out to work towards the resolution of a Tension, Proposal, or Objection. The Facilitateur may end a Time Out at any point and resume the normal meeting process.
 
 A Politique of the Cercle may add to this process, but may not conflict with any rules or requirements defined in this Article of the Constitution.
 
 #### 3.3.4 Agenda Building
 
-The Facilitator builds an agenda of Tensions to process by soliciting agenda items from all participants. The Facilitator must do this in the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items during the meeting, between the processing of any existing agenda items.
+The Facilitateur builds an agenda of Tensions to process by soliciting agenda items from all participants. The Facilitateur must do this in the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items during the meeting, between the processing of any existing agenda items.
 
-For a regular Gouvernance Meeting, the Facilitator may choose the order in which to process agenda items. However, on request of a meeting participant, any agenda item calling for an election must go before all others. For a special Gouvernance Meeting scheduled on request of a participant, that participant may choose the agenda order.
+For a regular Gouvernance Meeting, the Facilitateur may choose the order in which to process agenda items. However, on request of a meeting participant, any agenda item calling for an election must go before all others. For a special Gouvernance Meeting scheduled on request of a participant, that participant may choose the agenda order.
 
-Agenda items are processed one at a time. To process a request for an election, the Facilitator uses the ***“Integrative Election Process”*** defined below. To process anything else, the Facilitator uses the ***“Integrative Decision-Making Process”*** defined below.
+Agenda items are processed one at a time. To process a request for an election, the Facilitateur uses the ***“Integrative Election Process”*** defined below. To process anything else, the Facilitateur uses the ***“Integrative Decision-Making Process”*** defined below.
 
 #### 3.3.5 Integrative Decision-Making Process
 
-The Facilitator must enact the Integrative Decision-Making Process as follows:
+The Facilitateur must enact the Integrative Decision-Making Process as follows:
 
-- **(a) Present Proposal:** First, the Proposer may describe the Tension and present a Proposal to address it. On the Proposer's request, the Facilitator may allow others to help craft a Proposal. However, the Facilitator must focus this help solely on getting to an initial Proposal to address the Proposer's Tension. The Facilitator must disallow discussing other Tensions or concerns about the Proposal.
-- **(b) Clarifying Questions:** Once the Proposer makes a Proposal, others may ask clarifying questions. These must be to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must stop any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Participants may also ask the Secretary to read the Proposal or show any existing Gouvernance, during this step or at any other time when the participant is allowed to speak, and the Secretary must do so.
-- **(c) Reaction Round:** Next, each participant except the Proposer may share reactions to the Proposal, one person at a time. The Facilitator must immediately stop any out-of-turn comments, any attempts to engage others in a dialog, and any reactions to other reactions instead of to the Proposal.
-- **(d) Amend & Clarify:** Next, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. The Facilitator must immediately stop comments by anyone other than the Proposer or Secretary. Any engagement by the Secretary must focus solely on capturing the amended Proposal.
-- **(e) Objection Round:** Next, each participant, one at a time, may raise potential Objections to adopting the Proposal. The Facilitator must stop and disallow discussion or responses of any kind. The Facilitator may test Objections, and must capture any valid Objections. If there are no valid Objections, the Proposal is adopted.
-- **(f) Integration:** If there are valid Objections, the Facilitator then focuses on each one, one at a time. For each, the participants brainstorm to find a potential change to the Proposal to resolve the Objection. The Facilitator marks an Objection resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that it still addresses the Tension. During this step, the Facilitator must apply the rules of integration described in this Article. Once all Objections are resolved, the Facilitator moves back to the Objection round with the amended Proposal.
+- **(a) Present Proposal:** First, the Proposer may describe the Tension and present a Proposal to address it. On the Proposer's request, the Facilitateur may allow others to help craft a Proposal. However, the Facilitateur must focus this help solely on getting to an initial Proposal to address the Proposer's Tension. The Facilitateur must disallow discussing other Tensions or concerns about the Proposal.
+- **(b) Clarifying Questions:** Once the Proposer makes a Proposal, others may ask clarifying questions. These must be to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitateur must stop any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Participants may also ask the Secrétaire to read the Proposal or show any existing Gouvernance, during this step or at any other time when the participant is allowed to speak, and the Secrétaire must do so.
+- **(c) Reaction Round:** Next, each participant except the Proposer may share reactions to the Proposal, one person at a time. The Facilitateur must immediately stop any out-of-turn comments, any attempts to engage others in a dialog, and any reactions to other reactions instead of to the Proposal.
+- **(d) Amend & Clarify:** Next, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. The Facilitateur must immediately stop comments by anyone other than the Proposer or Secrétaire. Any engagement by the Secrétaire must focus solely on capturing the amended Proposal.
+- **(e) Objection Round:** Next, each participant, one at a time, may raise potential Objections to adopting the Proposal. The Facilitateur must stop and disallow discussion or responses of any kind. The Facilitateur may test Objections, and must capture any valid Objections. If there are no valid Objections, the Proposal is adopted.
+- **(f) Integration:** If there are valid Objections, the Facilitateur then focuses on each one, one at a time. For each, the participants brainstorm to find a potential change to the Proposal to resolve the Objection. The Facilitateur marks an Objection resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that it still addresses the Tension. During this step, the Facilitateur must apply the rules of integration described in this Article. Once all Objections are resolved, the Facilitateur moves back to the Objection round with the amended Proposal.
 
 #### 3.3.6 Integrative Election Process
 
-The Facilitator must enact the Integrative Election Process as follows:
+The Facilitateur must enact the Integrative Election Process as follows:
 
-- **(a) Describe Rôle:** First, the Facilitator identifies the target Rôle and term for the election. The Facilitator may also present other information relevant to the election. During this step and the next, no one may comment on any potential candidates.
+- **(a) Describe Rôle:** First, the Facilitateur identifies the target Rôle and term for the election. The Facilitateur may also present other information relevant to the election. During this step and the next, no one may comment on any potential candidates.
 - **(b) Fill Out Ballots:** Each participant fills out a ballot to nominate the eligible candidate whom the participant believes is best for the Rôle. Each participant must label the ballot with his or her own name as well, and no one may abstain or nominate multiple people.
-- **(c) Nomination Round:** During this step, the Facilitator shares the contents of each ballot, one at a time, with all participants. For each ballot, the nominator states why he or she believes their nominee would be a good fit for the Rôle. No one else speaks. The nominator may not comment on other potential candidates beyond their nominee.
-- **(d) Nomination Change Round:** Once all nominations are shared, any participant may change their nomination. A participant making a change may explain the reason for the change, but the Facilitator must stop any other comments or discussion.
-- **(e) Make a Proposal:** The Facilitator counts the nominations, and makes a Proposal to elect the candidate with the most. If there is a tie, the Facilitator may do any one of the following: (i) if only one of the tied candidates has nominated himself or herself, propose that person; or (ii) if the person currently filling the Rôle is among those tied, propose that person; or (iii) blindly select one of the tied candidates randomly, and propose that person; or (iv) go back to the previous step and ask each participant who nominated someone other than a tied candidate to change that nomination to one of the tied candidates.
-- **(f) Process Proposal:** The Facilitator moves to the Integrative Decision-Making Process to resolve the Proposal, but starts with the Objection round. If any Objections surface, the Facilitator may choose to process them normally, or discard the Proposal. If discarded, the Facilitator must then go back to the prior step in this process, ignore all nominations for the discarded candidate, and apply the rules of the prior step to select another candidate to propose instead.
+- **(c) Nomination Round:** During this step, the Facilitateur shares the contents of each ballot, one at a time, with all participants. For each ballot, the nominator states why he or she believes their nominee would be a good fit for the Rôle. No one else speaks. The nominator may not comment on other potential candidates beyond their nominee.
+- **(d) Nomination Change Round:** Once all nominations are shared, any participant may change their nomination. A participant making a change may explain the reason for the change, but the Facilitateur must stop any other comments or discussion.
+- **(e) Make a Proposal:** The Facilitateur counts the nominations, and makes a Proposal to elect the candidate with the most. If there is a tie, the Facilitateur may do any one of the following: (i) if only one of the tied candidates has nominated himself or herself, propose that person; or (ii) if the person currently filling the Rôle is among those tied, propose that person; or (iii) blindly select one of the tied candidates randomly, and propose that person; or (iv) go back to the previous step and ask each participant who nominated someone other than a tied candidate to change that nomination to one of the tied candidates.
+- **(f) Process Proposal:** The Facilitateur moves to the Integrative Decision-Making Process to resolve the Proposal, but starts with the Objection round. If any Objections surface, the Facilitateur may choose to process them normally, or discard the Proposal. If discarded, the Facilitateur must then go back to the prior step in this process, ignore all nominations for the discarded candidate, and apply the rules of the prior step to select another candidate to propose instead.
 
 ### 3.4 Asynchronous Gouvernance
 
-Membres de Cercle may make Proposals asynchronously instead of waiting for a Gouvernance Meeting. To do so, the Proposer must distribute a Proposal in writing to all other Membres de Cercle. The Cercle’s Secretary decides which communication channels are allowed for asynchronous Proposals. Each Cercle Member may then ask clarifying questions, share reactions, or raise Objections. At any point before the process is complete, any Cercle Member may stop the process by requesting the Proposal go to a Gouvernance Meeting.
+Membres de Cercle may make Proposals asynchronously instead of waiting for a Gouvernance Meeting. To do so, the Proposer must distribute a Proposal in writing to all other Membres de Cercle. The Cercle’s Secrétaire decides which communication channels are allowed for asynchronous Proposals. Each Cercle Member may then ask clarifying questions, share reactions, or raise Objections. At any point before the process is complete, any Cercle Member may stop the process by requesting the Proposal go to a Gouvernance Meeting.
 
-A Cercle Member may also request the Facilitator run an election outside of a Gouvernance Meeting. The Facilitator may do so by enacting the required election process asynchronously.
+A Cercle Member may also request the Facilitateur run an election outside of a Gouvernance Meeting. The Facilitateur may do so by enacting the required election process asynchronously.
 
 A Cercle may adopt Politiques to further constrain when or how Proposals or elections may happen outside of a Gouvernance Meeting. However, no Politique may limit the right to stop asynchronous processing of a Proposal by requesting it go to a Gouvernance Meeting.
 
@@ -415,36 +415,36 @@ You must interpret all Gouvernance in the context of the Raison d’Être and Re
 
 #### 3.5.1 Interpretation Conflicts
 
-Your interpretation may sometimes conflict with another Associé's. If that happens, you may ask the Secretary of any affected Cercle to rule on which interpretation to use. All Associés must then align with that ruling until the relevant text or context changes. You may appeal a Secretary's interpretation to the Secretary of any Super-Cercle. A Super-Cercle Secretary may overrule the interpretation of any Sub-Cercle Secretary.
+Your interpretation may sometimes conflict with another Associé's. If that happens, you may ask the Secrétaire of any affected Cercle to rule on which interpretation to use. All Associés must then align with that ruling until the relevant text or context changes. You may appeal a Secrétaire's interpretation to the Secrétaire of any Super-Cercle. A Super-Cercle Secrétaire may overrule the interpretation of any Sub-Cercle Secrétaire.
 
 #### 3.5.2 Interpretation Precedents
 
-After ruling on an interpretation, a Secretary may publish the ruling and the logic behind it. If published, the Secretary of that Cercle and any contained Cercles must attempt to align with that logic in any future rulings. However, a Secretary may still contradict it once a compelling new circumstance renders the logic obsolete.
+After ruling on an interpretation, a Secrétaire may publish the ruling and the logic behind it. If published, the Secrétaire of that Cercle and any contained Cercles must attempt to align with that logic in any future rulings. However, a Secrétaire may still contradict it once a compelling new circumstance renders the logic obsolete.
 
 #### 3.5.3 Striking Invalid Gouvernance
 
-Any Associé may ask a Cercle's Secretary to rule on the validity of any Gouvernance within that Cercle or any Sub-Cercle thereof. If the Secretary concludes it violates the rules of this Constitution, the Secretary must strike it from the Cercle's records. After doing so, the Secretary must promptly communicate what they struck and why to all of that Cercle's Membres de Cercle.
+Any Associé may ask a Cercle's Secrétaire to rule on the validity of any Gouvernance within that Cercle or any Sub-Cercle thereof. If the Secrétaire concludes it violates the rules of this Constitution, the Secrétaire must strike it from the Cercle's records. After doing so, the Secrétaire must promptly communicate what they struck and why to all of that Cercle's Membres de Cercle.
 
 ### 3.6 Process Breakdown
 
-A ***“Process Breakdown”*** occurs when a Cercle shows a pattern of behavior or output that violates the rules of this Constitution. The Facilitator or Secretary of a Cercle may declare a Process Breakdown in their own Cercle or any Sub-Cercle, using their reasonable judgment.
+A ***“Process Breakdown”*** occurs when a Cercle shows a pattern of behavior or output that violates the rules of this Constitution. The Facilitateur or Secrétaire of a Cercle may declare a Process Breakdown in their own Cercle or any Sub-Cercle, using their reasonable judgment.
 
 #### 3.6.1 Breakdown from Failed Gouvernance
 
-A Cercle's Facilitator may also declare a Process Breakdown in the Cercle if a Proposal made in a Gouvernance Meeting fails to reach a resolution. If the Proposer specially requested the meeting, then the Proposer may also declare the Process Breakdown. In either case, the participants must first spend a reasonably long time trying to find a resolution.
+A Cercle's Facilitateur may also declare a Process Breakdown in the Cercle if a Proposal made in a Gouvernance Meeting fails to reach a resolution. If the Proposer specially requested the meeting, then the Proposer may also declare the Process Breakdown. In either case, the participants must first spend a reasonably long time trying to find a resolution.
 
 #### 3.6.2 Process Restoration
 
 Whenever an authorized party declares a Process Breakdown within a Cercle, the following occurs:
 
-- **(a)** the Facilitator gains the authority to judge the accuracy of any arguments made to validate Proposals or Objections in the Cercle; and
-- **(b)** the Facilitator of the Super-Cercle gains a Project to restore due-process within the Cercle; and
-- **(c)** the Facilitator of the Super-Cercle gains the authority to take over as Facilitator or Secretary of the Cercle; and
-- **(d)** the Facilitator of the Super-Cercle may assign an additional Premier Lien to the Cercle for the duration of the Process Breakdown. Any decisions that person makes as Premier Lien trumps and prevents any conflicting decision by another Premier Lien.
+- **(a)** the Facilitateur gains the authority to judge the accuracy of any arguments made to validate Proposals or Objections in the Cercle; and
+- **(b)** the Facilitateur of the Super-Cercle gains a Project to restore due-process within the Cercle; and
+- **(c)** the Facilitateur of the Super-Cercle gains the authority to take over as Facilitateur or Secrétaire of the Cercle; and
+- **(d)** the Facilitateur of the Super-Cercle may assign an additional Premier Lien to the Cercle for the duration of the Process Breakdown. Any decisions that person makes as Premier Lien trumps and prevents any conflicting decision by another Premier Lien.
 
-These authorities end as soon as due process is restored in the Cercle, as assessed by the Facilitator of the Super-Cercle.
+These authorities end as soon as due process is restored in the Cercle, as assessed by the Facilitateur of the Super-Cercle.
 
-If the Cercle in Process Breakdown has no Super-Cercle, then the powers above all vest with its own Facilitator instead.
+If the Cercle in Process Breakdown has no Super-Cercle, then the powers above all vest with its own Facilitateur instead.
 
 #### 3.6.3 Escalation of Process Breakdown
 
@@ -499,7 +499,7 @@ _The Premier Lien also holds all Redevabilités on the Cercle to the extent they
 - Discerning Tensions appropriate to process within a broader Cercle that holds the Cercle
 - Processing Tensions within a broader Cercle to remove constraints on the Cercle
 
-## Facilitator
+## Facilitateur
 
 **Raison d’Être:** Cercle Gouvernance and operational practices aligned with the Constitution.
 
@@ -509,7 +509,7 @@ _The Premier Lien also holds all Redevabilités on the Cercle to the extent they
 - Coaching other Membres de Cercle on the Constitution's rules and processes, either on request or when needed for effective meetings
 - Auditing the meetings and records of Sub-Cercles on request, and declaring a Process Breakdown if one is discovered
 
-## Secretary
+## Secrétaire
 
 **Raison d’Être:** Steward the Cercle’s Gouvernance records and stabilize its record-keeping process.
 
