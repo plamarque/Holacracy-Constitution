@@ -104,7 +104,7 @@ Sélectionner un Second Lien se produit par le processus d'élection et les règ
 
 Un Cercle peut ajouter des Redevabilités ou des Domaines à son Rôle de Second Lien, de même qu'amender ou supprimer ces ajouts. Aucun Cercle ne peut amender ou supprimer la Raison d’Être ou toute Redevabilité du Rôle de Second Lien, ni supprimer ce Rôle.
 
-### 1.6 Facilitateur and Secrétaire
+### 1.6 Facilitateur et Secrétaire
 
 Tout Cercle avec plus d'un Membre de Cercle inclue un ***“Rôle Facilitateur”*** et un ***“Rôle Secrétaire”***, tel que défini dans l'Annexe A. Les personnes agissant dans chacun de ces rôles deviennent respectivement le ***“Facilitateur”*** et le ***“Secrétaire”*** du Cercle.
 
@@ -116,9 +116,9 @@ Sur demande d'un Membre de Cercle, un Facilitateur organisera une élection afin
 
 Pendant un processus d'élection, le Facilitateur doit spécifier une durée de mandat pour chaque élection. A la fin du mandat, le Secrétaire doit  déclencher une élection pour ce Rôle. Même avant que le mandat ait expiré, tout Membre de Cercle peut déclencher une nouvelle élection à tout moment.
 
-#### 1.6.3 Amending Facilitateur or Secrétaire
+#### 1.6.3 Amender les Rôles Facilitateur ou Secrétaire
 
-A Cercle may add Redevabilités or Domaines to its own Facilitateur or Secrétaire Rôle, as well as amend or remove those additions. No Cercle may amend or remove the Raison d’Être, Domaine, or any Redevabilités on either Rôle, nor remove the Rôle.
+Un Cercle peut ajouter des Redevabilités ou des Domaines à ses propre Rôles Facilitateur ou Secrétaire, de même qu'il peut changer et supprimer ces ajouts. Aucun Cercle ne peut amender ou supprimer la Raison d’Être, le Domaine, une Redevabilité, ni supprimer le Rôle.
 
 #### 1.6.4 Surrogates
 
