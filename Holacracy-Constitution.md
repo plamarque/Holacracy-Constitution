@@ -455,7 +455,7 @@ A Process Breakdown in one Cercle is not automatically considered a Process Brea
 
 ### 4.1 Relation d'Associé
 
-L'Organisation peut octroyer le statut d'Associé à quiconque a accepté de se conformer à cette Constitution lorsqu'elle travaille en son nom. Ceci créer une ***“Relation d'Associé”*** entre cette personne et l'Organisation. Toute promesse que l'une des parties fait à l'autre dans le cadre de l'octroi du statut d'Associé fait partie de cette Relation d'Associé. Sauf convention contraire, chaque partie a besoin du consentement de l'autre pour modifier ces accords. Toutefois, chacune des parties peut toujours mettre fin à la Relation d'Associé sans le consentement de l'autre. Ce faisant, cette personne perd immédiatement ses droits et responsabilités en tant qu'Associé.
+L'Organisation peut octroyer le statut d'Associé à quiconque a accepté de se conformer à cette Constitution lorsqu'elle travaille pour son compte. Ceci créer une ***“Relation d'Associé”*** entre cette personne et l'Organisation. Toute promesse que l'une des parties fait à l'autre dans le cadre de l'octroi du statut d'Associé fait partie de cette Relation d'Associé. Sauf convention contraire, chaque partie a besoin du consentement de l'autre pour modifier ces accords. Toutefois, chacune des parties peut toujours mettre fin à la Relation d'Associé sans le consentement de l'autre. Ce faisant, cette personne perd immédiatement ses droits et responsabilités en tant qu'Associé.
 
 ### 4.2 Ententes de Travail
 
