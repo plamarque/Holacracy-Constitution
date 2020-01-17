@@ -94,15 +94,15 @@ Chaque Cercle a un groupe de ***"Membres de Cercle"*** qui peuvent représenter 
 
 Les Membres de Cercle incluent tous ses Premiers Liens, de même que chaque Associé Porteur d'un Rôle du Cercle. Si un Rôle a plusieurs Porteurs de Rôle, un Cercle peut adopter une Politique pour limiter combien de Porteurs représentent ce Rôle en tant que Membres de Cercle dans son Processus de Gouvernance.
 
-#### 1.5.1 Cercle Reps
+#### 1.5.1 Seconds Liens
 
-Any Cercle Member of a Cercle may call for the selection of a ***"Cercle Rep"*** to help represent that Cercle within any broader Cercle containing it. The selected Cercle Rep fills the ***"Cercle Rep Rôle"*** in the Cercle, as defined in Appendix A.
+Any Cercle Member of a Cercle may call for the selection of a ***"Second Lien"*** to help represent that Cercle within any broader Cercle containing it. The selected Second Lien fills the ***"Second Lien Rôle"*** in the Cercle, as defined in Appendix A.
 
-The Cercle Rep becomes a Cercle Member of any broader Cercle containing that Cercle's outer Rôle, with the authority to represent that Rôle just like a Porteur. A containing Cercle may limit or prevent these Cercle Reps from becoming its Membres de Cercle via a Politique, but only if its Rôles have another way to enjoy comparable representation within that Cercle.
+The Second Lien becomes a Cercle Member of any broader Cercle containing that Cercle's outer Rôle, with the authority to represent that Rôle just like a Porteur. A containing Cercle may limit or prevent these Seconds Liens from becoming its Membres de Cercle via a Politique, but only if its Rôles have another way to enjoy comparable representation within that Cercle.
 
-Selecting a Cercle Rep happens via the election process and rules defined in Article 3, unless a Politique defines an alternate process. The only candidates eligible to serve as a Cercle's Cercle Rep are those Associés filling Rôles within the Cercle. Anyone serving as a Premier Lien for a Cercle may not also serve as its Cercle Rep. No more than one person may serve as a Cercle's Cercle Rep at a time, unless a Politique of a containing Cercle allows it.
+Selecting a Second Lien happens via the election process and rules defined in Article 3, unless a Politique defines an alternate process. The only candidates eligible to serve as a Cercle's Second Lien are those Associés filling Rôles within the Cercle. Anyone serving as a Premier Lien for a Cercle may not also serve as its Second Lien. No more than one person may serve as a Cercle's Second Lien at a time, unless a Politique of a containing Cercle allows it.
 
-A Cercle may add Redevabilités or Domaines to its own Cercle Rep Rôle, as well as amend or remove those additions. No Cercle may amend or remove the Raison d’Être or any Redevabilités on the Cercle Rep Rôle, nor remove the Rôle.
+A Cercle may add Redevabilités or Domaines to its own Second Lien Rôle, as well as amend or remove those additions. No Cercle may amend or remove the Raison d’Être or any Redevabilités on the Second Lien Rôle, nor remove the Rôle.
 
 ### 1.6 Facilitator and Secretary
 
@@ -293,7 +293,7 @@ A Politique that grants or constrains authority applies in all Sub-Cercles as we
 
 ### 3.2 Changing Gouvernance
 
-Any Cercle Member of a Cercle may propose changing its Gouvernance. The ***“Proposer”*** may do this by circulating a ***“Proposal”*** to all other Membres de Cercle. Those other Membres de Cercle must then have the opportunity to raise concerns about adopting the Proposal. Each concern is an ***“Objection”*** if it meets the criteria herein, and the person who raised it is the ***“Objector”***. When making Proposals or raising Objections, a Cercle Member may only represent the Rôles in the Cercle that they either fill as Porteur or represent as Cercle Rep. A Cercle Member may also represent a Rôle that they have permission to temporarily represent from one of its Porteurs de Rôle, until that permission expires or is withdrawn.
+Any Cercle Member of a Cercle may propose changing its Gouvernance. The ***“Proposer”*** may do this by circulating a ***“Proposal”*** to all other Membres de Cercle. Those other Membres de Cercle must then have the opportunity to raise concerns about adopting the Proposal. Each concern is an ***“Objection”*** if it meets the criteria herein, and the person who raised it is the ***“Objector”***. When making Proposals or raising Objections, a Cercle Member may only represent the Rôles in the Cercle that they either fill as Porteur or represent as Second Lien. A Cercle Member may also represent a Rôle that they have permission to temporarily represent from one of its Porteurs de Rôle, until that permission expires or is withdrawn.
 
 If no Objections are raised to a Proposal, it is adopted and amends the Cercle's Gouvernance. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Cercle adopts the Proposal. After any such effort, all Membres de Cercle must then be given an opportunity to raise Objections again.
 
@@ -343,7 +343,7 @@ In addition to any regular Gouvernance Meetings of the Cercle, the Secretary mus
 
 All Membres de Cercle of a Cercle may participate in its Gouvernance Meetings. The acting Facilitator and Secretary may also participate even if they are not Membres de Cercle of the Cercle. In that case, they become temporary Membres de Cercle for the duration of the meeting.
 
-As a Cercle Rep for a Cercle, you may invite any Associé to join the Gouvernance Meeting of any Cercle immediately containing your Cercle. You may only extend this invitation to one Associé at a time, and only to aid in the processing of a specific Tension affecting the Cercle you represent. You must sense this Tension yourself as well, and believe it makes sense to process in the Cercle. Your invited guest becomes a temporary Cercle Member for the duration of the meeting, or until you withdraw the invitation. Your guest may represent your Cercle along with you in the meeting, but only while processing that specific Tension.
+As a Second Lien for a Cercle, you may invite any Associé to join the Gouvernance Meeting of any Cercle immediately containing your Cercle. You may only extend this invitation to one Associé at a time, and only to aid in the processing of a specific Tension affecting the Cercle you represent. You must sense this Tension yourself as well, and believe it makes sense to process in the Cercle. Your invited guest becomes a temporary Cercle Member for the duration of the meeting, or until you withdraw the invitation. Your guest may represent your Cercle along with you in the meeting, but only while processing that specific Tension.
 
 Beyond the above, no one else may participate in a Cercle’s Gouvernance Meetings.
 
@@ -489,7 +489,7 @@ All of your responsibilities and constraints as a Associé of the Organisation c
 
 _The Premier Lien also holds all Redevabilités on the Cercle to the extent they are not covered by the Cercle's Rôles or processes._
 
-## Cercle Rep
+## Second Lien
 
 **Raison d’Être:** Tensions relevant to process in a broader Cercle channeled out and resolved.
 
