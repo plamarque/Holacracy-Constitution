@@ -120,16 +120,16 @@ Pendant un processus d'élection, le Facilitateur doit spécifier une durée de 
 
 Un Cercle peut ajouter des Redevabilités ou des Domaines à ses propre Rôles Facilitateur ou Secrétaire, de même qu'il peut changer et supprimer ces ajouts. Aucun Cercle ne peut amender ou supprimer la Raison d’Être, le Domaine, une Redevabilité, ni supprimer le Rôle.
 
-#### 1.6.4 Surrogates
+#### 1.6.4 Remplaçants
 
-A surrogate may act as Facilitateur or Secrétaire while the Rôle is unfilled. A surrogate may also fill in when the normal Facilitateur or Secrétaire is unavailable for a meeting, or requests a surrogate for any reason.
+Un remplaçant peut agir en tant que Facilitateur ou Secrétaire lorsque le Rôle n'est pas porté. Un remplaçant peut aussi servir lorsque le Facilitateur ou Secrétaire habituel n'est pas disponible pour une réunion, ou demander un autre remplaçant pour toute raison.
 
-Whenever a surrogate is needed, the surrogate is, in this order of precedence:
+Lorsqu'un remplaçant est nécessaire, le remplaçant est, par ordre de priorité :
 
-- **(a)** someone specified by the person to be replaced; or
-- **(b)** for Facilitateur, the acting Secrétaire of the Cercle, and for Secrétaire, the acting Facilitateur of the Cercle;
-- **(c)** the Premier Lien of the Cercle, or, if there are multiple Premiers Liens, the first one to declare themselves acting as surrogate; or
-- **(d)** the first Cercle Member to declare themselves acting as surrogate.
+- **(a)** quelqu'un désigné par la personne à remplacer; ou
+- **(b)** comme Facilitateur, le Secrétaire élu du Cercle, et comme Secrétaire, le Facilitateur effectif du Cercle;
+- **(c)** le Premier Lien du Cercle, ou, s'il y a plusieurs Premiers Liens, le premier à se déclarer remmplaçant; ou
+- **(d)** le premier Membre de Cercle à se déclarer remplaçant.
 
 
 ## Article 2: Operations
