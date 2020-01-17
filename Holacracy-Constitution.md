@@ -475,19 +475,19 @@ Toutes vos responsabilités et contraintes en tant qu'Associé de l'Organisation
 
 ## Premier Lien
 
-**Raison d’Être:** _The Premier Lien holds the Raison d’Être of the overall Cercle._
+**Raison d’Être:** _Le Premier Lien porte la Raison d’Être de l’ensemble du Cercle._
 
 **Domaines:**
 
-- Rôle assignments for the Cercle's Rôles
+- Affectation des Rôles du Cercle
 
 **Redevabilités:**
 
-- Defining Rôles and/or Politiques via the Cercle's Processus de Gouvernance to enact its Raison d’Être and Redevabilités
-- Assigning Associés to the Cercle’s Rôles, monitoring the fit, and re-assigning Rôles to other Associés to optimize fit
-- Judging the relative value of Cercle efforts on request to resolve priority conflicts across Rôles
+- Définir les Rôles et/ou Politiques via le Processus de Gouvernance du Cercle afin de manifester sa Raison d’Être et de mettre en oeuvre ses Redevabilités
+- Affecter des Associés aux Rôles du Cercle, en suivre l'adéquation, et si nécessaire réaffecter les Rôles à d'autres Associés pour une meilleure adéquation
+- Sur demande, juger la valeur relative des efforts du Cercle pour résoudre des conflits de priorité entre les Rôles
 
-_The Premier Lien also holds all Redevabilités on the Cercle to the extent they are not covered by the Cercle's Rôles or processes._
+_Le Premier Lien porte également toutes les Redevabilités du Cercle qui ne sont pas couvertes par des Rôles ou des processus._
 
 ## Second Lien
 
