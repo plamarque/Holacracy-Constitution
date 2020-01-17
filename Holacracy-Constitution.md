@@ -112,9 +112,9 @@ Tout Cercle avec plus d'un Membre de Cercle inclue un ***“Rôle Facilitateur�
 
 Sur demande d'un Membre de Cercle, un Facilitateur organisera une élection afin de choisir quelqu'un pour remplir son Rôle de Facilitateur ou de Secrétaire. Aucun Rôle et aucune Politique ne peut affecter ou désaffecter ces Rôles par un autre moyen, ni changer le processus obligatoire. Normalement seuls les  Membres de Cercle sont des candidats éligibles pour ces élections. Néanmoins, une Politique du Cercle ou de tout Super-Cercle peut ajouter ou restreindre les candidats éligibles.
 
-#### 1.6.2 Election Term
+#### 1.6.2 Mandat
 
-During the election process, the Facilitateur must specify a term for each election. After a term expires, the Secrétaire must trigger a new election for that Rôle. Even before a term has expired, any Cercle Member may trigger a new election at any time.
+Pendant un processus d'élection, le Facilitateur doit spécifier une durée de mandat pour chaque élection. A la fin du mandat, le Secrétaire doit  déclencher une élection pour ce Rôle. Même avant que le mandat ait expiré, tout Membre de Cercle peut déclencher une nouvelle élection à tout moment.
 
 #### 1.6.3 Amending Facilitateur or Secrétaire
 
