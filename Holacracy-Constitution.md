@@ -88,17 +88,17 @@ Lorsqu'une Gouvernance en dehors du Cercle référence le Cercle lui-même ou n'
 
 Un Cercle ne peut pas ajouter de Redevabilités ou d'autres fonctions à son Premier Lien, ni en changer la Raison d’Être, ni le supprimer. En revanche, un Cercle peut supprimer des Redevabilités, Domaines, autorités, ou fonctions à son Premier Lien. Il peut le faire soit en les confiant à un autre Rôle du Cercle, soit en définissant d'autres manières de les mettre en oeuvre. Faire cela supprime automatiquement l'élément en question du Rôle de Premier Lien, aussi longtemps que la délégation reste en place.
 
-### 1.5 Cercle Members
+### 1.5 Membres de Cercle
 
-Each Cercle has a group of ***"Cercle Members"*** who may represent its Rôles in its Processus de Gouvernance.
+Chaque Cercle a un groupe de ***"Membres de Cercle"*** qui peuvent représenter ses Rôles dans son Processus de Gouvernance.
 
-A Cercle's Cercle Members include all Associés filling its Premier Lien Rôle, as well as each Associé serving as Porteur for a Rôle in the Cercle. If a Rôle has multiple Porteurs de Rôle, a Cercle may adopt a Politique to limit how many of them represent that Rôle as Cercle Members in its Processus de Gouvernance.
+Les Membres de Cercle incluent tous ses Premiers Liens, de même que chaque Associé Porteur d'un Rôle du Cercle. Si un Rôle a plusieurs Porteurs de Rôle, un Cercle peut adopter une Politique pour limiter combien de Porteurs représentent ce Rôle en tant que Membres de Cercle dans son Processus de Gouvernance.
 
 #### 1.5.1 Cercle Reps
 
 Any Cercle Member of a Cercle may call for the selection of a ***"Cercle Rep"*** to help represent that Cercle within any broader Cercle containing it. The selected Cercle Rep fills the ***"Cercle Rep Rôle"*** in the Cercle, as defined in Appendix A.
 
-The Cercle Rep becomes a Cercle Member of any broader Cercle containing that Cercle's outer Rôle, with the authority to represent that Rôle just like a Porteur. A containing Cercle may limit or prevent these Cercle Reps from becoming its Cercle Members via a Politique, but only if its Rôles have another way to enjoy comparable representation within that Cercle.
+The Cercle Rep becomes a Cercle Member of any broader Cercle containing that Cercle's outer Rôle, with the authority to represent that Rôle just like a Porteur. A containing Cercle may limit or prevent these Cercle Reps from becoming its Membres de Cercle via a Politique, but only if its Rôles have another way to enjoy comparable representation within that Cercle.
 
 Selecting a Cercle Rep happens via the election process and rules defined in Article 3, unless a Politique defines an alternate process. The only candidates eligible to serve as a Cercle's Cercle Rep are those Associés filling Rôles within the Cercle. Anyone serving as a Premier Lien for a Cercle may not also serve as its Cercle Rep. No more than one person may serve as a Cercle's Cercle Rep at a time, unless a Politique of a containing Cercle allows it.
 
@@ -110,7 +110,7 @@ Any Cercle with more than one Cercle Member includes a ***“Facilitator Rôle�
 
 #### 1.6.1 Elections & Eligibility
 
-Upon request of a Cercle Member, a Cercle's Facilitator will hold an election to elect someone to fill its Facilitator Rôle or Secretary Rôle. No Rôle or Politique may assign these Rôles or remove an assignment via any other means, nor change the required process. Normally, the only candidates eligible for these elections are a Cercle's Cercle Members. However, a Politique of the Cercle or any Super-Cercle may add or limit eligible candidates.
+Upon request of a Cercle Member, a Cercle's Facilitator will hold an election to elect someone to fill its Facilitator Rôle or Secretary Rôle. No Rôle or Politique may assign these Rôles or remove an assignment via any other means, nor change the required process. Normally, the only candidates eligible for these elections are a Cercle's Membres de Cercle. However, a Politique of the Cercle or any Super-Cercle may add or limit eligible candidates.
 
 #### 1.6.2 Election Term
 
@@ -156,7 +156,7 @@ When you need permission to impact a Domaine, you may get it from whomever contr
 
 While energizing your Rôle, you may not spend any money or other assets unless you first get authorized to do so. This authorization must come from a Cercle that already has control of those resources for spending Raison d’Êtres. It counts as spending if you dispose of significant property of the Cercle, or significantly limit any of its rights.
 
-To get authorized to spend, you must announce your intent to spend in writing to the Cercle you're seeking authorization from. You must share this announcement where all Cercle Members of that Cercle will typically see it. Your statement must include the reason for the spending, and the Rôle you'll spend from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the spending for extra consideration. You may not proceed with the spending if escalated, however a Premier Lien of that Cercle may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Rôle gains control of those resources. You may spend them for your stated Raison d’Être, or further authorize others to. The Cercle you got authorization from in turn loses this control, however a Premier Lien of that Cercle may revoke the authorization at any time.
+To get authorized to spend, you must announce your intent to spend in writing to the Cercle you're seeking authorization from. You must share this announcement where all Membres de Cercle of that Cercle will typically see it. Your statement must include the reason for the spending, and the Rôle you'll spend from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the spending for extra consideration. You may not proceed with the spending if escalated, however a Premier Lien of that Cercle may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Rôle gains control of those resources. You may spend them for your stated Raison d’Être, or further authorize others to. The Cercle you got authorization from in turn loses this control, however a Premier Lien of that Cercle may revoke the authorization at any time.
 
 A Politique may change this process in any way, or directly authorize a Rôle to control spending of the Cercle's resources.
 
@@ -293,9 +293,9 @@ A Politique that grants or constrains authority applies in all Sub-Cercles as we
 
 ### 3.2 Changing Gouvernance
 
-Any Cercle Member of a Cercle may propose changing its Gouvernance. The ***“Proposer”*** may do this by circulating a ***“Proposal”*** to all other Cercle Members. Those other Cercle Members must then have the opportunity to raise concerns about adopting the Proposal. Each concern is an ***“Objection”*** if it meets the criteria herein, and the person who raised it is the ***“Objector”***. When making Proposals or raising Objections, a Cercle Member may only represent the Rôles in the Cercle that they either fill as Porteur or represent as Cercle Rep. A Cercle Member may also represent a Rôle that they have permission to temporarily represent from one of its Porteurs de Rôle, until that permission expires or is withdrawn.
+Any Cercle Member of a Cercle may propose changing its Gouvernance. The ***“Proposer”*** may do this by circulating a ***“Proposal”*** to all other Membres de Cercle. Those other Membres de Cercle must then have the opportunity to raise concerns about adopting the Proposal. Each concern is an ***“Objection”*** if it meets the criteria herein, and the person who raised it is the ***“Objector”***. When making Proposals or raising Objections, a Cercle Member may only represent the Rôles in the Cercle that they either fill as Porteur or represent as Cercle Rep. A Cercle Member may also represent a Rôle that they have permission to temporarily represent from one of its Porteurs de Rôle, until that permission expires or is withdrawn.
 
-If no Objections are raised to a Proposal, it is adopted and amends the Cercle's Gouvernance. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Cercle adopts the Proposal. After any such effort, all Cercle Members must then be given an opportunity to raise Objections again.
+If no Objections are raised to a Proposal, it is adopted and amends the Cercle's Gouvernance. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Cercle adopts the Proposal. After any such effort, all Membres de Cercle must then be given an opportunity to raise Objections again.
 
 #### 3.2.1 Criteria for Valid Proposals
 
@@ -341,7 +341,7 @@ In addition to any regular Gouvernance Meetings of the Cercle, the Secretary mus
 
 #### 3.3.1 Attendance
 
-All Cercle Members of a Cercle may participate in its Gouvernance Meetings. The acting Facilitator and Secretary may also participate even if they are not Cercle Members of the Cercle. In that case, they become temporary Cercle Members for the duration of the meeting.
+All Membres de Cercle of a Cercle may participate in its Gouvernance Meetings. The acting Facilitator and Secretary may also participate even if they are not Membres de Cercle of the Cercle. In that case, they become temporary Membres de Cercle for the duration of the meeting.
 
 As a Cercle Rep for a Cercle, you may invite any Associé to join the Gouvernance Meeting of any Cercle immediately containing your Cercle. You may only extend this invitation to one Associé at a time, and only to aid in the processing of a specific Tension affecting the Cercle you represent. You must sense this Tension yourself as well, and believe it makes sense to process in the Cercle. Your invited guest becomes a temporary Cercle Member for the duration of the meeting, or until you withdraw the invitation. Your guest may represent your Cercle along with you in the meeting, but only while processing that specific Tension.
 
@@ -349,7 +349,7 @@ Beyond the above, no one else may participate in a Cercle’s Gouvernance Meetin
 
 #### 3.3.2 Notice & Duration
 
-A Cercle may only conduct a Gouvernance Meeting if the Secretary gave all Cercle Members reasonable advance notice of the meeting. Beyond that, there is no quorum required for a Cercle to conduct a Gouvernance Meeting, unless a Politique specifies one.
+A Cercle may only conduct a Gouvernance Meeting if the Secretary gave all Membres de Cercle reasonable advance notice of the meeting. Beyond that, there is no quorum required for a Cercle to conduct a Gouvernance Meeting, unless a Politique specifies one.
 
 Gouvernance Meetings end once they reach the duration initially scheduled by the Secretary. The Secretary may choose to extend the duration within the meeting, but only if no Cercle Member requests otherwise.
 
@@ -399,7 +399,7 @@ The Facilitator must enact the Integrative Election Process as follows:
 
 ### 3.4 Asynchronous Gouvernance
 
-Cercle Members may make Proposals asynchronously instead of waiting for a Gouvernance Meeting. To do so, the Proposer must distribute a Proposal in writing to all other Cercle Members. The Cercle’s Secretary decides which communication channels are allowed for asynchronous Proposals. Each Cercle Member may then ask clarifying questions, share reactions, or raise Objections. At any point before the process is complete, any Cercle Member may stop the process by requesting the Proposal go to a Gouvernance Meeting.
+Membres de Cercle may make Proposals asynchronously instead of waiting for a Gouvernance Meeting. To do so, the Proposer must distribute a Proposal in writing to all other Membres de Cercle. The Cercle’s Secretary decides which communication channels are allowed for asynchronous Proposals. Each Cercle Member may then ask clarifying questions, share reactions, or raise Objections. At any point before the process is complete, any Cercle Member may stop the process by requesting the Proposal go to a Gouvernance Meeting.
 
 A Cercle Member may also request the Facilitator run an election outside of a Gouvernance Meeting. The Facilitator may do so by enacting the required election process asynchronously.
 
@@ -423,7 +423,7 @@ After ruling on an interpretation, a Secretary may publish the ruling and the lo
 
 #### 3.5.3 Striking Invalid Gouvernance
 
-Any Associé may ask a Cercle's Secretary to rule on the validity of any Gouvernance within that Cercle or any Sub-Cercle thereof. If the Secretary concludes it violates the rules of this Constitution, the Secretary must strike it from the Cercle's records. After doing so, the Secretary must promptly communicate what they struck and why to all of that Cercle's Cercle Members.
+Any Associé may ask a Cercle's Secretary to rule on the validity of any Gouvernance within that Cercle or any Sub-Cercle thereof. If the Secretary concludes it violates the rules of this Constitution, the Secretary must strike it from the Cercle's records. After doing so, the Secretary must promptly communicate what they struck and why to all of that Cercle's Membres de Cercle.
 
 ### 3.6 Process Breakdown
 
@@ -506,7 +506,7 @@ _The Premier Lien also holds all Redevabilités on the Cercle to the extent they
 **Redevabilités:**
 
 - Facilitating the Processus de Gouvernance and Tactical Meetings of the Cercle or for its Rôles
-- Coaching other Cercle Members on the Constitution's rules and processes, either on request or when needed for effective meetings
+- Coaching other Membres de Cercle on the Constitution's rules and processes, either on request or when needed for effective meetings
 - Auditing the meetings and records of Sub-Cercles on request, and declaring a Process Breakdown if one is discovered
 
 ## Secretary
