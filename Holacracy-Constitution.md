@@ -451,11 +451,11 @@ If the Cercle in Process Breakdown has no Super-Cercle, then the powers above al
 A Process Breakdown in one Cercle is not automatically considered a Process Breakdown of its Super-Cercle. However, if it remains unresolved for an unreasonable time, then the Super-Cercle is also considered in a Process Breakdown.
 
 
-## Article 4: People & Associéship
+## Article 4: Personnes & Association
 
-### 4.1 Associé Relationships
+### 4.1 Relation d'Associé
 
-The Organisation may grant Associé status to anyone who has agreed to abide by this Constitution while working on its behalf. This creates a ***“Associé Relationship”*** between that person and the Organisation. Any promises either party makes to the other in conjunction with the grant of Associé status are part of that Associé Relationship. Unless otherwise agreed, each party needs the other's consent to change these agreements. However, either party may still end the Associé Relationship without the consent of the other. Doing so immediately ends that person's rights and responsibilities as a Associé.
+L'Organisation peut octroyer le statut d'Associé à quiconque a accepté de se conformer à cette Constitution lorsqu'elle travaille en son nom. Ceci créer une ***“Relation d'Associé”*** entre cette personne et l'Organisation. Toute promesse que l'une des parties fait à l'autre dans le cadre de l'octroi du statut d'Associé fait partie de cette Relation d'Associé. Sauf convention contraire, chaque partie a besoin du consentement de l'autre pour modifier ces accords. Toutefois, chacune des parties peut toujours mettre fin à la Relation d'Associé sans le consentement de l'autre. Ce faisant, cette personne perd immédiatement ses droits et responsabilités en tant qu'Associé.
 
 ### 4.2 Ententes de Travail
 
