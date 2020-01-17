@@ -76,9 +76,9 @@ Deux ou plusieurs Rôles peuvent créer un nouveau Cercle à tout moment pour go
 
 Tout Associé Porteur d'un Rôle devient automatiquement un ***“Premier Lien*** pour le Cercle intérieur de ce Rôle, et agit donc en pleine capacité de Premier Lien. La définition du Rôle Premier Lien est donnée dans l'Annexe A. Un Cercle sans Super-Cercle n'a pas de Premier Lien, à moins qu'une Politique du Cercle n'en dispose autrement.
 
-#### 1.4.1 Defining Priorities & Strategies
+#### 1.4.1 Définir les Priorités et les Stratégies
 
-A Premier Lien may judge the relative value of potential Cercle efforts, to help clarify and align priorities across Rôles. A Premier Lien may also define a ***“Strategy”*** for the Cercle, or many Strategies, which are heuristics that guide prioritization in the Cercle.
+Un Premier Lien peut juger de la valeur potentielle des efforts du Cercle, afin d'aider à clarifier et aligner les priorités entre les Rôles. Un Premier Lien peut également définir une ***“Stratégie”*** pour le Cercle, ou plusieurs Stratégies, qui sont des heuristiques pour guider la prioritisation dans le Cercle.
 
 #### 1.4.2 Routing External References
 
