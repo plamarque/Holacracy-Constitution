@@ -25,6 +25,8 @@ Les contributeurs à la version v4.1 incluent Brian Robertson, Rashid Gilanpour,
 
 Pour une liste des contributeurs de la v5.0, veuillez vous référer à l'historique des soumissions au rep GitHub de la Constitution et le bugtracker.
 
+Traduction en français par Patrice Lamarque.
+
 ---
 
 #### Pour plus d'Information et de Support sur le Système Holacracy : <a href="http://holacracy.org" target="_blank">holacracy.org</a>
