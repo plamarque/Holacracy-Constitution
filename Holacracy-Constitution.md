@@ -72,27 +72,27 @@ Un Cercle peut délier un Rôle en supprimant la Politique qui l'a invité à se
 
 Deux ou plusieurs Rôles peuvent créer un nouveau Cercle à tout moment pour gouverner une Raison d’Être partagée à travers des Rôles. Pour ce faire, les Rôles fondateurs doivent s'accorder sur une Raison d’Être initiale et sur les Redevabilités du nouveau Cercle. Le nouveau Cercle démarre avec les Rôles fondateurs reliés en son sein, et une Politique invitant ces liens. Un Cercle créé de cette façon n'a pas de Super-Cercle ni de Domaines, et peut changer sa propre Raison d’Être ou ses Redevabilités via une Politique. Un tel Cercle est immédiatement dissous dès lors qu'il n'a plus de Rôles reliés.
 
-### 1.4 Cercle Leads
+### 1.4 Premiers Liens
 
-Any Associé serving as a Rôle Lead for a Rôle also automatically fills a ***“Cercle Lead Rôle”*** within that Rôle's internal Cercle, and is thus a ***“Cercle Lead”*** while acting in that capacity. The Cercle Lead Rôle has the definition given in Appendix A. A Cercle with no Super-Cercle has no Cercle Leads, unless a Politique of the Cercle says otherwise.
+Any Associé serving as a Rôle Lead for a Rôle also automatically fills a ***“Premier Lien Rôle”*** within that Rôle's internal Cercle, and is thus a ***“Premier Lien”*** while acting in that capacity. The Premier Lien Rôle has the definition given in Appendix A. A Cercle with no Super-Cercle has no Premiers Liens, unless a Politique of the Cercle says otherwise.
 
 #### 1.4.1 Defining Priorities & Strategies
 
-A Cercle Lead may judge the relative value of potential Cercle efforts, to help clarify and align priorities across Rôles. A Cercle Lead may also define a ***“Strategy”*** for the Cercle, or many Strategies, which are heuristics that guide prioritization in the Cercle.
+A Premier Lien may judge the relative value of potential Cercle efforts, to help clarify and align priorities across Rôles. A Premier Lien may also define a ***“Strategy”*** for the Cercle, or many Strategies, which are heuristics that guide prioritization in the Cercle.
 
 #### 1.4.2 Routing External References
 
-Whenever Gouvernance outside the Cercle references the Cercle itself or any Rôle in the Cercle, a Cercle Lead may update that reference to instead refer to another Rôle in the Cercle. This does not require using the Processus de Gouvernance of any Cercle.
+Whenever Gouvernance outside the Cercle references the Cercle itself or any Rôle in the Cercle, a Premier Lien may update that reference to instead refer to another Rôle in the Cercle. This does not require using the Processus de Gouvernance of any Cercle.
 
-#### 1.4.3 Amending the Cercle Lead Rôle
+#### 1.4.3 Amending the Premier Lien Rôle
 
-A Cercle may not add Redevabilités or other functions to its own Cercle Lead Rôle, nor change the Rôle’s Raison d’Être, nor remove the Rôle. A Cercle may remove any Redevabilités, Domaines, authorities, or functions of its Cercle Lead Rôle. It can do this either by placing them on another Rôle in the Cercle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant element from the Cercle Lead Rôle, for as long as the delegation remains in place.
+A Cercle may not add Redevabilités or other functions to its own Premier Lien Rôle, nor change the Rôle’s Raison d’Être, nor remove the Rôle. A Cercle may remove any Redevabilités, Domaines, authorities, or functions of its Premier Lien Rôle. It can do this either by placing them on another Rôle in the Cercle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant element from the Premier Lien Rôle, for as long as the delegation remains in place.
 
 ### 1.5 Cercle Members
 
 Each Cercle has a group of ***"Cercle Members"*** who may represent its Rôles in its Processus de Gouvernance.
 
-A Cercle's Cercle Members include all Associés filling its Cercle Lead Rôle, as well as each Associé serving as Rôle Lead for a Rôle in the Cercle. If a Rôle has multiple Rôle Leads, a Cercle may adopt a Politique to limit how many of them represent that Rôle as Cercle Members in its Processus de Gouvernance.
+A Cercle's Cercle Members include all Associés filling its Premier Lien Rôle, as well as each Associé serving as Rôle Lead for a Rôle in the Cercle. If a Rôle has multiple Rôle Leads, a Cercle may adopt a Politique to limit how many of them represent that Rôle as Cercle Members in its Processus de Gouvernance.
 
 #### 1.5.1 Cercle Reps
 
@@ -100,7 +100,7 @@ Any Cercle Member of a Cercle may call for the selection of a ***"Cercle Rep"***
 
 The Cercle Rep becomes a Cercle Member of any broader Cercle containing that Cercle's outer Rôle, with the authority to represent that Rôle just like a Rôle Lead. A containing Cercle may limit or prevent these Cercle Reps from becoming its Cercle Members via a Politique, but only if its Rôles have another way to enjoy comparable representation within that Cercle.
 
-Selecting a Cercle Rep happens via the election process and rules defined in Article 3, unless a Politique defines an alternate process. The only candidates eligible to serve as a Cercle's Cercle Rep are those Associés filling Rôles within the Cercle. Anyone serving as a Cercle Lead for a Cercle may not also serve as its Cercle Rep. No more than one person may serve as a Cercle's Cercle Rep at a time, unless a Politique of a containing Cercle allows it.
+Selecting a Cercle Rep happens via the election process and rules defined in Article 3, unless a Politique defines an alternate process. The only candidates eligible to serve as a Cercle's Cercle Rep are those Associés filling Rôles within the Cercle. Anyone serving as a Premier Lien for a Cercle may not also serve as its Cercle Rep. No more than one person may serve as a Cercle's Cercle Rep at a time, unless a Politique of a containing Cercle allows it.
 
 A Cercle may add Redevabilités or Domaines to its own Cercle Rep Rôle, as well as amend or remove those additions. No Cercle may amend or remove the Raison d’Être or any Redevabilités on the Cercle Rep Rôle, nor remove the Rôle.
 
@@ -128,7 +128,7 @@ Whenever a surrogate is needed, the surrogate is, in this order of precedence:
 
 - **(a)** someone specified by the person to be replaced; or
 - **(b)** for Facilitator, the acting Secretary of the Cercle, and for Secretary, the acting Facilitator of the Cercle;
-- **(c)** the Cercle Lead of the Cercle, or, if there are multiple Cercle Leads, the first one to declare themselves acting as surrogate; or
+- **(c)** the Premier Lien of the Cercle, or, if there are multiple Premiers Liens, the first one to declare themselves acting as surrogate; or
 - **(d)** the first Cercle Member to declare themselves acting as surrogate.
 
 
@@ -156,7 +156,7 @@ When you need permission to impact a Domaine, you may get it from whomever contr
 
 While energizing your Rôle, you may not spend any money or other assets unless you first get authorized to do so. This authorization must come from a Cercle that already has control of those resources for spending Raison d’Êtres. It counts as spending if you dispose of significant property of the Cercle, or significantly limit any of its rights.
 
-To get authorized to spend, you must announce your intent to spend in writing to the Cercle you're seeking authorization from. You must share this announcement where all Cercle Members of that Cercle will typically see it. Your statement must include the reason for the spending, and the Rôle you'll spend from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the spending for extra consideration. You may not proceed with the spending if escalated, however a Cercle Lead of that Cercle may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Rôle gains control of those resources. You may spend them for your stated Raison d’Être, or further authorize others to. The Cercle you got authorization from in turn loses this control, however a Cercle Lead of that Cercle may revoke the authorization at any time.
+To get authorized to spend, you must announce your intent to spend in writing to the Cercle you're seeking authorization from. You must share this announcement where all Cercle Members of that Cercle will typically see it. Your statement must include the reason for the spending, and the Rôle you'll spend from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the spending for extra consideration. You may not proceed with the spending if escalated, however a Premier Lien of that Cercle may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Rôle gains control of those resources. You may spend them for your stated Raison d’Être, or further authorize others to. The Cercle you got authorization from in turn loses this control, however a Premier Lien of that Cercle may revoke the authorization at any time.
 
 A Politique may change this process in any way, or directly authorize a Rôle to control spending of the Cercle's resources.
 
@@ -185,9 +185,9 @@ You are responsible for capturing and tracking all Projects and Next-Actions for
 
 #### 2.2.5 Prioritizing Your Attention
 
-Whenever you have time available to act in a Rôle, you are responsible for considering the Next-Actions you could take, and executing whichever you believe would add the most value to the Organisation. In assessing that, you must integrate any relative prioritizations and Strategies of the Cercle holding your Rôle, as well as any acting upon that Cercle itself. If you intend to prioritize in a way that is substantially opposed to these priorities, you must notify the relevant Cercle Leads of your intent.
+Whenever you have time available to act in a Rôle, you are responsible for considering the Next-Actions you could take, and executing whichever you believe would add the most value to the Organisation. In assessing that, you must integrate any relative prioritizations and Strategies of the Cercle holding your Rôle, as well as any acting upon that Cercle itself. If you intend to prioritize in a way that is substantially opposed to these priorities, you must notify the relevant Premiers Liens of your intent.
 
-If the Gouvernance of a Cercle includes a deadline specifying when something must be done by, you do not necessarily have to meet that deadline. Instead, you must interpret it as an official Cercle prioritization of any actions needed to hit that deadline over any other actions for that Cercle. A Cercle Lead or another Rôle or process with the authority to judge Cercle priorities may overrule this prioritization.
+If the Gouvernance of a Cercle includes a deadline specifying when something must be done by, you do not necessarily have to meet that deadline. Instead, you must interpret it as an official Cercle prioritization of any actions needed to hit that deadline over any other actions for that Cercle. A Premier Lien or another Rôle or process with the authority to judge Cercle priorities may overrule this prioritization.
 
 ### 2.3 Duties to Other Rôle-Fillers
 
@@ -244,7 +244,7 @@ A Politique of a Cercle may specify an alternate process or amend this default p
 
 #### 2.4.3 Surrogate for Absent Members
 
-If an unelected Rôle invited to a Tactical Meeting is unrepresented in the meeting for any reason, a Cercle Lead of that Rôle's Super-Cercle may instead represent the Rôle during the meeting.
+If an unelected Rôle invited to a Tactical Meeting is unrepresented in the meeting for any reason, a Premier Lien of that Rôle's Super-Cercle may instead represent the Rôle during the meeting.
 
 ### 2.5 Individual Initiative
 
@@ -263,7 +263,7 @@ You may only take Individual Initiative when all of the following are true:
 
 Upon taking Individual Initiative, you must explain your action to any Rôle Leads who may be significantly affected. Upon request of any such Rôle Lead, you must take further actions to help resolve any Tensions created by your Individual Initiative. You must also refrain from taking similar Individual Initiative upon request of any such Rôle Lead.
 
-You must prioritize the communication and restoration required by this section over your regular work. However, a Cercle Lead of a Cercle that contains all Rôles affected by your action may change this default priority.
+You must prioritize the communication and restoration required by this section over your regular work. However, a Premier Lien of a Cercle that contains all Rôles affected by your action may change this default priority.
 
 
 ## Article 3: Gouvernance
@@ -285,7 +285,7 @@ No other decisions are valid outputs from a Cercle's Processus de Gouvernance.
 A Politique may only be one or more of the following:
 
 - **(a)** a constraint on the authority of one or more of the Cercle's contained Rôles; or
-- **(b)** a grant of an authority the Cercle or Cercle Lead holds to one or more Rôles; or
+- **(b)** a grant of an authority the Cercle or Premier Lien holds to one or more Rôles; or
 - **(c)** a grant of authority that allows people or Rôles not otherwise authorized to control or impact one of the Cercle's Domaines, or a constraint on how they may do so when otherwise authorized; or
 - **(d)** a rule that changes a default rule or process in this Constitution, if that change is explicitly allowed.
 
@@ -440,7 +440,7 @@ Whenever an authorized party declares a Process Breakdown within a Cercle, the f
 - **(a)** the Facilitator gains the authority to judge the accuracy of any arguments made to validate Proposals or Objections in the Cercle; and
 - **(b)** the Facilitator of the Super-Cercle gains a Project to restore due-process within the Cercle; and
 - **(c)** the Facilitator of the Super-Cercle gains the authority to take over as Facilitator or Secretary of the Cercle; and
-- **(d)** the Facilitator of the Super-Cercle may assign an additional Cercle Lead to the Cercle for the duration of the Process Breakdown. Any decisions that person makes as Cercle Lead trumps and prevents any conflicting decision by another Cercle Lead.
+- **(d)** the Facilitator of the Super-Cercle may assign an additional Premier Lien to the Cercle for the duration of the Process Breakdown. Any decisions that person makes as Premier Lien trumps and prevents any conflicting decision by another Premier Lien.
 
 These authorities end as soon as due process is restored in the Cercle, as assessed by the Facilitator of the Super-Cercle.
 
@@ -473,9 +473,9 @@ All of your responsibilities and constraints as a Associé of the Organisation c
 
 # **Appendix A**
 
-## Cercle Lead
+## Premier Lien
 
-**Raison d’Être:** _The Cercle Lead holds the Raison d’Être of the overall Cercle._
+**Raison d’Être:** _The Premier Lien holds the Raison d’Être of the overall Cercle._
 
 **Domaines:**
 
@@ -487,7 +487,7 @@ All of your responsibilities and constraints as a Associé of the Organisation c
 - Assigning Associés to the Cercle’s Rôles, monitoring the fit, and re-assigning Rôles to other Associés to optimize fit
 - Judging the relative value of Cercle efforts on request to resolve priority conflicts across Rôles
 
-_The Cercle Lead also holds all Redevabilités on the Cercle to the extent they are not covered by the Cercle's Rôles or processes._
+_The Premier Lien also holds all Redevabilités on the Cercle to the extent they are not covered by the Cercle's Rôles or processes._
 
 ## Cercle Rep
 
