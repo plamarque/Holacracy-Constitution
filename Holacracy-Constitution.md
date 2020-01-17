@@ -96,9 +96,9 @@ Les Membres de Cercle incluent tous ses Premiers Liens, de même que chaque Asso
 
 #### 1.5.1 Seconds Liens
 
-Tout Membre de Cercle peut appeler à la sélection d'un ***"Second Lien"*** pour aider à représenter ce Cercle dans un Cercle supérieur le contenant. Le Second Lien sélectionné remplit le ***"Rôle Second Lien"*** dans le Cercle, tel que défini dans l'Annexe A.
+Tout Membre Structurel peut appeler à la sélection d'un ***"Second Lien"*** pour aider à représenter ce Cercle dans un Cercle supérieur le contenant. Le Second Lien sélectionné remplit le ***"Rôle Second Lien"*** dans le Cercle, tel que défini dans l'Annexe A.
 
-Le Second Lien devient un Membre de Cercle de tout Cercle supérieur contenant le Rôle extérieur de ce Cercle, avec l'autorité de représenter ce Rôle à la place de ses Porteurs. Un Cercle contenant peut limiter ou empêcher ces Seconds Liens de devenir Membres de Cercle via une Politique, mais seulement si ces Rôles bénéficient d'un autre moyen comparable d'être représenté dans le Cercle.
+Le Second Lien devient un Membre Structurel de tout Cercle supérieur contenant le Rôle extérieur de ce Cercle, avec l'autorité de représenter ce Rôle à la place de ses Porteurs. Un Cercle contenant peut limiter ou empêcher ces Seconds Liens de devenir Membres de Cercle via une Politique, mais seulement si ces Rôles bénéficient d'un autre moyen comparable d'être représenté dans le Cercle.
 
 Sélectionner un Second Lien se produit par le processus d'élection et les règles définies à l'Article 3, sauf si une Politique définit un processus alternatif. Seuls les Associés remplissant des Rôles dans le Cercle font des candidats éligibles pour y servir comme Second Lien. Quiconque servant en tant que Premier Lien pour un Cercle ne peut pas également servir comme son Second Lien. Une seule personne à la fois peut servir de Second Lien pour un Cercle, sauf si une Politique d'un Cercle contenant le permet.
 
@@ -106,15 +106,15 @@ Un Cercle peut ajouter des Redevabilités ou des Domaines à son Rôle de Second
 
 ### 1.6 Facilitateur et Secrétaire
 
-Tout Cercle avec plus d'un Membre de Cercle inclue un ***“Rôle Facilitateur”*** et un ***“Rôle Secrétaire”***, tel que défini dans l'Annexe A. Les personnes agissant dans chacun de ces rôles deviennent respectivement le ***“Facilitateur”*** et le ***“Secrétaire”*** du Cercle.
+Tout Cercle avec plus d'un Membre Structurel inclue un ***“Rôle Facilitateur”*** et un ***“Rôle Secrétaire”***, tel que défini dans l'Annexe A. Les personnes agissant dans chacun de ces rôles deviennent respectivement le ***“Facilitateur”*** et le ***“Secrétaire”*** du Cercle.
 
 #### 1.6.1 Elections & Eligibilité
 
-Sur demande d'un Membre de Cercle, un Facilitateur organisera une élection afin de choisir quelqu'un pour remplir son Rôle de Facilitateur ou de Secrétaire. Aucun Rôle et aucune Politique ne peut affecter ou désaffecter ces Rôles par un autre moyen, ni changer le processus obligatoire. Normalement seuls les  Membres de Cercle sont des candidats éligibles pour ces élections. Néanmoins, une Politique du Cercle ou de tout Super-Cercle peut ajouter ou restreindre les candidats éligibles.
+Sur demande d'un Membre Structurel, un Facilitateur organisera une élection afin de choisir quelqu'un pour remplir son Rôle de Facilitateur ou de Secrétaire. Aucun Rôle et aucune Politique ne peut affecter ou désaffecter ces Rôles par un autre moyen, ni changer le processus obligatoire. Normalement seuls les  Membres de Cercle sont des candidats éligibles pour ces élections. Néanmoins, une Politique du Cercle ou de tout Super-Cercle peut ajouter ou restreindre les candidats éligibles.
 
 #### 1.6.2 Mandat
 
-Pendant un processus d'élection, le Facilitateur doit spécifier une durée de mandat pour chaque élection. A la fin du mandat, le Secrétaire doit  déclencher une élection pour ce Rôle. Même avant que le mandat ait expiré, tout Membre de Cercle peut déclencher une nouvelle élection à tout moment.
+Pendant un processus d'élection, le Facilitateur doit spécifier une durée de mandat pour chaque élection. A la fin du mandat, le Secrétaire doit  déclencher une élection pour ce Rôle. Même avant que le mandat ait expiré, tout Membre Structurel peut déclencher une nouvelle élection à tout moment.
 
 #### 1.6.3 Amender les Rôles Facilitateur ou Secrétaire
 
@@ -129,7 +129,7 @@ Lorsqu'un remplaçant est nécessaire, le remplaçant est, par ordre de priorit�
 - **(a)** quelqu'un désigné par la personne à remplacer; ou
 - **(b)** comme Facilitateur, le Secrétaire élu du Cercle, et comme Secrétaire, le Facilitateur effectif du Cercle;
 - **(c)** le Premier Lien du Cercle, ou, s'il y a plusieurs Premiers Liens, le premier à se déclarer remmplaçant; ou
-- **(d)** le premier Membre de Cercle à se déclarer remplaçant.
+- **(d)** le premier Membre Structurel à se déclarer remplaçant.
 
 
 ## Article 2: Operations
