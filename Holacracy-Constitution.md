@@ -84,9 +84,9 @@ Un Premier Lien peut juger de la valeur potentielle des efforts du Cercle, afin 
 
 Lorsqu'une Gouvernance en dehors du Cercle référence le Cercle lui-même ou n'importe quel Rôle dans le Cercle, un Premier Lien peut mettre à jour cette référence pour pointer vers un autre Rôle du Cercle. Ceci ne requiert d'utiliser le Processus de Gouvernance d'aucun Cercle.
 
-#### 1.4.3 Amending the Premier Lien Rôle
+#### 1.4.3 Amending le Rôle Premier Lien 
 
-A Cercle may not add Redevabilités or other functions to its own Premier Lien Rôle, nor change the Rôle’s Raison d’Être, nor remove the Rôle. A Cercle may remove any Redevabilités, Domaines, authorities, or functions of its Premier Lien Rôle. It can do this either by placing them on another Rôle in the Cercle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant element from the Premier Lien Rôle, for as long as the delegation remains in place.
+Un Cercle ne peut pas ajouter de Redevabilités ou d'autres fonctions à son Premier Lien, ni en changer la Raison d’Être, ni le supprimer. En revanche, un Cercle peut supprimer des Redevabilités, Domaines, autorités, ou fonctions à son Premier Lien. Il peut le faire soit en les confiant à un autre Rôle du Cercle, soit en définissant d'autres manières de les mettre en oeuvre. Faire cela supprime automatiquement l'élément en question du Rôle de Premier Lien, aussi longtemps que la délégation reste en place.
 
 ### 1.5 Cercle Members
 
