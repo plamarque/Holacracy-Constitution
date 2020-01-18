@@ -189,9 +189,9 @@ Whenever you have time available to act in a Rôle, you are responsible for cons
 
 If the Gouvernance of a Cercle includes a deadline specifying when something must be done by, you do not necessarily have to meet that deadline. Instead, you must interpret it as an official Cercle prioritization of any actions needed to hit that deadline over any other actions for that Cercle. A Premier Lien or another Rôle or process with the authority to judge Cercle priorities may overrule this prioritization.
 
-### 2.3 Duties to Other Rôle-Fillers
+### 2.3 Obligations envers les autres Porteurs de Rôle
 
-As a Porteur, you have the following duties to all others filling Rôles in the Organisation. These duties only apply when the other party is acting on behalf of one of their own Rôles in the Organisation, and names that Rôle on request. 
+En tant que Porteur, vous avez les obligations suivantes envers tous les autres Rôles dans l'Organisation. Ces obligations ne s'appliquent que lorsque l'autre partie agit au nom d'un de ses propres Rôles dans l'Organisation, et nomme ce Rôle sur demande. 
 
 #### 2.3.1 Duty of Transparency
 
