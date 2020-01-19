@@ -204,14 +204,14 @@ Sur demande, vous avez une Devoir de transparence sur chacun des domaines suivan
 - **(e) Indicateurs:** Vous devez partager tout indicateur que vous maintenez pour vos Rôles ou en tant qu'Associé de l'Organisation. Si on vous le demande, vous devez continuer à partager ces indicateurs régulièrement, jusqu'à ce que vous déterminiez qu'ils ne sont plus utiles.
 - **(f) Avancement:** Vous devez partager un résumé de l'avancement réalisé sur un Rôle ou sur chacun de vos Projets de Rôle depuis le dernier avancement que vous avez partagé. Si on vous le demande, vous devez continuer à partager cet avancement régulièrement, jusqu'à ce que vous déterminiez qu'il n'est plus nécessaire.
 
-#### 2.3.2 Devoir of Processing
+#### 2.3.2 Devoir de Traitement
 
-You have a devoir to promptly process messages and requests, as follows:
+Vous avez un devoir de promptement traiter les messages et les demandes, comme suit:
 
-- **(a) Requests for Processing:** Others may ask you to process the Raison d’Être or any Redevabilité or Project of a Rôle you fill. You must then determine and communicate a Next-Action to move it forward, if there are any you could take. If there are not, you must instead share what you’re waiting on before you can take a Next-Action. If the Next-Action or waiting-on you share is part of a broader outcome for your Rôle to pursue, you must also capture and communicate that as a Project.
-- **(b) Requests for Projects & Next-Actions:** Others may ask you to take on a specific Next-Action or Project in one of your Rôles. You must accept and track it if you believe it would make sense to work towards in your Rôle, at least in the absence of competing priorities. If you don't, then you must either explain your reasoning, or suggest something else that you believe will meet the requester’s goal instead.
-- **(c) Requests to Impact Domaine:** Others may ask to impact a Domaine controlled by one of your Rôles. You must allow the impact if you see no Objections to the request, as defined in Article 3. If you do, you must explain any Objections to the requester.
-- **(d) Requests for Information:** Others may ask you questions or request information. You must respond in good faith with at least brief answers or relevant information that's readily available to you.
+- **(a) Demandes de Traitement:** D'autres membres peuvent vous demander de traiter la Raison d’Être ou toute Redevabilité ou Projet d'un Rôle que vous portez. Vous devez alors déterminer et communiquer une Prochaine-Action permettant d'avancer, s'il y en existe une que vous pourriez prendre. S'il n'y en a pas, vous devez à la place indiquer ce que vous attendez avant de prendre une Prochaine-Action. Si la Prochaine-Action ou le blocage que vous indiquez fait partie d'un résultat plus large que celui de votre Rôle, vous devez aussi le capturer et le communiquer en tant que Projet.
+- **(b) Demandes de Projets & Prochaine-Actions:** D'autres membres peuvent vous demander de prendre une Prochaine-Action particulière ou un Projet dans l'un de vos Rôles. Vous devez l'accepter et le tracer si vous pensez qu'il serait pertinent d'y travailler dans votre Rôle, au moins en l'absence de priorités concurrentes. Si vous ne le faites pas, vous devez soit expliquer votre raisonnement, ou suggérer quelquechose d'autre que vous pensez qui satisfairait l'objectif du demandeur à la place.
+- **(c) Demandes d'Impacter un Domaine:** D'autres membres peuvent vous demander d'impacter un Domaine contrôlé par l'un de vos Rôles. Vous devez autoriser l'impact si vous ne voyez pas d'Objections à la demande, tel que définit dans l'Article 3. Si vous le faites, vous devez expliquer toute Objection au demandeur.
+- **(d) Demandes d'Information:** D'autres peuvent vous poser des questions ou demander des informations. Vous devez répondre de bonne foi avec au moins des réponses brèves ou l'information pertinente dont vous disposez déjà.
 
 #### 2.3.3 Devoir of Prioritization
 
