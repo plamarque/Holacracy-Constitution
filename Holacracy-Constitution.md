@@ -142,15 +142,15 @@ Lorsque vous remplissez un Rôle, vous avez l'autorité de prendre toute action 
 
 Lorsque vous agissez dans un Rôle, vous ne devez violer aucune des Politiques du Rôle lui-même ou de tout Cercle contenant le Rôle.
 
-#### 2.1.2 Don't Impact Domaines
+#### 2.1.2 N'impactez pas les Domaines
 
-In service of your Rôle, you have the authority to impact and control your Rôle's Domaines.
+Au service de votre Rôle, vous avez l'autorité d'impacter et de contrôler les Domaines de votre Rôle.
 
-You may also impact any Domaine held by a Cercle containing your Rôle and not further delegated, or any Domaine such a Cercle itself may impact. But if you believe your impact will be substantially difficult or expensive to undo, you need advance permission.
+Vous pouvez aussi impacter tout Domaine détenu par un Cercle contenant votre Rôle mais non délégué, ou tout Domaine qu'un Cercle lui-même peut impacter. Mais si vous pensez que votre impact sera substantiellement difficile ou coûteux à défaire, vous devez obtenir un accord préalable.
 
-You may not exert control or cause a material impact on a Domaine delegated to a Rôle or Cercle that doesn't contain your Rôle, unless you get permission. Nor may you do so on a Domaine owned by another sovereign entity without permission.
+Vous ne pouvez pas exercer de contôle ou causer un impact matériel sur un Domaine delegué à un Rôle ou un Cercle qui ne contient pas votre Rôle, à moins d'en obtenir la permission. Vous ne pouvez pas non plus le faire sur un Domaine appartenant à la souveraineté d'une entité sans sa permission.
 
-When you need permission to impact a Domaine, you may get it from whomever controls that Domaine. You may also get permission by announcing your intent to take a specific action, and inviting anyone with a relevant Domaine to object. You must then wait a reasonable time to allow responses. If no one objects in that time, you then have permission to impact any Domaines owned by any Rôle in the Organisation that your announcement reached. You may assume a written announcement reached anyone who typically reads messages in the channel you used. Any permission so granted only applies while taking the specific action you announced. A Politique may further change or constrain this process.
+Lorsque vous avez besoin de la permission d'impacter un Domaine, vous pouvez l'obtenir de quiconque contrôle ce Domaine. Vous pouvez aussi obtenir la permission en annonçant votre intention de prendre une action particulière, et en invitant quiconque avec un Domaine pertinent à objecter. Vous devez alors attendre un temps raisonnable pour recevoir des réponses. Si personne n'objecte dans ce temps, vous avez alors la permission d'impacter tout Domaine détenu par tout Rôle de l'Organisation que votre annonce atteint. Vous pouvez considérer qu'une annonce écrite a atteint quiconque lisant généralement les messages dans le canal que vous avez utilisé. Toute permission ainsi octroyée s'applique seulement pendant le temps de l'action en question que vous avez annoncé. Une Politique peut modifier ou contraindre plus avant ce processus.
 
 #### 2.1.3 Ne Dépensez pas d'Argent
 
