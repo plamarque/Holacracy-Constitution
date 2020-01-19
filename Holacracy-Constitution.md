@@ -193,16 +193,16 @@ If the Gouvernance of a Cercle includes a deadline specifying when something mus
 
 En tant que Porteur, vous avez les obligations suivantes envers tous les autres Rôles dans l'Organisation. Ces obligations ne s'appliquent que lorsque l'autre partie agit au nom d'un de ses propres Rôles dans l'Organisation, et nomme ce Rôle sur demande. 
 
-#### 2.3.1 Duty of Transparency
+#### 2.3.1 Obligation de Transparence
 
-You have a duty to provide transparency in any of the following areas upon request:
+Sur demande, vous avez une obligation de transparence sur chacun des domaines suivants:
 
-- **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for your Rôles.
-- **(b) Relative Priority:** You must share your judgment of the relative priority of any of your Rôle's Projects or Next-Actions vs. anything else competing for your attention.
-- **(c) Projections:** You must provide a projection of when you expect to complete any of your Rôle's Projects or Next-Actions. A rough estimate is enough, considering your current context and priorities. Detailed analysis or planning is not required, and this projection is not a commitment in any way. Unless Gouvernance says otherwise, you have no duty to track the projection or follow-up with the recipient if it changes.
-- **(d) Checklist Items:** You must verify completion of any recurring actions that you perform for your Rôles or as a Associé of the Organisation. If requested, you must continue to share these verifications regularly, until you believe they are no longer useful.
-- **(e) Metrics:** You must share any metrics you collect in your Rôles or as a Associé of the Organisation. If requested, you must continue to share these metrics regularly, until you determine they are no longer useful.
-- **(f) Progress Updates:** You must share a summary of progress you've made in a Rôle or towards any of your Rôle's Projects since the last update you shared. If requested, you must continue to share these updates regularly, until you determine they are no longer useful.
+- **(a) Projets & Prochaine-Actions:** Vous devez partager tous les Projets et Prochaine-Actions que vous tracez pour vos Rôles.
+- **(b) Priorité Relative:** Vous devez partager votre jugement sur la priorité relative de chacun des Projets ou Prochaine-Actions de votre Rôle par rapport à toute chose qui demande votre attention.
+- **(c) Projections:** Vous devez fournir une projection de quand vous pensez terminer chacun de vos Projets ou Prochaine-Actions. Une estimation grossière est suffisante, en considérant votre contexte actuel et vos priorités. Une analyse détaillée ou un planning ne sont pas requis, et cette projection n'est en aucun cas un engagement. A moins que la Gouvernance ne le décide, vous n'avez pas d'obligation de suivre la projection ni de revenir vers le destinataire si elle change.
+- **(d) Points de Checklist:** Vous devez vérifier chacune des actions que vous effectuez de manière récurrente pour vos Rôles ou en tant qu'Associé de l'Organisation. Si on vous le demande, vous devez continuer à partager ces vérifications régulièrement, jusqu'à ce que vous pensiez qu'elles ne sont plus utiles.
+- **(e) Indicateurs:** Vous devez partager tout indicateur que vous maintenez pour vos Rôles ou en tant qu'Associé de l'Organisation. Si on vous le demande, vous devez continuer à partager ces indicateurs régulièrement, jusqu'à ce que vous déterminiez qu'ils ne sont plus utiles.
+- **(f) Avancement:** Vous devez partager un résumé de l'avancement réalisé sur un Rôle ou sur chacun de vos Projets de Rôle depuis le dernier avancement que vous avez partagé. Si on vous le demande, vous devez continuer à partager cet avancement régulièrement, jusqu'à ce que vous déterminiez qu'il n'est plus nécessaire.
 
 #### 2.3.2 Duty of Processing
 
