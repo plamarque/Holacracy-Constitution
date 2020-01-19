@@ -189,40 +189,40 @@ Whenever you have time available to act in a Rôle, you are responsible for cons
 
 If the Gouvernance of a Cercle includes a deadline specifying when something must be done by, you do not necessarily have to meet that deadline. Instead, you must interpret it as an official Cercle prioritization of any actions needed to hit that deadline over any other actions for that Cercle. A Premier Lien or another Rôle or process with the authority to judge Cercle priorities may overrule this prioritization.
 
-### 2.3 Obligations envers les autres Porteurs de Rôle
+### 2.3 Devoirs envers les autres Porteurs de Rôle
 
-En tant que Porteur, vous avez les obligations suivantes envers tous les autres Rôles dans l'Organisation. Ces obligations ne s'appliquent que lorsque l'autre partie agit au nom d'un de ses propres Rôles dans l'Organisation, et nomme ce Rôle sur demande. 
+En tant que Porteur, vous avez les Devoirs suivantes envers tous les autres Rôles dans l'Organisation. Ces Devoirs ne s'appliquent que lorsque l'autre partie agit au nom d'un de ses propres Rôles dans l'Organisation, et nomme ce Rôle sur demande. 
 
-#### 2.3.1 Obligation de Transparence
+#### 2.3.1 Devoir de Transparence
 
-Sur demande, vous avez une obligation de transparence sur chacun des domaines suivants:
+Sur demande, vous avez une Devoir de transparence sur chacun des domaines suivants:
 
 - **(a) Projets & Prochaine-Actions:** Vous devez partager tous les Projets et Prochaine-Actions que vous tracez pour vos Rôles.
 - **(b) Priorité Relative:** Vous devez partager votre jugement sur la priorité relative de chacun des Projets ou Prochaine-Actions de votre Rôle par rapport à toute chose qui demande votre attention.
-- **(c) Projections:** Vous devez fournir une projection de quand vous pensez terminer chacun de vos Projets ou Prochaine-Actions. Une estimation grossière est suffisante, en considérant votre contexte actuel et vos priorités. Une analyse détaillée ou un planning ne sont pas requis, et cette projection n'est en aucun cas un engagement. A moins que la Gouvernance ne le décide, vous n'avez pas d'obligation de suivre la projection ni de revenir vers le destinataire si elle change.
+- **(c) Projections:** Vous devez fournir une projection de quand vous pensez terminer chacun de vos Projets ou Prochaine-Actions. Une estimation grossière est suffisante, en considérant votre contexte actuel et vos priorités. Une analyse détaillée ou un planning ne sont pas requis, et cette projection n'est en aucun cas un engagement. A moins que la Gouvernance ne le décide, vous n'avez pas d'Devoir de suivre la projection ni de revenir vers le destinataire si elle change.
 - **(d) Points de Checklist:** Vous devez vérifier chacune des actions que vous effectuez de manière récurrente pour vos Rôles ou en tant qu'Associé de l'Organisation. Si on vous le demande, vous devez continuer à partager ces vérifications régulièrement, jusqu'à ce que vous pensiez qu'elles ne sont plus utiles.
 - **(e) Indicateurs:** Vous devez partager tout indicateur que vous maintenez pour vos Rôles ou en tant qu'Associé de l'Organisation. Si on vous le demande, vous devez continuer à partager ces indicateurs régulièrement, jusqu'à ce que vous déterminiez qu'ils ne sont plus utiles.
 - **(f) Avancement:** Vous devez partager un résumé de l'avancement réalisé sur un Rôle ou sur chacun de vos Projets de Rôle depuis le dernier avancement que vous avez partagé. Si on vous le demande, vous devez continuer à partager cet avancement régulièrement, jusqu'à ce que vous déterminiez qu'il n'est plus nécessaire.
 
-#### 2.3.2 Duty of Processing
+#### 2.3.2 Devoir of Processing
 
-You have a duty to promptly process messages and requests, as follows:
+You have a devoir to promptly process messages and requests, as follows:
 
 - **(a) Requests for Processing:** Others may ask you to process the Raison d’Être or any Redevabilité or Project of a Rôle you fill. You must then determine and communicate a Next-Action to move it forward, if there are any you could take. If there are not, you must instead share what you’re waiting on before you can take a Next-Action. If the Next-Action or waiting-on you share is part of a broader outcome for your Rôle to pursue, you must also capture and communicate that as a Project.
 - **(b) Requests for Projects & Next-Actions:** Others may ask you to take on a specific Next-Action or Project in one of your Rôles. You must accept and track it if you believe it would make sense to work towards in your Rôle, at least in the absence of competing priorities. If you don't, then you must either explain your reasoning, or suggest something else that you believe will meet the requester’s goal instead.
 - **(c) Requests to Impact Domaine:** Others may ask to impact a Domaine controlled by one of your Rôles. You must allow the impact if you see no Objections to the request, as defined in Article 3. If you do, you must explain any Objections to the requester.
 - **(d) Requests for Information:** Others may ask you questions or request information. You must respond in good faith with at least brief answers or relevant information that's readily available to you.
 
-#### 2.3.3 Duty of Prioritization
+#### 2.3.3 Devoir of Prioritization
 
-You have a duty to prioritize your attention in alignment with the following:
+You have a devoir to prioritize your attention in alignment with the following:
 
-- **(a) Processing Over Execution:** You must generally prioritize processing inbound messages from other Rôles over executing your own Next-Actions. However, you may delay processing messages until you can batch process at a convenient time, as long as your processing is still prompt. Processing includes engaging in any duties in this section, and then sharing how you processed the message upon request. Processing does not include executing upon any Next-Actions or Projects you capture.
+- **(a) Processing Over Execution:** You must generally prioritize processing inbound messages from other Rôles over executing your own Next-Actions. However, you may delay processing messages until you can batch process at a convenient time, as long as your processing is still prompt. Processing includes engaging in any devoirs in this section, and then sharing how you processed the message upon request. Processing does not include executing upon any Next-Actions or Projects you capture.
 - **(b) Meetings Over Execution:** You must prioritize attending any meeting defined in this Constitution over executing your own Next-Actions, but only if this prioritization was explicitly requested for a specific meeting. You may still decline the request if you already have plans scheduled over the meeting time.
 
 ### 2.4 Tactical Meetings
 
-In service of a Rôle, any Associé may convene a ***“Tactical Meeting”*** to engage other Rôles in their responsibilities and duties.
+In service of a Rôle, any Associé may convene a ***“Tactical Meeting”*** to engage other Rôles in their responsibilities and devoirs.
 
 #### 2.4.1 Attendance
 
@@ -237,7 +237,7 @@ Unless a Politique says otherwise, anyone facilitating a Tactical Meeting must u
 - **(c) Metrics Review:** Each participant shares any metrics that they are regularly reporting on for their Rôles in the meeting.
 - **(d) Progress Updates:** Each participant highlights progress in any Rôle or Project that they are regularly reporting on for their Rôles in the meeting. Participants may only share progress made since a prior report, and not the general status of any work.
 - **(e) Build Agenda:** The Facilitateur builds an agenda of Tensions to process by soliciting agenda items from all participants. The Facilitateur must do this in the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items after this step, between the processing of any existing agenda items.
-- **(f) Triage Tensions:** To process each agenda item, the agenda item owner may make requests of the other participants. However, the agenda item owner may only make requests to serve a Rôle they were invited to represent in the meeting. Further, each participant only has duties that come from Rôles they were invited to represent in the meeting, or that exist regardless of the Rôles they fill. The Facilitateur manages the time allowed for each agenda item to allow space for processing every item on the agenda. To that end, the Facilitateur may cut off the processing of any item after its due share of the meeting time.
+- **(f) Triage Tensions:** To process each agenda item, the agenda item owner may make requests of the other participants. However, the agenda item owner may only make requests to serve a Rôle they were invited to represent in the meeting. Further, each participant only has devoirs that come from Rôles they were invited to represent in the meeting, or that exist regardless of the Rôles they fill. The Facilitateur manages the time allowed for each agenda item to allow space for processing every item on the agenda. To that end, the Facilitateur may cut off the processing of any item after its due share of the meeting time.
 - **(g) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
 
 A Politique of a Cercle may specify an alternate process or amend this default process for Tactical Meetings called by any of the Cercle's Rôles.
@@ -467,7 +467,7 @@ En tant qu'Associé, vous avez le devoir d'aligner votre comportement avec toute
 
 ### 4.3 Bascule de Pouvoir
 
-Toutes vos responsabilités et contraintes en tant qu'Associé de l'Organisation viennent de cette Constitution ainsi que de la Gouvernance et des Ententes de Travail qu'elle permet, ou bien de vos obligations légales envers l'Organisation lorsque vous agissez pour son compte. Les attentes ou contraintes implicites n'ont aucun poids ni autorité. Pas plus que les dictats émanant l'ancienne structure de pouvoir de l'Organisation avant qu'elle n'adopte cette Constitution. En tant qu'Associé, vous pouvez vous reposer sur les autorités octroyées par cette Constitution dans toute la mesure où les Ratifieurs détenaient de tels pouvoirs avant de l'adopter.
+Toutes vos responsabilités et contraintes en tant qu'Associé de l'Organisation viennent de cette Constitution ainsi que de la Gouvernance et des Ententes de Travail qu'elle permet, ou bien de vos Devoirs légales envers l'Organisation lorsque vous agissez pour son compte. Les attentes ou contraintes implicites n'ont aucun poids ni autorité. Pas plus que les dictats émanant l'ancienne structure de pouvoir de l'Organisation avant qu'elle n'adopte cette Constitution. En tant qu'Associé, vous pouvez vous reposer sur les autorités octroyées par cette Constitution dans toute la mesure où les Ratifieurs détenaient de tels pouvoirs avant de l'adopter.
 
 ---
 
