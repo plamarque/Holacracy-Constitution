@@ -132,11 +132,11 @@ Lorsqu'un remplaçant est nécessaire, le remplaçant est, par ordre de priorit�
 - **(d)** le premier Membre Structurel à se déclarer remplaçant.
 
 
-## Article 2: Operations
+## Article 2: Opérations
 
-### 2.1 Authority of Rôle-Fillers
+### 2.1 Autorité des Porteurs de Rôle
 
-When filling a Rôle, you have the authority to take any action or make any decision to enact your Rôle’s Raison d’Être or Redevabilités, as long as you don't break a rule defined in this Constitution.
+Lorsque vous remplissez un Rôle, vous avez l'autorité de prendre toute action ou décision afin de mettre en oeuvre la Raison d’Être de votre Rôle ou ses Redevabilités, tant que vous n'enfreignez pas les règles définies dans cette Constitution.
 
 #### 2.1.1 Don't Violate Politiques
 
