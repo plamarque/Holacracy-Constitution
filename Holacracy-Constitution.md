@@ -160,9 +160,9 @@ Pour être autorisé à dépenser, vous devez annoncer par écrit  votre intenti
 
 Une politique peut changer ce processus de quelque façon que ce soit, ou autoriser directement un Rôle à contrôler la dépense des resources du cercle.
 
-### 2.2 Responsibility of Rôle-Fillers
+### 2.2 Responsabilité des Porteurs de Rôle
 
-When filling a Rôle, you have the following responsibilities:
+Lorsque vous portez un Rôle, vous avez les responsabilités suivantes:
 
 #### 2.2.1 Processing Tensions
 
