@@ -224,9 +224,9 @@ You have a devoir to prioritize your attention in alignment with the following:
 
 Au service d'un Rôle, tout Associé peut convoquer une ***“Réunion de Triage”*** pour engager les autres Rôles dans leurs responsabilités et devoirs.
 
-#### 2.4.1 Attendance
+#### 2.4.1 Participation
 
-The Associé convening a Réunion de Triage must name the Rôles desired in that meeting. All Porteurs de Rôle of those Rôles are then invited to attend, unless the convener narrows the invite to include only a subset of Porteurs de Rôle. The convener may choose the Facilitateur of any relevant Cercle to run the meeting.
+L'Associé convoquant une Réunion de Triage doit nommer les Rôles souhaités dans cette réunion. Tous les Porteurs de ces Rôle sont alors invités à participer, sauf si le convoquant limite l'invitation à un sous-ensemble des Porteurs de Rôle. Le convoquant peut choisir le Facilitateur de tout Cercle pertinent pour faciliter cette réunion.
 
 #### 2.4.2 Facilitation & Process
 
