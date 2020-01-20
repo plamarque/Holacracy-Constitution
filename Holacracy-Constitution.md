@@ -179,9 +179,9 @@ Vous êtes tenu de réfléchir régulièrement à comment mettre en oeuvre la Ra
 
 Vous êtes tenu de définir régulièrement des Next-Actions pour chacun des Projets de votre Rôle.
 
-#### 2.2.4 Tracking Projects, Next-Actions, & Tensions
+#### 2.2.4 Suivre les Projets, Prochaine-Actions, & Tensions
 
-You are responsible for capturing and tracking all Projects and Next-Actions for your Rôle in written lists. You must also track Tensions you intend to resolve, at least until you process them into Projects or Next-Actions. You are also responsible for regularly reviewing and updating these lists, to maintain them as a trusted source of the Rôle’s potential work.
+Vous êtes tenu de capturer et suivre tous les Projets et Prochaine-Actions pour votre Rôle sous forme de listes écrites. Vous devez aussi suivre les Tensions que vous avez l'intention de résoudre, du moins jusqu'à ce que vous les traitiez dans des Projets ou des Prochaine-Actions. Vous êtes aussi tenu de revoir et tenir à jour régulièrement ces listes, afin de les maintenir comme source fiable de travail potentiel pour le Rôle.
 
 #### 2.2.5 Prioritizing Your Attention
 
