@@ -164,9 +164,9 @@ Une politique peut changer ce processus de quelque façon que ce soit, ou autori
 
 Lorsque vous portez un Rôle, vous avez les responsabilités suivantes:
 
-#### 2.2.1 Processing Tensions
+#### 2.2.1 Traiter les Tensions
 
-You are responsible for comparing the actual expression of your Rôle’s Raison d’Être and Redevabilités to your vision for their ideal potential expression, to identify gaps between the two (each gap is a ***“Tension”***). You are then responsible for trying to resolve those Tensions.
+Vous êtes tenu de comparer l'expression effective de la Raison d’Être et des Redevabilités de votre Rôle à votre vision idéale de leur expression potentielle, afin d'identifier les écarts entre les deux (chaque écart est une ***“Tension”***). Vous êtes alors tenu d'essayer de résoudre ces Tensions.
 
 #### 2.2.2 Processing Raison d’Être & Redevabilités
 
