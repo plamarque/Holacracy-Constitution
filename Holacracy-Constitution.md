@@ -183,11 +183,11 @@ Vous êtes tenu de définir régulièrement des Next-Actions pour chacun des Pro
 
 Vous êtes tenu de capturer et suivre tous les Projets et Prochaine-Actions pour votre Rôle sous forme de listes écrites. Vous devez aussi suivre les Tensions que vous avez l'intention de résoudre, du moins jusqu'à ce que vous les traitiez dans des Projets ou des Prochaine-Actions. Vous êtes aussi tenu de revoir et tenir à jour régulièrement ces listes, afin de les maintenir comme source fiable de travail potentiel pour le Rôle.
 
-#### 2.2.5 Prioritizing Your Attention
+#### 2.2.5 Prioriser votre Attention
 
-Whenever you have time available to act in a Rôle, you are responsible for considering the Next-Actions you could take, and executing whichever you believe would add the most value to the Organisation. In assessing that, you must integrate any relative prioritizations and Strategies of the Cercle holding your Rôle, as well as any acting upon that Cercle itself. If you intend to prioritize in a way that is substantially opposed to these priorities, you must notify the relevant Premiers Liens of your intent.
+Lorsque vous avez du temps pour agir dans un Rôle, vous êtes responsable de réfléchir aux Prochaine-Actions que vous pourriez prendre, et exécuter celles que vous pensez qui pourraient ajouter le plus de valeur à l'Organisation. En évaluant cela, vous devez intégrer toutes les priorités relatives et les Stratégies du Cercle qui détient votre Rôle. Si vous avez l'intention de prioriser d'une manière qui est substantiellement opposée à ces priorités, vous devez notifier les Premiers Liens concernés de votre intention.
 
-If the Gouvernance of a Cercle includes a deadline specifying when something must be done by, you do not necessarily have to meet that deadline. Instead, you must interpret it as an official Cercle prioritization of any actions needed to hit that deadline over any other actions for that Cercle. A Premier Lien or another Rôle or process with the authority to judge Cercle priorities may overrule this prioritization.
+Si la Gouvernance d'un Cercle inclut une date butoir pour faire quelque chose, vous n'avez pas nécessairement à la respecter. A la place, vous devez l'interpréter comme une priorisation officielle du Cercle de toutes les actions soumises à cette date butoir sur toutes les autres actions de ce Cercle. Un Premier Lien ou un autre Rôle ou processus ayant l'autorité de juger les priorités du Cercle peut outrepasser cette priorisation.
 
 ### 2.3 Devoirs envers les autres Porteurs de Rôle
 
