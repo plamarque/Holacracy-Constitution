@@ -175,9 +175,9 @@ Vous êtes tenu de réfléchir régulièrement à comment mettre en oeuvre la Ra
 - **(a)** ***“Prochaine-Actions”***, qui sont des actions utiles que vous pourriez prendre immédiatement, du moins en l'absence de priorités concurrentes ; et des
 - **(b)** ***“Projets”***, qui sont des résultats particuliers vers lesquels il serait utile de travailler, du moins en l'absence de priorités concurrentes.
 
-#### 2.2.3 Breaking Down Projects
+#### 2.2.3 Décomposer les Projets
 
-You are responsible for regularly defining Next-Actions for each of your Rôle's active Projects.
+Vous êtes tenu de définir régulièrement des Next-Actions pour chacun des Projets de votre Rôle.
 
 #### 2.2.4 Tracking Projects, Next-Actions, & Tensions
 
