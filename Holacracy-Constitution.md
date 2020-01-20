@@ -168,12 +168,12 @@ Lorsque vous portez un Rôle, vous avez les responsabilités suivantes:
 
 Vous êtes tenu de comparer l'expression effective de la Raison d’Être et des Redevabilités de votre Rôle à votre vision idéale de leur expression potentielle, afin d'identifier les écarts entre les deux (chaque écart est une ***“Tension”***). Vous êtes alors tenu d'essayer de résoudre ces Tensions.
 
-#### 2.2.2 Processing Raison d’Être & Redevabilités
+#### 2.2.2 Traiter Raison d’Être & Redevabilités
 
-You are responsible for regularly considering how to enact your Rôle's Raison d’Être and each Redevabilité, by defining:
+Vous êtes tenu de réfléchir régulièrement à comment mettre en oeuvre la Raison d’Être de votre Rôle et chaque Redevabilité, en définissant des:
 
-- **(a)** ***“Next-Actions”***, which are useful actions that you could take immediately, at least in the absence of competing priorities; and
-- **(b)** ***“Projects”***, which are specific outcomes that would be useful to work towards, at least in the absence of competing priorities.
+- **(a)** ***“Prochaine-Actions”***, qui sont des actions utiles que vous pourriez prendre immédiatement, du moins en l'absence de priorités concurrentes ; et des
+- **(b)** ***“Projets”***, qui sont des résultats particuliers vers lesquels il serait utile de travailler, du moins en l'absence de priorités concurrentes.
 
 #### 2.2.3 Breaking Down Projects
 
