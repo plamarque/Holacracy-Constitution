@@ -220,17 +220,17 @@ You have a devoir to prioritize your attention in alignment with the following:
 - **(a) Processing Over Execution:** You must generally prioritize processing inbound messages from other Rôles over executing your own Next-Actions. However, you may delay processing messages until you can batch process at a convenient time, as long as your processing is still prompt. Processing includes engaging in any devoirs in this section, and then sharing how you processed the message upon request. Processing does not include executing upon any Next-Actions or Projects you capture.
 - **(b) Meetings Over Execution:** You must prioritize attending any meeting defined in this Constitution over executing your own Next-Actions, but only if this prioritization was explicitly requested for a specific meeting. You may still decline the request if you already have plans scheduled over the meeting time.
 
-### 2.4 Tactical Meetings
+### 2.4 Réunions de Triage
 
-In service of a Rôle, any Associé may convene a ***“Tactical Meeting”*** to engage other Rôles in their responsibilities and devoirs.
+Au service d'un Rôle, tout Associé peut convoquer une ***“Réunion de Triage”*** pour engager les autres Rôles dans leurs responsabilités et devoirs.
 
 #### 2.4.1 Attendance
 
-The Associé convening a Tactical Meeting must name the Rôles desired in that meeting. All Porteurs de Rôle of those Rôles are then invited to attend, unless the convener narrows the invite to include only a subset of Porteurs de Rôle. The convener may choose the Facilitateur of any relevant Cercle to run the meeting.
+The Associé convening a Réunion de Triage must name the Rôles desired in that meeting. All Porteurs de Rôle of those Rôles are then invited to attend, unless the convener narrows the invite to include only a subset of Porteurs de Rôle. The convener may choose the Facilitateur of any relevant Cercle to run the meeting.
 
 #### 2.4.2 Facilitation & Process
 
-Unless a Politique says otherwise, anyone facilitating a Tactical Meeting must use the following process:
+Unless a Politique says otherwise, anyone facilitating a Réunion de Triage must use the following process:
 
 - **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
 - **(b) Checklist Review:** Each participant verifies completion of any recurring actions that they are regularly reporting on for their Rôles in the meeting.
@@ -240,11 +240,11 @@ Unless a Politique says otherwise, anyone facilitating a Tactical Meeting must u
 - **(f) Triage Tensions:** To process each agenda item, the agenda item owner may make requests of the other participants. However, the agenda item owner may only make requests to serve a Rôle they were invited to represent in the meeting. Further, each participant only has devoirs that come from Rôles they were invited to represent in the meeting, or that exist regardless of the Rôles they fill. The Facilitateur manages the time allowed for each agenda item to allow space for processing every item on the agenda. To that end, the Facilitateur may cut off the processing of any item after its due share of the meeting time.
 - **(g) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
 
-A Politique of a Cercle may specify an alternate process or amend this default process for Tactical Meetings called by any of the Cercle's Rôles.
+A Politique of a Cercle may specify an alternate process or amend this default process for Réunions de Triage called by any of the Cercle's Rôles.
 
 #### 2.4.3 Surrogate for Absent Members
 
-If an unelected Rôle invited to a Tactical Meeting is unrepresented in the meeting for any reason, a Premier Lien of that Rôle's Super-Cercle may instead represent the Rôle during the meeting.
+If an unelected Rôle invited to a Réunion de Triage is unrepresented in the meeting for any reason, a Premier Lien of that Rôle's Super-Cercle may instead represent the Rôle during the meeting.
 
 ### 2.5 Individual Initiative
 
@@ -505,7 +505,7 @@ _Le Premier Lien porte également toutes les Redevabilités du Cercle qui ne son
 
 **Redevabilités:**
 
-- Facilitating the Processus de Gouvernance and Tactical Meetings of the Cercle or for its Rôles
+- Facilitating the Processus de Gouvernance and Réunions de Triage of the Cercle or for its Rôles
 - Coaching other Membres de Cercle on the Constitution's rules and processes, either on request or when needed for effective meetings
 - Auditing the meetings and records of Sub-Cercles on request, and declaring a Process Breakdown if one is discovered
 
@@ -519,8 +519,8 @@ _Le Premier Lien porte également toutes les Redevabilités du Cercle qui ne son
 
 **Redevabilités:**
 
-- Scheduling Gouvernance Meetings and Tactical Meetings of the Cercle
-- Capturing and publishing the outputs of Gouvernance Meetings and Tactical Meetings
+- Scheduling Gouvernance Meetings and Réunions de Triage of the Cercle
+- Capturing and publishing the outputs of Gouvernance Meetings and Réunions de Triage
 - Interpreting the Constitution and anything under its authority upon request
 
 ---
