@@ -191,7 +191,7 @@ Si la Gouvernance d'un Cercle inclut une date butoir pour faire quelque chose, v
 
 ### 2.3 Devoirs envers les autres Porteurs de Rôle
 
-En tant que Porteur, vous avez les Devoirs suivantes envers tous les autres Rôles dans l'Organisation. Ces Devoirs ne s'appliquent que lorsque l'autre partie agit au nom d'un de ses propres Rôles dans l'Organisation, et nomme ce Rôle sur demande. 
+En tant que Porteur, vous avez les Devoirs suivants envers tous les autres Rôles dans l'Organisation. Ces Devoirs ne s'appliquent que lorsque l'autre partie agit au nom d'un de ses propres Rôles dans l'Organisation, et nomme ce Rôle sur demande. 
 
 #### 2.3.1 Devoir de Transparence
 
@@ -467,7 +467,7 @@ En tant qu'Associé, vous avez le devoir d'aligner votre comportement avec toute
 
 ### 4.3 Bascule de Pouvoir
 
-Toutes vos responsabilités et contraintes en tant qu'Associé de l'Organisation viennent de cette Constitution ainsi que de la Gouvernance et des Ententes de Travail qu'elle permet, ou bien de vos Devoirs légales envers l'Organisation lorsque vous agissez pour son compte. Les attentes ou contraintes implicites n'ont aucun poids ni autorité. Pas plus que les dictats émanant l'ancienne structure de pouvoir de l'Organisation avant qu'elle n'adopte cette Constitution. En tant qu'Associé, vous pouvez vous reposer sur les autorités octroyées par cette Constitution dans toute la mesure où les Ratifieurs détenaient de tels pouvoirs avant de l'adopter.
+Toutes vos responsabilités et contraintes en tant qu'Associé de l'Organisation viennent de cette Constitution ainsi que de la Gouvernance et des Ententes de Travail qu'elle permet, ou bien de vos obligations légales envers l'Organisation lorsque vous agissez pour son compte. Les attentes ou contraintes implicites n'ont aucun poids ni autorité. Pas plus que les dictats émanant l'ancienne structure de pouvoir de l'Organisation avant qu'elle n'adopte cette Constitution. En tant qu'Associé, vous pouvez vous reposer sur les autorités octroyées par cette Constitution dans toute la mesure où les Ratifieurs détenaient de tels pouvoirs avant de l'adopter.
 
 ---
 
