@@ -185,7 +185,7 @@ Vous êtes tenu de capturer et suivre tous les Projets et Prochaine-Actions pour
 
 #### 2.2.5 Prioriser votre Attention
 
-Lorsque vous avez du temps pour agir dans un Rôle, vous êtes responsable de réfléchir aux Prochaine-Actions que vous pourriez prendre, et exécuter celles que vous pensez qui pourraient ajouter le plus de valeur à l'Organisation. En évaluant cela, vous devez intégrer toutes les priorités relatives et les Stratégies du Cercle qui détient votre Rôle. Si vous avez l'intention de prioriser d'une manière qui est substantiellement opposée à ces priorités, vous devez notifier les Premiers Liens concernés de votre intention.
+Lorsque vous avez du temps pour agir dans un Rôle, vous êtes responsable de réfléchir aux Prochaine-Actions que vous pourriez prendre, et exécuter celles que vous pensez qui pourraient ajouter le plus de valeur à l'Organisation. En évaluant cela, vous devez intégrer toutes les priorités relatives et les Stratégies du Cercle qui détient votre Rôle, ainsi que toutes celles qui agissent sur ce Cercle. Si vous avez l'intention de prioriser d'une manière qui est substantiellement opposée à ces priorités, vous devez notifier les Premiers Liens concernés de votre intention.
 
 Si la Gouvernance d'un Cercle inclut une date butoir pour faire quelque chose, vous n'avez pas nécessairement à la respecter. A la place, vous devez l'interpréter comme une priorisation officielle du Cercle de toutes les actions soumises à cette date butoir sur toutes les autres actions de ce Cercle. Un Premier Lien ou un autre Rôle ou processus ayant l'autorité de juger les priorités du Cercle peut outrepasser cette priorisation.
 
