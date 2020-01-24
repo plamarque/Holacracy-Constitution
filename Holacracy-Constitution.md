@@ -228,19 +228,19 @@ Au service d'un Rôle, tout Associé peut convoquer une ***“Réunion de Triage
 
 L'Associé convoquant une Réunion de Triage doit nommer les Rôles souhaités dans cette réunion. Tous les Porteurs de ces Rôles sont alors invités à participer, sauf si le convoquant limite l'invitation à un sous-ensemble des Porteurs de Rôle. Le convoquant peut choisir le Facilitateur de tout Cercle pertinent pour faciliter cette réunion.
 
-#### 2.4.2 Facilitation & Process
+#### 2.4.2 Facilitation & Processus
 
-Unless a Politique says otherwise, anyone facilitating a Réunion de Triage must use the following process:
+Sauf Politique contradictoire, quiconque facilite une Réunion de Triage doit utiliser le processus suivant:
 
-- **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
-- **(b) Checklist Review:** Each participant verifies completion of any recurring actions that they are regularly reporting on for their Rôles in the meeting.
-- **(c) Metrics Review:** Each participant shares any metrics that they are regularly reporting on for their Rôles in the meeting.
-- **(d) Progress Updates:** Each participant highlights progress in any Rôle or Project that they are regularly reporting on for their Rôles in the meeting. Participants may only share progress made since a prior report, and not the general status of any work.
-- **(e) Build Agenda:** The Facilitateur builds an agenda of Tensions to process by soliciting agenda items from all participants. The Facilitateur must do this in the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items after this step, between the processing of any existing agenda items.
-- **(f) Triage Tensions:** To process each agenda item, the agenda item owner may make requests of the other participants. However, the agenda item owner may only make requests to serve a Rôle they were invited to represent in the meeting. Further, each participant only has devoirs that come from Rôles they were invited to represent in the meeting, or that exist regardless of the Rôles they fill. The Facilitateur manages the time allowed for each agenda item to allow space for processing every item on the agenda. To that end, the Facilitateur may cut off the processing of any item after its due share of the meeting time.
-- **(g) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
+- **(a) Tour d'Inclusion:** Chaque participant évoque tour à tour son état d'esprit du moment, ou offre un commentaire d'ouverture pour la réunion. Les réponses ne sont pas autorisées.
+- **(b) Revue de la Checklist:** Chaque participant vérifie la complétude de toute action récurrente qu'il rapporte dans la réunion au titre de ses Rôles.
+- **(c) Revue des Indicateurs:** Chaque participant partage toute métrique qu'il rapporte régulièrement dans la réunion au titre de ses Rôles.
+- **(d) Progrès Réalisés:** Chaque participant souligne l'avancement pour chaque Rôle ou Projet qu'il rapporte régulièrement dans la réunion au titre de ses Rôles. Les participants ne peuvent partager que l'avancement depuis le précédent rapport, et non pas l'état général d'un quelconque travail.
+- **(e) Construction de l'Ordre du Jour:** Le Facilitateur construit un ordre du jour des Tensions à traiter en invitant chaque participant à énoncer ses points. Le Facilitateur doit le faire pendant la réunion et non pas à l'avance. Chaque participant peut ajouter autant de points qu'il souhaite en indiquant un libellé bref pour chacun, sans explication ni discussion à ce stade. Après cette étape, les Participants pourront ajouter d'autres points à l'ordre du jour, entre le traitement de chaque point.
+- **(f) Points de Triage:** Pour traiter chaque point, le participant l'ayant amené peut faire appel aux autres participants, mais uniquement au titre des Rôles qu'il représente dans cette réunion. De plus, chaque participant a seulement des devoirs propres aux Rôles qu'il représente dans cette réunion, ou qui existent indépendemment des Rôles qu'il remplit. Le Facilitateur gère le temps de chaque point pour allouer assez de temps à tout l'ordre du jour. Pour ce faire, le Facilitateur peut interrompre le traitement de tout point après expiration de sa part de temps.
+- **(g) Tour de Fermeture:** Chaque participant partage une dernière réflexion avant de quitter la réunion. Les réponses ne sont pas autorisées.
 
-A Politique of a Cercle may specify an alternate process or amend this default process for Réunions de Triage called by any of the Cercle's Rôles.
+Une Politique de Cercle peut spécifier un processus de Triage alternatif ou modifier ce processus par défaut sur demande de tout Rôle du Cercle.
 
 #### 2.4.3 Surrogate for Absent Members
 
