@@ -242,9 +242,9 @@ Sauf Politique contradictoire, quiconque facilite une Réunion de Triage doit ut
 
 Une Politique de Cercle peut spécifier un processus de Triage alternatif ou modifier ce processus par défaut sur demande de tout Rôle du Cercle.
 
-#### 2.4.3 Surrogate for Absent Members
+#### 2.4.3 Remplaçant pour les Membres Absents
 
-If an unelected Rôle invited to a Réunion de Triage is unrepresented in the meeting for any reason, a Premier Lien of that Rôle's Super-Cercle may instead represent the Rôle during the meeting.
+Si un Rôle non élu qui est invité à une Réunion de Triage n'est pas représenté dans la réunion pour une quelconque raison, un Premier Lien du Super-Cercle de ce Rôle peut le représenter pendant la réunion.
 
 ### 2.5 Individual Initiative
 
