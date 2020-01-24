@@ -259,11 +259,11 @@ Vous pouvez prendre une Initiative Individuelle, seulement lorsque toutes les co
 - **(c)** Votre action n'engagera pas l'Organisation à des dépenses au delà de ce que vous êtes déjà autorisé à dépenser.
 - **(d)** Si votre action viole des Politiques ou des Domaines, vous croyez que trop de valeur serait perdue en la reportant pour obtenir la permission ou changer la Gouvernance.
 
-#### 2.5.2 Communication & Restoration
+#### 2.5.2 Communication & Restauration
 
-Upon taking Individual Initiative, you must explain your action to any Porteurs de Rôle who may be significantly affected. Upon request of any such Porteur, you must take further actions to help resolve any Tensions created by your Individual Initiative. You must also refrain from taking similar Individual Initiative upon request of any such Porteur.
+En prenant une Initiative Individuelle, vous devez expliquer votre action à tous les Porteurs de Rôle qui pourraient en être significativement affectés. Sur demande de ces Porteurs, vous devez prendre des actions pour aider à résoudre toutes Tensions créées par votre Initiative Individuelle. Vous devez aussi vous abstenir de prendre des Initiatives Individuelles similaires sur demande de l'un de ces Porteurs.
 
-You must prioritize the communication and restoration required by this section over your regular work. However, a Premier Lien of a Cercle that contains all Rôles affected by your action may change this default priority.
+Vous devez prioriser la communication et la restauration exigées par cette section sur votre travail habituel. Cependant, un Premier Lien d'un Cercle contenant tous les Rôles affectés par votre action peut changer cette priorité par défaut.
 
 
 ## Article 3: Gouvernance
