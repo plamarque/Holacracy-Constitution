@@ -246,9 +246,9 @@ Une Politique de Cercle peut spécifier un processus de Triage alternatif ou mod
 
 Si un Rôle non élu qui est invité à une Réunion de Triage n'est pas représenté dans la réunion pour une quelconque raison, un Premier Lien du Super-Cercle de ce Rôle peut le représenter pendant la réunion.
 
-### 2.5 Individual Initiative
+### 2.5 Initiative Individuelle
 
-As a Associé of the Organisation, in some cases you are authorized to act beyond the authority of your Rôles, or break the rules of this Constitution. By acting under this extended authority you are taking ***“Individual Initiative”***, and you are bound by the following rules:
+En tant qu'Associé de l'Organisation, dans certains cas vous êtes autorisé à agir au delà de l'autorité de vos Rôles, ou enfreindre les règles de cette Constitution. En agissant sous cette autorité étendue vous prenez une ***“Initiative Individuelle”***, et vous êtes tenu de suivre les règles suivantes:
 
 #### 2.5.1 Allowed Situations
 
