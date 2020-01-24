@@ -250,14 +250,14 @@ Si un Rôle non élu qui est invité à une Réunion de Triage n'est pas représ
 
 En tant qu'Associé de l'Organisation, dans certains cas vous êtes autorisé à agir au delà de l'autorité de vos Rôles, ou enfreindre les règles de cette Constitution. En agissant sous cette autorité étendue vous prenez une ***“Initiative Individuelle”***, et vous êtes tenu de suivre les règles suivantes:
 
-#### 2.5.1 Allowed Situations
+#### 2.5.1 Situations Autorisées
 
-You may only take Individual Initiative when all of the following are true:
+Vous pouvez prendre une Initiative Individuelle, seulement lorsque toutes les conditions suivantes sont réunies:
 
-- **(a)** You are acting in good faith to serve the Raison d’Être or express the Redevabilités of some Rôle within the Organisation.
-- **(b)** You believe your action would resolve or prevent more Tension for the Organisation than it would likely create.
-- **(c)** Your action would not commit the Organisation to any spending beyond what you’re already authorized to spend.
-- **(d)** If your action would violate any Politiques or Domaines, you believe much value would be lost from delaying to get permission or change Gouvernance.
+- **(a)** Vous agissez de bonne foi pour servir la Raison d’Être ou exprimer les Redevabilités d'un Rôle dans l'Organisation.
+- **(b)** Vous pensez que votre action va résoudre ou empêcher une Tension plus importante pour l'Organisation que ce qu'elle ne devrait créer.
+- **(c)** Votre action n'engagera pas l'Organisation à des dépenses au delà de ce que vous êtes déjà autorisé à dépenser.
+- **(d)** Si votre action viole des Politiques ou des Domaines, vous croyez que trop de valeur serait perdue en la reportant pour obtenir la permission ou changer la Gouvernance.
 
 #### 2.5.2 Communication & Restoration
 
