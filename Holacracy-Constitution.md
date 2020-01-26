@@ -324,14 +324,14 @@ Le Facilitateur peut tester la validité d'une Objection revendiquée en demanda
 
 Lorsqu'une Objection revendiquée prétend que la Proposition violerait la Constitution, la Facilitateur peut demander au Secrétaire du Cercle si c'est vrai. Si le Secrétaire décide que ce n'est pas le cas, le Facilitateur doit rejeter l'Objection.
 
-#### 3.2.4 Rules of Integration
+#### 3.2.4 Règles d'Integration
 
-While attempting to resolve an Objection, the following rules apply:
+Les règles suivantes s'appliquent lors de la résolution d'une objection :
 
-- **(a)** The Facilitateur must test an Objection if requested by any Cercle Member. If it fails to meet the validity criteria, the Facilitateur must discard it.
-- **(b)** The Objector must attempt to find an amendment to the Proposal that will resolve the Objection and still address the Proposer’s Tension. If the Facilitateur believes the Objector is not making a good faith attempt to do so, the Facilitateur must deem the Objection abandoned and drop it.
-- **(c)** Any Cercle Member may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitateur believes the Proposer is not answering them in good faith, the Facilitateur must deem the Proposal dropped.
-- **(d)** The Objector may suggest an amended Proposal, and offer reasonable arguments for why it should resolve the Tension. Then, upon the Objector’s request, the Proposer must present a reasonable argument for why the amended Proposal would fail to resolve the Tension in at least one of the examples the Proposer used to illustrate the Tension. If needed, the Proposer may add another example to illustrate why the amended Proposal would fail to resolve the Tension. If the Facilitateur believes the Proposer is unable or unwilling to do so, the Facilitateur must deem the Proposal dropped.
+- **(a)** Le Facilitateur doit tester une Objection sur demande de l'un des Membres du Cercle. Si elle ne répond pas aux critères de validité, le facilitateur doit la rejeter.
+- **(b)** L'Objecteur doit essayer de trouver un amendement à la Proposition qui résoudra l'Objection tout en adressant toujours la Tension du Proposant. Si le facilitateur estime que l'objecteur ne fait pas une tentative de bonne foi pour le faire, il doit considérer l'objection comme abandonnée.
+- **(c)** Tout Membre du Cercle peut poser au Proposant des questions de clarification sur la Tension à l'origine de la Proposition, ou demander des exemples permettant d'illustrer la Tension. Si le Facilitateur estime que le Proposant ne répond pas de bonne foi, il doit considérer la Proposition comme abandonnée.
+- **(d)** L'objecteur peut suggérer une Proposition amendée, et offrir des arguments raisonables pour expliquer pourquoi elle résoudrait la Tension. Alors, sur demande de l'Objecteur, le Proposant doit présenter une argument raisonable qui expliquerait pourquoi la Proposition amendée ne résoudrait pas la Tension dans au moins un des exemples utilisés pour illustrer sa Tension. Si nécessaire, le Proposant, peut ajouter un autre exemple pour illustrer pourquoi la Proposition amendée ne résoudrait pas sa Tension. Si le Facilitateur estime que le Proposant n'est pas capable ou ne veut pas le faire, il peut abandonner la Propostion.
 
 ### 3.3 Gouvernance Meetings
 
