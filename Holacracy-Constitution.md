@@ -318,11 +318,11 @@ A concern about adopting a Proposal only counts as an Objection if the Objector 
 
 However, regardless of the above criteria, a concern always counts as a valid Objection if adopting the Proposal would violate a rule in this Constitution.
 
-#### 3.2.3 Testing Objections
+#### 3.2.3 Tester les Objections
 
-The Facilitateur may test the validity of a claimed Objection by asking the Objector if the Objection meets the required criteria, and how. When assessing responses, the Facilitateur may only judge whether the Objector presented arguments for each criteria using logical reasoning. The Facilitateur may not judge on the basis of an argument’s accuracy or the importance of addressing it.
+Le Facilitateur peut tester la validité d'une Objection revendiquée en demandant à l'Objecteur si l'Objection réponds aux critères requis, et comment. Lors de l'évaluation des réponses, le Facilitateur peut seulement juger si l'Objecteur a présenté des arguments pour chaque critère en utilisant un raisonnement logique. Le Facilitateur ne peut pas juger sur la base de la précision d'un argument ni de l'importance de l'adresser.
 
-When an Objection is claimed because adopting a Proposal would violate the Constitution, the Facilitateur may ask the Cercle’s Secrétaire to interpret if that's true. If the Secrétaire rules that it is not, the Facilitateur must then dismiss the Objection.
+Lorsqu'une Objection revendiquée prétend que la Proposition violerait la Constitution, la Facilitateur peut demander au Secrétaire du Cercle si c'est vrai. Si le Secrétaire décide que ce n'est pas le cas, le Facilitateur doit rejeter l'Objection.
 
 #### 3.2.4 Rules of Integration
 
