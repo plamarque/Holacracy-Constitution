@@ -268,17 +268,17 @@ Vous devez prioriser la communication et la restauration exigées par cette sect
 
 ## Article 3: Gouvernance
 
-### 3.1 Scope of Gouvernance
+### 3.1 Périmètre de la Gouvernance
 
-Within a Cercle's Processus de Gouvernance, the Cercle may:
+Dans le cadre du Processus de Gouvernance d'un Cercle, le Cercle peut:
 
-- **(a)** define, amend, or remove its own Rôles; and
-- **(b)** define, amend, or remove its own Politiques; and
-- **(c)** move its own Rôles or Politiques into a Sub-Cercle or any Sub-Cercle thereof, but only if they enact the Raison d’Être or Redevabilités of that Cercle; and
-- **(d)** move Rôles or Politiques from within a Sub-Cercle or any Sub-Cercle thereof out into itself, but only if they are no longer relevant to enacting the Raison d’Être or Redevabilités of that Cercle; and
-- **(e)** hold elections for any elected Rôle within the Cercle.
+- **(a)** définir, amender, ou supprimer ses propres Rôles; et
+- **(b)** définir, amender, ou supprimer ses propres Politiques; et
+- **(c)** déplacer ses propres Rôles ou Politiques dans un Sous-Cercle ou tout Sous-Cercle d'un Sous-Cercle, mais seulement s'ils mettent en oeuvre la Raison d’Être ou les Redevabilités de ce Cercle; et
+- **(d)** déplacer les Rôles ou Politiques depuis l'un de ses Sous-Cercle ou tout Sous-Cercle d'un Sous-Cercle, mais seulement s'ils ne sont plus pertinents pour mettre en oeuvre la Raison d’Être ou les Redevabilités de ce Cercle; et
+- **(e)** tenir des élections pour tout Rôle élu de ce Cercle.
 
-No other decisions are valid outputs from a Cercle's Processus de Gouvernance.
+Aucune autre décision ne peut être considérée comme un résultat valide du Processus de Gouvernance d'un Cercle.
 
 #### 3.1.1 Scope of Politique
 
