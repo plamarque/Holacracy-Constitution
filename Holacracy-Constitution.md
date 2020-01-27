@@ -280,16 +280,16 @@ Dans le cadre du Processus de Gouvernance d'un Cercle, le Cercle peut:
 
 Aucune autre décision ne peut être considérée comme un résultat valide du Processus de Gouvernance d'un Cercle.
 
-#### 3.1.1 Scope of Politique
+#### 3.1.1 Périmètre des Politiques
 
-A Politique may only be one or more of the following:
+Une Politique peut seulement se définir par un ou plusieurs des cas suivants :
 
-- **(a)** a constraint on the authority of one or more of the Cercle's contained Rôles; or
-- **(b)** a grant of an authority the Cercle or Premier Lien holds to one or more Rôles; or
-- **(c)** a grant of authority that allows people or Rôles not otherwise authorized to control or impact one of the Cercle's Domaines, or a constraint on how they may do so when otherwise authorized; or
-- **(d)** a rule that changes a default rule or process in this Constitution, if that change is explicitly allowed.
+- **(a)** une contrainte sur l'autorité d'un ou plusieurs Rôles du Cercle; ou
+- **(b)** l'octroi d'une autorité que le Cercle ou le Premier Lien détient à un ou plusieurs Rôles; ou
+- **(c)** l'octoi de l'autorité de contrôler ou d'impacter l'un des Domaines du Cercle, à des personnes ou Rôles qui n'y sont pas normalement autorisés, ou une contrainte sur la façon de le faire lorsqu'ils y sont déjà autorisé; ou
+- **(d)** le changement d'une règle par défaut ou d'un processus de cette Constitution, si ce changement est explicitement autorisé.
 
-A Politique that grants or constrains authority applies in all Sub-Cercles as well, recursively, unless otherwise stated. A Politique that changes a default rule or process in the Constitution applies only within the Cercle that holds the Politique, or, if explicitly stated, within all Sub-Cercles as well, recursively. In the latter case, a Sub-Cercle may still override that Politique via one of its own, unless explicitly forbidden in the original Politique.
+Une Politique qui octroie ou contraint l'autorité s'applique également à tous les Sous-Cercles, récursivement, sauf indication contraire. Une Politique qui change une règle par défaut ou un processus de la Constitution s'applique uniquement au Cercle qui détient la Politique, ou, si énoncé explicitement, aux Sous-Cercles aussi, récursivement. Dans ce dernier cas, un Sous-Cercle peut toujours surcharger cette Politique par l'une des siennes, à moins que cela ne soit explicitement interdit par la Politique de plus haut rang.
 
 ### 3.2 Changing Gouvernance
 
