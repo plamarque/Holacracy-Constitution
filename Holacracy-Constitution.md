@@ -213,12 +213,12 @@ Vous avez un devoir de promptement traiter les messages et les demandes, comme s
 - **(c) Demandes d'Impacter un Domaine:** D'autres membres peuvent vous demander d'impacter un Domaine contrôlé par l'un de vos Rôles. Vous devez autoriser l'impact si vous ne voyez pas d'Objections à la demande, tel que définit dans l'Article 3. Si vous le faites, vous devez expliquer toute Objection au demandeur.
 - **(d) Demandes d'Information:** D'autres peuvent vous poser des questions ou demander des informations. Vous devez répondre de bonne foi avec au moins des réponses brèves ou l'information pertinente dont vous disposez déjà.
 
-#### 2.3.3 Devoir of Prioritization
+#### 2.3.3 Devoir de Priorisation
 
-You have a devoir to prioritize your attention in alignment with the following:
+Vous avez un devoir de prioriser votre attention comme suit:
 
-- **(a) Processing Over Execution:** You must generally prioritize processing inbound messages from other Rôles over executing your own Next-Actions. However, you may delay processing messages until you can batch process at a convenient time, as long as your processing is still prompt. Processing includes engaging in any devoirs in this section, and then sharing how you processed the message upon request. Processing does not include executing upon any Next-Actions or Projects you capture.
-- **(b) Meetings Over Execution:** You must prioritize attending any meeting defined in this Constitution over executing your own Next-Actions, but only if this prioritization was explicitly requested for a specific meeting. You may still decline the request if you already have plans scheduled over the meeting time.
+- **(a) Traitement avant Exécution:** Vous devez généralement prioriser le traitement des messages entrants de la part des autres Rôles sur l'exécution de vos propres Prochaine-Actions. Cependant, vous pouvez retarder le traitement des messages jusqu'à un moment approprié pour les traiter par lots, tant que votre traitement reste rapide. Traiter signifie honorer tous les devoirs de cette section, et sur demande, expliquer comment vous avez traité le message. Traiter ne signifie pas exécuter les Prochaine-Actions ou Projets que vous capturez.
+- **(b) Réunions avant Execution:** Vous devez prioriser votre présence aux réunions définies dans cette Constitution sur l'exécution de vos propres Prochaine-Actions, mais seulement si cette priorisation a été explicitement demandée pour une réunion particulière. Vous devez toujours décliner la demande si vous avez déjà des plans programmés pour le moment de la réunion.
 
 ### 2.4 Réunions de Triage
 
