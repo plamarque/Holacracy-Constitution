@@ -413,9 +413,9 @@ As a Associé, you may use reasonable judgment to interpret this Constitution an
 
 You must interpret all Gouvernance in the context of the Raison d’Être and Redevabilités of the Cercle containing it. You may not use any interpretation that conflicts with this context.
 
-#### 3.5.1 Interpretation Conflicts
+#### 3.5.1 Conflits d'Interprétation
 
-Your interpretation may sometimes conflict with another Associé's. If that happens, you may ask the Secrétaire of any affected Cercle to rule on which interpretation to use. All Associés must then align with that ruling until the relevant text or context changes. You may appeal a Secrétaire's interpretation to the Secrétaire of any Super-Cercle. A Super-Cercle Secrétaire may overrule the interpretation of any Sub-Cercle Secrétaire.
+Votre interprétation peut parfois entrer en conflit avec celle d'un autre Associé. Quand cela arrive, vous pouvez demander au Secrétaire de tout Cercle impacté de trancher sur quelle interprétation utiliser. Tous les Associés doivent s'aligner sur cet arbitrage jusqu'à ce que le texte concerné ou le contexte. Vous pouvez faire appel de l'interprétation d'un Secrétaire auprès du Secrétaire de tout Super-Cercle. Le Secrétaire de tout Super-Cercle peut outrepasser l'interprétation de tout Secrétaire de Sous-Cercle.
 
 #### 3.5.2 Interpretation Precedents
 
