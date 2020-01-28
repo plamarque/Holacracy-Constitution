@@ -397,15 +397,15 @@ The Facilitateur must enact the Integrative Election Process as follows:
 - **(e) Make a Proposal:** The Facilitateur counts the nominations, and makes a Proposal to elect the candidate with the most. If there is a tie, the Facilitateur may do any one of the following: (i) if only one of the tied candidates has nominated himself or herself, propose that person; or (ii) if the person currently filling the Rôle is among those tied, propose that person; or (iii) blindly select one of the tied candidates randomly, and propose that person; or (iv) go back to the previous step and ask each participant who nominated someone other than a tied candidate to change that nomination to one of the tied candidates.
 - **(f) Process Proposal:** The Facilitateur moves to the Integrative Decision-Making Process to resolve the Proposal, but starts with the Objection round. If any Objections surface, the Facilitateur may choose to process them normally, or discard the Proposal. If discarded, the Facilitateur must then go back to the prior step in this process, ignore all nominations for the discarded candidate, and apply the rules of the prior step to select another candidate to propose instead.
 
-### 3.4 Asynchronous Gouvernance
+### 3.4 Gouvernance Asynchrone 
 
-Membres de Cercle may make Proposals asynchronously instead of waiting for a Gouvernance Meeting. To do so, the Proposer must distribute a Proposal in writing to all other Membres de Cercle. The Cercle’s Secrétaire decides which communication channels are allowed for asynchronous Proposals. Each Cercle Member may then ask clarifying questions, share reactions, or raise Objections. At any point before the process is complete, any Cercle Member may stop the process by requesting the Proposal go to a Gouvernance Meeting.
+Les Membres d'un Cercle peuvent faire des Propositions de manière asynchrone au lieu d'attendre une Réunion de Gouvernance. Pour ce faire, le Proposeur doit distribuer une Proposition écrite à tous les autres Membres du Cercle. Le Secrétaire du Cercle décide quels sont les cannaux de communication autorisés pour les Propositions asynchrones. Chaque Membre du Cercle peut alors poser des questions de clarification, partager des réactions, ou lever des Objections. A tout moment avant que le processus se termine, tout Membre du Cercle peut arrêter le processus en demandant que la Proposition soit portée en Réunion de Gouvernance.
 
-A Cercle Member may also request the Facilitateur run an election outside of a Gouvernance Meeting. The Facilitateur may do so by enacting the required election process asynchronously.
+Un Membre de Cercle peut aussi demander au Facilitateur de conduire une élection en dehors d'une Réunion de Gouvernance. Le Facilitateur peut le faire en mettant en oeuvre un processus d'élection asynchrone.
 
-A Cercle may adopt Politiques to further constrain when or how Proposals or elections may happen outside of a Gouvernance Meeting. However, no Politique may limit the right to stop asynchronous processing of a Proposal by requesting it go to a Gouvernance Meeting.
+Un Cercle peut adopter des Politiques pour contraindre davantage quand et comment les Propositions ou les élections peuvent avoir lieu en dehors d'une Réunion de Gouvernance. Néanmoins, aucune Politique ne peut restreindre le droit d'arrêter le traitement asynchrone d'une Proposition en demandant de la porter en Réunion de Gouvernance.
 
-A Cercle may also adopt a Politique to define a time limit for responding to asynchronous Proposals or election nominations. After that time limit, anyone who has not responded is assumed to have declined to raise an Objection or provide a nomination.
+Un Cercle peut aussi adopter une Politique qui définit une limite de temps pour répondre à une Proposition asynchrone ou aux nominations d'élections. A la fin de la limite de temps, quiconque n'a pas répondu est réputé ne pas avoir d'Objection ou ne nomination.
 
 ### 3.5 Interpreting the Constitution & Gouvernance
 
