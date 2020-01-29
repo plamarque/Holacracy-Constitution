@@ -407,11 +407,11 @@ Un Cercle peut adopter des Politiques pour contraindre davantage quand et commen
 
 Un Cercle peut aussi adopter une Politique qui définit une limite de temps pour répondre à une Proposition asynchrone ou aux nominations d'élections. A la fin de la limite de temps, quiconque n'a pas répondu est réputé ne pas avoir d'Objection ou ne nomination.
 
-### 3.5 Interpreting the Constitution & Gouvernance
+### 3.5 Interpréter la Constitution & la Gouvernance
 
-As a Associé, you may use reasonable judgment to interpret this Constitution and anything under its authority. You may also interpret how these apply within any specific situation you face, and act based on your interpretations.
+En tant qu'Associé, vous pouvez utiliser votre jugement pour interpréter cette Constitution et tout ce qui se place sous son autorité. Vous pouvez aussi interpréter comment ces choses s'appliquent à une situation particulière que vous rencontrez, et agir selon vos interprétations.
 
-You must interpret all Gouvernance in the context of the Raison d’Être and Redevabilités of the Cercle containing it. You may not use any interpretation that conflicts with this context.
+Vous devez interpréter toute Gouvernance dans le contexte de la Raison d’Être et des Redevabilités du Cercle qui la contient. Vous ne pouvez pas utiliser une interprétation qui entre en conflit avec ce contexte.
 
 #### 3.5.1 Conflits d'Interprétation
 
