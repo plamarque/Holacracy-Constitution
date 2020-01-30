@@ -417,9 +417,9 @@ Vous devez interpréter toute Gouvernance dans le contexte de la Raison d’Êtr
 
 Votre interprétation peut parfois entrer en conflit avec celle d'un autre Associé. Quand cela arrive, vous pouvez demander au Secrétaire de tout Cercle impacté de trancher sur quelle interprétation utiliser. Tous les Associés doivent s'aligner sur cet arbitrage jusqu'à ce que le texte concerné ou le contexte. Vous pouvez faire appel de l'interprétation d'un Secrétaire auprès du Secrétaire de tout Super-Cercle. Le Secrétaire de tout Super-Cercle peut outrepasser l'interprétation de tout Secrétaire de Sous-Cercle.
 
-#### 3.5.2 Interpretation Precedents
+#### 3.5.2 Précédents d'Interprétation
 
-After ruling on an interpretation, a Secrétaire may publish the ruling and the logic behind it. If published, the Secrétaire of that Cercle and any contained Cercles must attempt to align with that logic in any future rulings. However, a Secrétaire may still contradict it once a compelling new circumstance renders the logic obsolete.
+Après avoir arbitré une interprétation, un Secrétaire peut publier l'arbitrage et la logique qu'il a suivi. Lorsqu'elle est publiée le Secrétaire de ce Cercle et de tous les Cercles qu'il contient doivent essayer de s'aligner avec cette logique pour les prochains arbitrages. Néanmoins, un Secrétaire peut toujours la contredire lorsqu'une nouvelle circonstance convaincante rend la logique obsolète.
 
 #### 3.5.3 Striking Invalid Gouvernance
 
