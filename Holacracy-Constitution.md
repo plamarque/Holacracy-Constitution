@@ -429,9 +429,9 @@ Tout Associé peut demander au Secrétaire d'un Cercle de se prononcer sur la va
 
 Une ***“Rupture de Processus”*** survient lorsqu'un Cercle montre des comportements ou des résultats qui violent les règles de cette Constitution. Le Facilitateur ou le Secrétaire d'un Cercle peuvent déclarer une Rupture de Processus dans leur Cercle ou dans un Sous-Cercle, en utilisant leur jugement raisonnable.
 
-#### 3.6.1 Breakdown from Failed Gouvernance
+#### 3.6.1 Rupture pour Echec de Gouvernance
 
-A Cercle's Facilitateur may also declare a Process Breakdown in the Cercle if a Proposal made in a Gouvernance Meeting fails to reach a resolution. If the Proposer specially requested the meeting, then the Proposer may also declare the Process Breakdown. In either case, the participants must first spend a reasonably long time trying to find a resolution.
+Le Facilitateur d'un Cercle peut aussi déclarer une Rupture de Processus dans le Cercle si une Proposition faite dans une Réunion de Gouvernance ne parvient pas a être adoptée. Si le Proposant avait spécifiquement demandé la réunion, alors le Proposant peut aussi déclarer une Rupture de Processus. Dans chaque cas, les partcipants doivent d'abord passer un temps raisonnable à essayer de trouver une solution.
 
 #### 3.6.2 Process Restoration
 
