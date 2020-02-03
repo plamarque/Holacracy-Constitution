@@ -386,9 +386,9 @@ The Facilitateur must enact the Integrative Decision-Making Process as follows:
 - **(e) Objection Round:** Next, each participant, one at a time, may raise potential Objections to adopting the Proposal. The Facilitateur must stop and disallow discussion or responses of any kind. The Facilitateur may test Objections, and must capture any valid Objections. If there are no valid Objections, the Proposal is adopted.
 - **(f) Integration:** If there are valid Objections, the Facilitateur then focuses on each one, one at a time. For each, the participants brainstorm to find a potential change to the Proposal to resolve the Objection. The Facilitateur marks an Objection resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that it still addresses the Tension. During this step, the Facilitateur must apply the rules of integration described in this Article. Once all Objections are resolved, the Facilitateur moves back to the Objection round with the amended Proposal.
 
-#### 3.3.6 Process d'Election Integratif 
+#### 3.3.6 Processus d'Election Intégratif 
 
-Le Facilitateur doit mettre en oeuvre le Processus d'Election Integratif comme suit:
+Le Facilitateur doit mettre en oeuvre le Processus d'Election Intégratif comme suit:
 
 - **(a) Décrire le Rôle:** Tout d'abord, le Facilitateur identifie le Rôle et le mandat pour l'élection. Le Facilitateur peut également présenter d'autres informations pertinentes pour cette élection. A cette étape, personne ne peut parler de candidat potentiels.
 - **(b) Remplir les Bulletins:** Chaque participant remplit un bulletin pour nominer le candidat éligible qu'il pense être le meilleur pour le Rôle. Chaque participant doit également s'identifier sur le bulletin comme nominant, et personne ne peut s'abstenir ou nominer plusieurs personnes.
