@@ -307,16 +307,16 @@ Pour qu'une Proposition soit valide, le Proposant doit pouvoir:
 
 Si à tout moment le Facilitateur réalise que la Proposition ne remplit pas ces critères, il doit abandonner la Proposition.
 
-#### 3.2.2 Criteria for Valid Objections
+#### 3.2.2 Critères de Validité pour les Objections
 
-A concern about adopting a Proposal only counts as an Objection if the Objector can provide a reasonable argument for why it meets **all** of the following criteria:
+Une préoccupation pour l'adoption d'une Proposition n'est considérée comme une Objection que si l'Objecteur peut montrer raisonablement comment elle remplit **tous** les critères suivants:
 
-- **(a)** The Proposal would reduce the capacity of the Cercle to enact its Raison d’Être or Redevabilités.
-- **(b)** The Proposal would limit the Objector's capacity to enact the Raison d’Être or an Redevabilité of a Rôle the Objector represents in the Cercle, even if the Objector filled no other Rôles in the Organisation.
-- **(c)** The concern does not already exist even in the absence of the Proposal. Thus, a new Tension would be created specifically by adopting the Proposal.
-- **(d)** The Proposal would necessarily cause the impact, or, if it might cause the impact, the Cercle wouldn't have an adequate opportunity to adapt before significant harm could result.
+- **(a)** La Proposition réduirait la capacité du Cercle à mettre en oeuvre sa Raison d’Être ou ses Redevabilités.
+- **(b)** La Proposition limiterait la capacité de l'Objecteur à mettre en oeuvre la Raison d’Être ou une Redevabilité d'un Rôle qu'il représente dans le Cercle, même s'il ne remplit pas d'autres Rôles dans l'Organisation.
+- **(c)** La préoccupation n'existait pas déjà avant la Proposition. Donc que le fait d'adopter la Proposition créerait une nouvelle Tension.
+- **(d)** La Proposition causerait nécessairement l'impact craint, ou si elle risquait seulement de le causer, le Cercle n'aurait pas l'opportunité de s'adapter avant qu'un préjudice important n'en résulte.
 
-However, regardless of the above criteria, a concern always counts as a valid Objection if adopting the Proposal would violate a rule in this Constitution.
+Toutefois, indépendamment des critères ci-dessus, une préoccupation est toujours qualifiée d'Objection si adopter la Proposition violerait une règle de cette Constitution.
 
 #### 3.2.3 Tester les Objections
 
