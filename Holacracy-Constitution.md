@@ -433,18 +433,18 @@ Une ***“Rupture de Processus”*** survient lorsqu'un Cercle montre des compor
 
 Le Facilitateur d'un Cercle peut aussi déclarer une Rupture de Processus dans le Cercle si une Proposition faite dans une Réunion de Gouvernance ne parvient pas a être adoptée. Si le Proposant avait spécifiquement demandé la réunion, alors le Proposant peut aussi déclarer une Rupture de Processus. Dans chaque cas, les partcipants doivent d'abord passer un temps raisonnable à essayer de trouver une solution.
 
-#### 3.6.2 Process Restoration
+#### 3.6.2 Processus de Restauration
 
-Whenever an authorized party declares a Process Breakdown within a Cercle, the following occurs:
+Lorsqu'une des parties autorisées déclare une Rupture de Processus dans un Cercle, ce qui suit se produit:
 
-- **(a)** the Facilitateur gains the authority to judge the accuracy of any arguments made to validate Proposals or Objections in the Cercle; and
-- **(b)** the Facilitateur of the Super-Cercle gains a Project to restore due-process within the Cercle; and
-- **(c)** the Facilitateur of the Super-Cercle gains the authority to take over as Facilitateur or Secrétaire of the Cercle; and
-- **(d)** the Facilitateur of the Super-Cercle may assign an additional Premier Lien to the Cercle for the duration of the Process Breakdown. Any decisions that person makes as Premier Lien trumps and prevents any conflicting decision by another Premier Lien.
+- **(a)** le Facilitateur obtient l'autorité de juger la précision de tout argument émis pour valider les Propositions ou les Objections dans le Cercle; et
+- **(b)** le Facilitateur du Super-Cercle se voit affecté un Projet visant à restaurer le processus en question dans le Cercle; et
+- **(c)** le Facilitateur du Super-Cercle obtient l'autorité de porter le Rôle de Facilitateur ou de Secrétaire du Cercle; et
+- **(d)** le Facilitateur du Super-Cercle peut affecter un Premier Lien supplémentaire au Cercle pour la durée de la Rupture de Processus. Toute décision que cette personne prend en temps que Premier Lien l'emporte et empêche toute décision contraire par un autre Premier Lien.
 
-These authorities end as soon as due process is restored in the Cercle, as assessed by the Facilitateur of the Super-Cercle.
+Ces autorités finissent aussitôt que le Facilitateur du Super-Cercle évalue que le processus en question est restauré dans le Cercle.
 
-If the Cercle in Process Breakdown has no Super-Cercle, then the powers above all vest with its own Facilitateur instead.
+Si le Cercle en Rupture de Processus n'a pas de Super-Cercle, alors les pouvoirs sont tous attribués à son propre Facilitateur.
 
 #### 3.6.3 Escalation of Process Breakdown
 
