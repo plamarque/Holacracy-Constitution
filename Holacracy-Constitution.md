@@ -446,9 +446,9 @@ Ces autorités finissent aussitôt que le Facilitateur du Super-Cercle évalue q
 
 Si le Cercle en Rupture de Processus n'a pas de Super-Cercle, alors les pouvoirs sont tous attribués à son propre Facilitateur.
 
-#### 3.6.3 Escalation of Process Breakdown
+#### 3.6.3 Escalade de Rupture de Processus
 
-A Process Breakdown in one Cercle is not automatically considered a Process Breakdown of its Super-Cercle. However, if it remains unresolved for an unreasonable time, then the Super-Cercle is also considered in a Process Breakdown.
+Une Rupture de Processus dans un Cercle n'est pas automatiquement considérée comme une Rupture de Processus de son Super-Cercle. Néanmoins, si elle reste non résolue pendant un temps raisonable, alors le Super-Cercle est aussi considéré en Rupture de Processus.
 
 
 ## Article 4: Personnes & Association
