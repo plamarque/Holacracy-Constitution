@@ -425,9 +425,9 @@ Après avoir arbitré une interprétation, un Secrétaire peut publier l'arbitra
 
 Tout Associé peut demander au Secrétaire d'un Cercle de se prononcer sur la validité de toute Gouvernance à l'intérieur de ce Cercle ou de l'un de ses Sous-Cercles. Si le Secrétaire conclue qu'elle viole les règles de cette Constitution, le Secrétaire doit la rayer des registres du Cercle. Après, le Secrétaire doit informer sans délai à tous les Membres du Cercle de ce qu'il a rayé et pourquoi.
 
-### 3.6 Process Breakdown
+### 3.6 Rupture de Processus
 
-A ***“Process Breakdown”*** occurs when a Cercle shows a pattern of behavior or output that violates the rules of this Constitution. The Facilitateur or Secrétaire of a Cercle may declare a Process Breakdown in their own Cercle or any Sub-Cercle, using their reasonable judgment.
+Une ***“Rupture de Processus”*** survient lorsqu'un Cercle montre des comportements ou des résultats qui violent les règles de cette Constitution. Le Facilitateur ou le Secrétaire d'un Cercle peuvent déclarer une Rupture de Processus dans leur Cercle ou dans un Sous-Cercle, en utilisant leur jugement raisonnable.
 
 #### 3.6.1 Breakdown from Failed Gouvernance
 
