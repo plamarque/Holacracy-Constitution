@@ -421,9 +421,9 @@ Votre interprétation peut parfois entrer en conflit avec celle d'un autre Assoc
 
 Après avoir arbitré une interprétation, un Secrétaire peut publier l'arbitrage et la logique qu'il a suivi. Lorsqu'elle est publiée le Secrétaire de ce Cercle et de tous les Cercles qu'il contient doivent essayer de s'aligner avec cette logique pour les prochains arbitrages. Néanmoins, un Secrétaire peut toujours la contredire lorsqu'une nouvelle circonstance convaincante rend la logique obsolète.
 
-#### 3.5.3 Striking Invalid Gouvernance
+#### 3.5.3 Rayer une Gouvernance Invalide
 
-Any Associé may ask a Cercle's Secrétaire to rule on the validity of any Gouvernance within that Cercle or any Sub-Cercle thereof. If the Secrétaire concludes it violates the rules of this Constitution, the Secrétaire must strike it from the Cercle's records. After doing so, the Secrétaire must promptly communicate what they struck and why to all of that Cercle's Membres de Cercle.
+Tout Associé peut demander au Secrétaire d'un Cercle de se prononcer sur la validité de toute Gouvernance à l'intérieur de ce Cercle ou de l'un de ses Sous-Cercles. Si le Secrétaire conclue qu'elle viole les règles de cette Constitution, le Secrétaire doit la rayer des registres du Cercle. Après, le Secrétaire doit informer sans délai à tous les Membres du Cercle de ce qu'il a rayé et pourquoi.
 
 ### 3.6 Process Breakdown
 
