@@ -297,15 +297,15 @@ Tout Membre de Cercle peut proposer de changer la Gouvernance du Cercle. Pour ce
 
 Si aucune Objection n'est opposée à la Proposition, elle est adoptée et vient amender la Gouvernance du Cercle. Si des Objections sont soulevées, le Proposant et chaque Objecteur doivent trouver une façon d'intégrer les Objections avant que le Cercle n'adopte la Proposition. Après chaque objection intégrée, tous les Membres du Cercle doivent à nouveau avoir l'opportunité de soulever des Objections.
 
-#### 3.2.1 Criteria for Valid Proposals
+#### 3.2.1 Critères de Validité pour les Propositions
 
-For a Proposal to be valid, the Proposer must be able to:
+Pour qu'une Proposition soit valide, le Proposant doit pouvoir:
 
-- **(a)** describe a Tension that the Proposal would address for one of the Proposer's Rôles; and
-- **(b)** share an example of an actual past or present situation illustrating that Tension; and
-- **(c)** give a reasonable explanation of how the Proposal would have reduced the Tension in that example.
+- **(a)** décrire une Tension que la Proposition résoudrait pour l'un des Rôles du Proposant; et
+- **(b)** donner un exemple de situation présente ou passée illustrant la Tension; et
+- **(c)** expliquer raisonablement comment la Proposition aurait réduit la Tension dans cet exemple.
 
-If at any point the Facilitateur becomes clear that a Proposal does not meet this criteria, the Facilitateur must discard the Proposal.
+Si à tout moment le Facilitateur réalise que la Proposition ne remplit pas ces critères, il doit abandonner la Proposition.
 
 #### 3.2.2 Criteria for Valid Objections
 
