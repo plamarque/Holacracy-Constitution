@@ -324,7 +324,7 @@ Le Facilitateur peut tester la validité d'une Objection revendiquée en demanda
 
 Lorsqu'une Objection revendiquée prétend que la Proposition violerait la Constitution, la Facilitateur peut demander au Secrétaire du Cercle si c'est vrai. Si le Secrétaire décide que ce n'est pas le cas, le Facilitateur doit rejeter l'Objection.
 
-#### 3.2.4 Règles d'Integration
+#### 3.2.4 Règles d'Intégration
 
 Les règles suivantes s'appliquent lors de la résolution d'une objection :
 
