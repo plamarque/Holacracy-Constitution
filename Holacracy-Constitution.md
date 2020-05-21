@@ -22,7 +22,7 @@ Un Rôle peut aussi contenir des ***“Politiques”***, qui sont des octrois ou
 
 ### 1.2 Affectation de Rôle
 
-Un Rôle peut contrôler les affectations pour un autre Rôle grâce à un Domaine. Toute personne remplissant un Rôle avec un tel Domaine peut affecter des personnes à remplir le Rôle cible ou désaffecter des personnes de ce Rôle à tout moment. Toute personne affectée ainsi devient le ***"Porteur"*** de ce Rôle. Quand un Rôle n'est plus rempli, les Porteurs du Rôle sont automatiquement considérés Porteurs du Rôle non rempli.
+Un Rôle peut contrôler qui porte un autre Rôle grâce à un Domaine dédié à l'affectation de ce Rôle. Toute personne détenant un tel Domaine peut affecter des personnes à remplir le Rôle cible ou désaffecter des personnes de ce Rôle à tout moment. Toute personne affectée ainsi devient le ***"Porteur"*** de ce Rôle. Quand un Rôle n'est plus rempli, les Porteurs du Rôle sont automatiquement considérés Porteurs du Rôle non rempli.
 
 #### 1.2.1 Eligibilité
 
