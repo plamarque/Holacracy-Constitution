@@ -12,7 +12,7 @@ Les Ratifieurs ou leurs successeurs peuvent amender ou abroger la présente Cons
 
 ### 1.1 Rôles
 
-Les Associés de l'Organisation effectueront son travail en agissant au travers de Rôles explicitement définis. Une définition de ***“Rôle”*** comprend un nom descriptif ainsi que une ou plusieurs des caractéristiques suivantes:
+Les Associés de l'Organisation effectueront son travail en agissant au travers de Rôles explicitement définis. Une définition de ***“Rôle”*** comprend un nom descriptif ainsi qu'un ou plusieurs des éléments suivants:
 
 - **(a)** une ***“Raison d’Être”***, qui désigne une capacité, un potentiel, ou un but que le Rôle va poursuivre ou manifester.
 - **(b)** un ou plusieurs ***“Domaines”***, qui sont des actifs, des processus, ou d'autres choses que le Rôle peut exclusivement contrôler et règlementer comme sa propriété, pour sa Raison d’Être.
