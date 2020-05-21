@@ -97,17 +97,48 @@ Un Cercle peut ajouter des Redevabilités ou des Domaines à son Rôle de Premie
 
 ## Article 2: Opérations
 
-### 2.1 Autorité des Porteurs de Rôle
+### 2.1 Responsabilité des Porteurs de Rôle
 
-Lorsque vous remplissez un Rôle, vous avez l'autorité de prendre toute action ou décision afin de mettre en oeuvre la Raison d’Être de votre Rôle ou ses Redevabilités, tant que vous n'enfreignez pas les règles définies dans cette Constitution.
+Lorsque vous portez un Rôle, vous avez les responsabilités suivantes:
+
+#### 2.1.1 Traiter les Tensions
+
+Vous êtes tenu de comparer l'expression effective de la Raison d’Être et des Redevabilités de votre Rôle à votre vision idéale de leur expression potentielle, afin d'identifier les écarts entre les deux (chaque écart est une ***“Tension”***). Vous êtes alors tenu d'essayer de résoudre ces Tensions.
+
+
+#### 2.1.2 Traiter Raison d’Être & Redevabilités
+
+Vous êtes tenu de réfléchir régulièrement à comment mettre en oeuvre la Raison d’Être de votre Rôle et chaque Redevabilité, en définissant des:
+
+- **(a)** ***“Prochaines-Actions”***, qui sont des actions utiles que vous pourriez prendre immédiatement, du moins en l'absence de priorités concurrentes ; et des
+- **(b)** ***“Projets”***, qui sont des résultats particuliers vers lesquels il serait utile de travailler, du moins en l'absence de priorités concurrentes.
+
+#### 2.1.3 Décomposer les Projets
+
+Vous êtes tenu de définir régulièrement des Next-Actions pour chacun des Projets de votre Rôle.
+
+#### 2.1.4 Suivre les Projets, Prochaines-Actions, & Tensions
+
+Vous êtes tenu de capturer et suivre tous les Projets et Prochaines-Actions pour votre Rôle sous forme de listes écrites. Vous devez aussi suivre les Tensions que vous avez l'intention de résoudre, du moins jusqu'à ce que vous les traitiez dans des Projets ou des Prochaines-Actions. Vous êtes aussi tenu de revoir et tenir à jour régulièrement ces listes, afin de les maintenir comme source fiable de travail potentiel pour le Rôle.
+
+#### 2.1.5 Prioriser votre Attention
+
+Lorsque vous avez du temps pour agir dans un Rôle, vous êtes responsable de réfléchir aux Prochaines-Actions que vous pourriez prendre, et exécuter celles que vous pensez qui pourraient ajouter le plus de valeur à l'Organisation. En évaluant cela, vous devez intégrer toutes les priorités relatives et les Stratégies définies par les Premiers Liens du Cercle ou tout Super-Cercle qui détient votre Rôle, ou par tout Rôle ou processus ayant l'autorité de résoudre les conflits de priorités et de définir les Stratégies de ces Cercles. Si vous avez l'intention de prioriser d'une manière différente, vous devez notifier les Premiers Liens concernés de votre intention.
+
+Si la Gouvernance d'un Cercle inclut une date butoir pour faire quelque chose, vous n'avez pas nécessairement à la respecter. A la place, vous devez l'interpréter comme une priorisation officielle du Cercle de toutes les actions soumises à cette date butoir sur toutes les autres actions de ce Cercle. Un Premier Lien ou un autre Rôle ou processus ayant l'autorité de résoudre les conflits de priorités entre Rôles peut outrepasser cette priorisation.
+
+### 2.2 Autorité des Porteurs de Rôle
+
+Lorsque vous portez un Rôle, vous avez l'autorité de prendre toute action ou décision afin de mettre en oeuvre la Raison d’Être de votre Rôle ou ses Redevabilités, tant que vous n'enfreignez pas les règles définies dans cette Constitution.
 
 En faisant celà, vous pourrez utiliser votre jugement raisonable pour interpréter cette Constitution et toute chose sous son autorité. Vous pourrez également interpréter comment les appliquer lors d'une situation aprticulière à laquelle vous faites face, et pourrez agir selon vos interprétations. Cependant, vous devez interpréter toute Gouvernance dans le contexte de la Raison d’Être et des Redevabilités du Cercle qui les contient. Vous ne pourrez pas utiliser une interprétation qui est en conflit avec ce contexte.
 
-#### 2.1.1 Ne Violez pas les Politiques
+
+#### 2.2.1 Ne Violez pas les Politiques
 
 Lorsque vous agissez dans un Rôle, vous ne devez violer aucune des Politiques du Rôle lui-même ou de tout Cercle contenant le Rôle.
 
-#### 2.1.2 N'impactez pas les Domaines
+#### 2.2.2 N'impactez pas les Domaines
 
 Au service de votre Rôle, vous avez l'autorité d'impacter et de contrôler les Domaines de votre Rôle.
 
@@ -117,7 +148,7 @@ Vous ne pouvez pas exercer de contôle ou causer un impact matériel sur un Doma
 
 Lorsque vous avez besoin de la permission d'impacter un Domaine, vous pouvez l'obtenir de quiconque contrôle ce Domaine. Vous pouvez aussi obtenir la permission en annonçant votre intention de prendre une action particulière, et en invitant quiconque avec un Domaine pertinent à objecter. Vous devez alors attendre un temps raisonnable pour recevoir des réponses. Si personne n'objecte dans ce temps, vous avez alors la permission d'impacter tout Domaine détenu par tout Rôle de l'Organisation que votre annonce atteint. Vous pouvez considérer qu'une annonce écrite a atteint quiconque lisant généralement les messages dans le canal que vous avez utilisé. Toute permission ainsi octroyée s'applique seulement pendant le temps de l'action en question que vous avez annoncé. Une Politique peut modifier ou contraindre plus avant ce processus.
 
-#### 2.1.3 Ne Dépensez pas d'Argent
+#### 2.2.3 Ne Dépensez pas d'Argent
 
 Lorsque vous énergisez votre Rôle, vous ne pouvez pas dépenser d'argent ou d'autres actifs à moins d'y être autorisé. Cette autorisation doit venir d'un Cercle qui contrôle déjà la dépense de ces ressources. Disposer d'un bien important pour le Cercle ou en restreindre significativement son accès est considéré comme une dépense.
 
@@ -125,40 +156,30 @@ Pour être autorisé à dépenser, vous devez annoncer par écrit votre intentio
 
 Une politique peut changer ce processus de quelque façon que ce soit, ou autoriser directement un Rôle à contrôler la dépense des resources du cercle.
 
-### 2.2 Responsabilité des Porteurs de Rôle
+### 2.3 Initiative Individuelle
 
-Lorsque vous portez un Rôle, vous avez les responsabilités suivantes:
+En tant qu'Associé de l'Organisation, dans certains cas vous êtes autorisé à agir au delà de l'autorité de vos Rôles, ou enfreindre les règles de cette Constitution. En agissant sous cette autorité étendue vous prenez une ***“Initiative Individuelle”***, et vous êtes tenu de suivre les règles suivantes:
 
-#### 2.2.1 Traiter les Tensions
+#### 2.3.1 Situations Autorisées
 
-Vous êtes tenu de comparer l'expression effective de la Raison d’Être et des Redevabilités de votre Rôle à votre vision idéale de leur expression potentielle, afin d'identifier les écarts entre les deux (chaque écart est une ***“Tension”***). Vous êtes alors tenu d'essayer de résoudre ces Tensions.
+Vous pouvez prendre une Initiative Individuelle, seulement lorsque toutes les conditions suivantes sont réunies:
 
-#### 2.2.2 Traiter Raison d’Être & Redevabilités
+- **(a)** Vous agissez de bonne foi pour servir la Raison d’Être ou exprimer les Redevabilités d'un Rôle dans l'Organisation.
+- **(b)** Vous pensez que votre action va résoudre ou empêcher une Tension plus importante pour l'Organisation que ce qu'elle ne devrait créer.
+- **(c)** Votre action n'engagera pas l'Organisation à des dépenses au delà de ce que vous êtes déjà autorisé à dépenser.
+- **(d)** Si votre action viole des Politiques ou des Domaines, vous croyez que trop de valeur serait perdue en la reportant pour obtenir la permission ou changer la Gouvernance.
 
-Vous êtes tenu de réfléchir régulièrement à comment mettre en oeuvre la Raison d’Être de votre Rôle et chaque Redevabilité, en définissant des:
+#### 2.3.2 Communication & Restauration
 
-- **(a)** ***“Prochaines-Actions”***, qui sont des actions utiles que vous pourriez prendre immédiatement, du moins en l'absence de priorités concurrentes ; et des
-- **(b)** ***“Projets”***, qui sont des résultats particuliers vers lesquels il serait utile de travailler, du moins en l'absence de priorités concurrentes.
+En prenant une Initiative Individuelle, vous devez expliquer votre action à tous les Porteurs de Rôle qui pourraient en être significativement affectés. Sur demande de ces Porteurs, vous devez prendre des actions pour aider à résoudre toutes Tensions créées par votre Initiative Individuelle. Vous devez aussi vous abstenir de prendre des Initiatives Individuelles similaires sur demande de l'un de ces Porteurs.
 
-#### 2.2.3 Décomposer les Projets
+Vous devez prioriser la communication et la restauration exigées par cette section sur votre travail habituel. Cependant, un Premier Lien d'un Cercle contenant tous les Rôles affectés par votre action peut changer cette priorité par défaut.
 
-Vous êtes tenu de définir régulièrement des Next-Actions pour chacun des Projets de votre Rôle.
-
-#### 2.2.4 Suivre les Projets, Prochaines-Actions, & Tensions
-
-Vous êtes tenu de capturer et suivre tous les Projets et Prochaines-Actions pour votre Rôle sous forme de listes écrites. Vous devez aussi suivre les Tensions que vous avez l'intention de résoudre, du moins jusqu'à ce que vous les traitiez dans des Projets ou des Prochaines-Actions. Vous êtes aussi tenu de revoir et tenir à jour régulièrement ces listes, afin de les maintenir comme source fiable de travail potentiel pour le Rôle.
-
-#### 2.2.5 Prioriser votre Attention
-
-Lorsque vous avez du temps pour agir dans un Rôle, vous êtes responsable de réfléchir aux Prochaines-Actions que vous pourriez prendre, et exécuter celles que vous pensez qui pourraient ajouter le plus de valeur à l'Organisation. En évaluant cela, vous devez intégrer toutes les priorités relatives et les Stratégies définies par les Premiers Liens du Cercle ou tout Super-Cercle qui détient votre Rôle, ou par tout Rôle ou processus ayant l'autorité de résoudre les conflits de priorités et de définir les Stratégies de ces Cercles. Si vous avez l'intention de prioriser d'une manière différente, vous devez notifier les Premiers Liens concernés de votre intention.
-
-Si la Gouvernance d'un Cercle inclut une date butoir pour faire quelque chose, vous n'avez pas nécessairement à la respecter. A la place, vous devez l'interpréter comme une priorisation officielle du Cercle de toutes les actions soumises à cette date butoir sur toutes les autres actions de ce Cercle. Un Premier Lien ou un autre Rôle ou processus ayant l'autorité de résoudre les conflits de priorités entre Rôles peut outrepasser cette priorisation.
-
-### 2.3 Devoirs envers les autres Porteurs de Rôle
+### 2.4 Devoirs envers les autres Porteurs de Rôle
 
 En tant que Porteur, vous avez les Devoirs suivants envers tous les autres Rôles dans l'Organisation. Ces Devoirs ne s'appliquent que lorsque l'autre partie agit au nom d'un de ses propres Rôles dans l'Organisation, et nomme ce Rôle sur demande. 
 
-#### 2.3.1 Devoir de Transparence
+#### 2.4.1 Devoir de Transparence
 
 Sur demande, vous avez une Devoir de transparence sur chacun des domaines suivants:
 
@@ -169,7 +190,7 @@ Sur demande, vous avez une Devoir de transparence sur chacun des domaines suivan
 - **(e) Indicateurs:** Vous devez partager tout indicateur que vous maintenez pour vos Rôles ou en tant qu'Associé de l'Organisation. Si on vous le demande, vous devez continuer à partager ces indicateurs régulièrement, jusqu'à ce que vous déterminiez qu'ils ne sont plus utiles.
 - **(f) Avancement:** Vous devez partager un résumé de l'avancement réalisé sur un Rôle ou sur chacun de vos Projets de Rôle depuis le dernier avancement que vous avez partagé. Si on vous le demande, vous devez continuer à partager cet avancement régulièrement, jusqu'à ce que vous déterminiez qu'il n'est plus nécessaire.
 
-#### 2.3.2 Devoir de Traitement
+#### 2.4.2 Devoir de Traitement
 
 Vous avez un devoir de promptement traiter les messages et les demandes, comme suit:
 
@@ -178,22 +199,22 @@ Vous avez un devoir de promptement traiter les messages et les demandes, comme s
 - **(c) Demandes d'Impacter un Domaine:** D'autres membres peuvent vous demander d'impacter un Domaine contrôlé par l'un de vos Rôles. Vous devez autoriser l'impact si vous ne voyez pas d'Objections à la demande, tel que définit dans l'Article 3. Si vous le faites, vous devez expliquer toute Objection au demandeur.
 - **(d) Demandes d'Information:** D'autres peuvent vous poser des questions ou demander des informations. Vous devez répondre de bonne foi avec au moins des réponses brèves ou l'information pertinente dont vous disposez déjà.
 
-#### 2.3.3 Devoir de Priorisation
+#### 2.4.3 Devoir de Priorisation
 
 Vous avez un devoir de prioriser votre attention comme suit:
 
 - **(a) Traitement avant Exécution:** Vous devez généralement prioriser le traitement des messages entrants de la part des autres Rôles sur l'exécution de vos propres Prochaines-Actions. Cependant, vous pouvez retarder le traitement des messages jusqu'à un moment approprié pour les traiter par lots, tant que votre traitement reste rapide. Traiter signifie honorer tous les devoirs de cette section, et sur demande, expliquer comment vous avez traité le message. Traiter ne signifie pas exécuter les Prochaines-Actions ou Projets que vous capturez.
 - **(b) Réunions avant Execution:** Vous devez prioriser votre présence aux réunions définies dans cette Constitution sur l'exécution de vos propres Prochaines-Actions, mais seulement si cette priorisation a été explicitement demandée pour une réunion particulière. Vous devez toujours décliner la demande si vous avez déjà des plans programmés pour le moment de la réunion.
 
-### 2.4 Réunions de Triage
+### 2.5 Réunions de Triage
 
 Au service d'un Rôle, tout Associé peut convoquer une ***“Réunion de Triage”*** pour engager les autres Rôles dans leurs responsabilités et devoirs.
 
-#### 2.4.1 Participation
+#### 2.5.1 Participation
 
 L'Associé convoquant une Réunion de Triage doit nommer les Rôles souhaités dans cette réunion. Tous les Associés qui agissent en tant que Porteurs de ces Rôles sont alors invités à participer, sauf si le convoquant limite l'invitation à un sous-ensemble des Porteurs de Rôle.
 
-#### 2.4.2 Processus de Réunion
+#### 2.5.2 Processus de Réunion
 
 L'Associé convoquant une réunion de Triage doit trouver quelqu'un pour la faciliter. Sauf Politique contradictoire, cette personne doit utiliser le processus suivant:
 
@@ -207,28 +228,9 @@ L'Associé convoquant une réunion de Triage doit trouver quelqu'un pour la faci
 
 Une Politique de Cercle peut spécifier un processus de Triage alternatif ou modifier ce processus par défaut sur demande de tout Rôle du Cercle.
 
-#### 2.4.3 Remplaçant pour les Membres Absents
+#### 2.5.3 Remplaçant pour les Membres Absents
 
 Si un Rôle non élu qui est invité à une Réunion de Triage n'est pas représenté dans la réunion pour une quelconque raison, un Premier Lien du Super-Cercle de ce Rôle peut le représenter pendant la réunion.
-
-### 2.5 Initiative Individuelle
-
-En tant qu'Associé de l'Organisation, dans certains cas vous êtes autorisé à agir au delà de l'autorité de vos Rôles, ou enfreindre les règles de cette Constitution. En agissant sous cette autorité étendue vous prenez une ***“Initiative Individuelle”***, et vous êtes tenu de suivre les règles suivantes:
-
-#### 2.5.1 Situations Autorisées
-
-Vous pouvez prendre une Initiative Individuelle, seulement lorsque toutes les conditions suivantes sont réunies:
-
-- **(a)** Vous agissez de bonne foi pour servir la Raison d’Être ou exprimer les Redevabilités d'un Rôle dans l'Organisation.
-- **(b)** Vous pensez que votre action va résoudre ou empêcher une Tension plus importante pour l'Organisation que ce qu'elle ne devrait créer.
-- **(c)** Votre action n'engagera pas l'Organisation à des dépenses au delà de ce que vous êtes déjà autorisé à dépenser.
-- **(d)** Si votre action viole des Politiques ou des Domaines, vous croyez que trop de valeur serait perdue en la reportant pour obtenir la permission ou changer la Gouvernance.
-
-#### 2.5.2 Communication & Restauration
-
-En prenant une Initiative Individuelle, vous devez expliquer votre action à tous les Porteurs de Rôle qui pourraient en être significativement affectés. Sur demande de ces Porteurs, vous devez prendre des actions pour aider à résoudre toutes Tensions créées par votre Initiative Individuelle. Vous devez aussi vous abstenir de prendre des Initiatives Individuelles similaires sur demande de l'un de ces Porteurs.
-
-Vous devez prioriser la communication et la restauration exigées par cette section sur votre travail habituel. Cependant, un Premier Lien d'un Cercle contenant tous les Rôles affectés par votre action peut changer cette priorité par défaut.
 
 
 ## Article 3: Gouvernance
