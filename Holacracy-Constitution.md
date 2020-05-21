@@ -30,7 +30,7 @@ Un Rôle peut seulement être affecté à un Associé de l'Organisation, ou à q
 
 #### 1.2.2 Focaliser une Affectation
 
-Celui qui décide d'une affectation de Rôle peut la focaliser sur seulement une zone ou un contexte particulier, si tous les champs de la définition du Rôle restent valables dans ce focus. Chaque focus est traité comme un Rôle entièrement séparé, mais la Raison d’Être du Rôle, ses Redevabilités, et Domaines s'appliquent uniquement dans le focus spécifié pour chaque affectation.
+Celui qui décide d'une affectation de Rôle peut la focaliser sur seulement une zone ou un contexte particulier, si tous les éléments de la définition du Rôle restent valables dans ce focus. Chaque focus est traité comme un Rôle entièrement séparé, mais la Raison d’Être du Rôle, ses Redevabilités, et Domaines s'appliquent uniquement dans le focus spécifié pour chaque affectation.
 
 #### 1.2.3 Renoncer à des Rôles
 
