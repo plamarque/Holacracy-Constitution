@@ -22,11 +22,13 @@ Un Rôle peut aussi contenir des ***“Politiques”***, qui sont des octrois ou
 
 ### 1.2 Affectation de Rôle
 
-Un Rôle peut contrôler qui porte un autre Rôle grâce à un Domaine dédié à l'affectation de ce Rôle. Toute personne détenant un tel Domaine peut affecter des personnes à remplir le Rôle cible ou désaffecter des personnes de ce Rôle à tout moment. Toute personne affectée ainsi devient le ***"Porteur"*** de ce Rôle. Quand un Rôle n'est plus rempli, les Porteurs du Rôle sont automatiquement considérés Porteurs du Rôle non rempli.
+Un Rôle peut contrôler qui porte un autre Rôle grâce à un Domaine dédié à l'affectation de ce Rôle. Toute personne détenant un tel Domaine peut affecter des personnes à remplir le Rôle cible à quiconque accepte l'affectation, y compris à plusieurs personnes simultanément. Toute personne affectée ainsi devient le ***"Porteur"*** de ce Rôle. Un Porteur de Rôle peut par la suite en démissionner à tout moment, sauf convention contraire. De même, celui qui contrôle les affectations peut désaffecter un Porteur de Rôle à tout moment. Une Politique peut préciser des contraintes dans l'affectation et la désaffectation des Rôles.
 
-#### 1.2.1 Eligibilité
+#### 1.2.1 Affectation par Défaut
 
-Un Rôle peut seulement être affecté à un Associé de l'Organisation, ou à quelqu'un qui a accepté d'exercer les fonctions requises par l'affectation. Un Rôle peut être affecté à plusieurs personnes simultanément. Une Politique peut être définie pour contraindre les affectations / désaffectations au Rôle.
+Lorsqu'un Rôle n'est plus rempli, quiconque contrôle l'affectation des Rôles est automatiquement considéré comme Porteur du Rôle non rempli.
+
+Lorsqu'un Rôle n'a plus aucun Associé affecté, alors tout Associé qui en contrôle l'affectation est automatiquement considéré Porteur de Rôle de ce Rôle. Cependant, cette affectation par défaut s'applique uniquement tant que ceux qui y sont normalement affecté ne remplissent pas activement les responsabilités et devoirs qui viennent avec cette affectation.
 
 #### 1.2.2 Focaliser une Affectation
 
@@ -74,7 +76,7 @@ Deux ou plusieurs Rôles peuvent créer un nouveau Cercle à tout moment pour go
 
 ### 1.4 Premiers Liens
 
-Tout Associé Porteur d'un Rôle devient automatiquement un ***“Premier Lien*** pour le Cercle intérieur de ce Rôle, et agit donc en pleine capacité de Premier Lien. La définition du Rôle Premier Lien est donnée dans l'Annexe A. Un Cercle sans Super-Cercle n'a pas de Premier Lien, à moins qu'une Politique du Cercle n'en dispose autrement.
+Tout Porteur d'un Rôle devient automatiquement un ***“Premier Lien*** pour le Cercle intérieur de ce Rôle, et agit donc en pleine capacité de Premier Lien. La définition du Rôle Premier Lien est donnée dans l'Annexe A. Un Cercle sans Super-Cercle n'a pas de Premier Lien, à moins qu'une Politique du Cercle n'en dispose autrement.
 
 #### 1.4.1 Définir les Priorités et les Stratégies
 
@@ -228,7 +230,7 @@ Au service d'un Rôle, tout Associé peut convoquer une ***“Réunion de Triage
 
 #### 2.4.1 Participation
 
-L'Associé convoquant une Réunion de Triage doit nommer les Rôles souhaités dans cette réunion. Tous les Porteurs de ces Rôles sont alors invités à participer, sauf si le convoquant limite l'invitation à un sous-ensemble des Porteurs de Rôle. Le convoquant peut choisir le Facilitateur de tout Cercle pertinent pour faciliter cette réunion.
+L'Associé convoquant une Réunion de Triage doit nommer les Rôles souhaités dans cette réunion. Tous les Associés qui agissent en tant que Porteurs de ces Rôles sont alors invités à participer, sauf si le convoquant limite l'invitation à un sous-ensemble des Porteurs de Rôle. Le convoquant peut choisir le Facilitateur de tout Cercle pertinent pour faciliter cette réunion.
 
 #### 2.4.2 Processus de Réunion
 
