@@ -235,50 +235,32 @@ Si un Rôle non élu qui est invité à une Réunion de Triage n'est pas représ
 
 ## Article 3: Gouvernance
 
-### 3.1 Membres de Cercle
+### 3.1 Participants à la Gouvernance
 
-Chaque Cercle a un groupe de ***"Membres de Cercle"*** qui peuvent représenter ses Rôles dans son Processus de Gouvernance.
+Chaque Cercle a un groupe de ***"Membres Structurels"*** qui peuvent représenter ses Rôles dans son Processus de Gouvernance.
 
-Les Membres de Cercle incluent tous ses Premiers Liens, de même que chaque Associé Porteur d'un Rôle du Cercle. Si un Rôle a plusieurs Porteurs de Rôle, un Cercle peut adopter une Politique pour limiter combien de Porteurs représentent ce Rôle en tant que Membres de Cercle dans son Processus de Gouvernance.
+Les Membres Structurels incluent tous ses Premiers Liens, de même que chaque Associé Porteur d'un Rôle du Cercle. Si un Rôle a plusieurs Porteurs de Rôle, un Cercle peut adopter une Politique pour limiter combien de Porteurs représentent ce Rôle en tant que Membres Structurels dans son Processus de Gouvernance.
 
 #### 3.1.1 Seconds Liens
 
-Tout Membre Structurel peut appeler à la sélection d'un ***"Second Lien"*** pour aider à représenter ce Cercle dans un Cercle supérieur le contenant. Le Second Lien sélectionné remplit le ***"Rôle Second Lien"*** dans le Cercle, tel que défini dans l'Annexe A.
+Tout Membre Structurel peut appeler à la sélection ou au remplacement d'un ***"Second Lien"*** pour faciliter la représentation de ce Cercle dans un Cercle supérieur le contenant. Le Second Lien sélectionné remplit le ***"Rôle Second Lien"*** dans le Cercle, tel que défini dans l'Annexe A.
 
-Le Second Lien devient un Membre Structurel de tout Cercle supérieur contenant le Rôle extérieur de ce Cercle, avec l'autorité de représenter ce Rôle à la place de ses Porteurs. Un Cercle contenant peut limiter ou empêcher ces Seconds Liens de devenir Membres de Cercle via une Politique, mais seulement si ces Rôles bénéficient d'un autre moyen comparable d'être représenté dans le Cercle.
+Le Cercle doit utiliser le Processus d'Election Intégratif défini ci-dessous pour sélectionner un Second Lien, sauf si une Politique définit un processus alternatif. Seuls les Membres Structurels du Cercle sont des candidats éligibles pour y servir comme Second Lien. Quiconque servant en tant que Premier Lien pour un Cercle ne peut pas également servir comme son Second Lien. Une seule personne à la fois peut servir de Second Lien pour un Cercle, sauf si une Politique d'un Cercle contenant le permet.
 
-Sélectionner un Second Lien se produit par le processus d'élection et les règles définies à l'Article 3, sauf si une Politique définit un processus alternatif. Seuls les Associés remplissant des Rôles dans le Cercle font des candidats éligibles pour y servir comme Second Lien. Quiconque servant en tant que Premier Lien pour un Cercle ne peut pas également servir comme son Second Lien. Une seule personne à la fois peut servir de Second Lien pour un Cercle, sauf si une Politique d'un Cercle contenant le permet.
+ Le Second Lien sélectionné devient un Membre Structurel de tout Cercle supérieur contenant le Rôle extérieur de ce Cercle, avec l'autorité de représenter ce Rôle à la place de ses Porteurs. Un Cercle contenant peut limiter ou empêcher ces Seconds Liens de devenir Membres Structurels via une Politique, mais seulement si ces Rôles bénéficient d'un autre moyen comparable d'être représenté dans le Cercle.
 
 Un Cercle peut ajouter des Redevabilités ou des Domaines à son Rôle de Second Lien, de même qu'amender ou supprimer ces ajouts. Aucun Cercle ne peut amender ou supprimer la Raison d’Être ou toute Redevabilité du Rôle de Second Lien, ni supprimer ce Rôle.
 
-### 3.2 Facilitateur et Secrétaire
+### 3.1.2 Facilitateur et Secrétaire
 
-Tout Cercle avec plus d'un Membre Structurel inclue un ***“Rôle Facilitateur”*** et un ***“Rôle Secrétaire”***, tel que défini dans l'Annexe A. Les personnes agissant dans chacun de ces rôles deviennent respectivement le ***“Facilitateur”*** et le ***“Secrétaire”*** du Cercle.
+Tout Cercle avec plus d'un Membre Structurel inclut un ***“Rôle Facilitateur”*** et un ***“Rôle Secrétaire”***, tel que défini dans l'Annexe A. Les personnes agissant dans chacun de ces rôles deviennent respectivement le ***“Facilitateur”*** et le ***“Secrétaire”*** du Cercle. Tout Membre Structurel d'un Cercle peut solliciter une élection à tout moment afin de remplir ou remplacer quelqu'un comme Facilitateur ou Secrétaire du Cercle.
 
-#### 3.2.1 Elections & Eligibilité
-
-Sur demande d'un Membre Structurel, un Facilitateur organisera une élection afin de choisir quelqu'un pour remplir son Rôle de Facilitateur ou de Secrétaire. Aucun Rôle et aucune Politique ne peut affecter ou désaffecter ces Rôles par un autre moyen, ni changer le processus obligatoire. Normalement seuls les  Membres de Cercle sont des candidats éligibles pour ces élections. Néanmoins, une Politique du Cercle ou de tout Super-Cercle peut ajouter ou restreindre les candidats éligibles.
-
-#### 3.2.2 Mandat
-
-Pendant un processus d'élection, le Facilitateur doit spécifier une durée de mandat pour chaque élection. A la fin du mandat, le Secrétaire doit  déclencher une élection pour ce Rôle. Même avant que le mandat ait expiré, tout Membre Structurel peut déclencher une nouvelle élection à tout moment.
-
-#### 3.2.3 Amender les Rôles Facilitateur ou Secrétaire
+Le Cercle doit utiliser le Processus d'Election Intégratif défini ci-dessous pour sélectionner un Facilitateur et un Secrétaire. Aucun Rôle ou Politique ne peut affecter ces rôles ou retirer une affectation par une autre manière/ Normalement, les seuls candidats éligibles pour ces élections sont les Membres Structurels du Cercle. Néanmoins, une Politique du Cercle ou de tout Super-Cercle peut ajouter ou restreindre des candidats éligibles.
 
 Un Cercle peut ajouter des Redevabilités ou des Domaines à ses propre Rôles Facilitateur ou Secrétaire, de même qu'il peut changer et supprimer ces ajouts. Aucun Cercle ne peut amender ou supprimer la Raison d’Être, le Domaine, une Redevabilité, ni supprimer le Rôle.
 
-#### 3.2.4 Remplaçants
 
-Un remplaçant peut agir en tant que Facilitateur ou Secrétaire lorsque le Rôle n'est pas porté. Un remplaçant peut aussi servir lorsque le Facilitateur ou Secrétaire habituel n'est pas disponible pour une réunion, ou demander un autre remplaçant pour toute raison.
-
-Lorsqu'un remplaçant est nécessaire, le remplaçant est, par ordre de priorité :
-
-- **(a)** quelqu'un désigné par la personne à remplacer; ou
-- **(b)** comme Facilitateur, le Secrétaire élu du Cercle, et comme Secrétaire, le Facilitateur effectif du Cercle;
-- **(c)** le Premier Lien du Cercle, ou, s'il y a plusieurs Premiers Liens, le premier à se déclarer remmplaçant; ou
-- **(d)** le premier Membre Structurel à se déclarer remplaçant.
-
-### 3.3 Périmètre de la Gouvernance
+### 3.2 Périmètre de la Gouvernance
 
 Dans le cadre du Processus de Gouvernance d'un Cercle, le Cercle peut:
 
@@ -290,7 +272,7 @@ Dans le cadre du Processus de Gouvernance d'un Cercle, le Cercle peut:
 
 Aucune autre décision ne peut être considérée comme un résultat valide du Processus de Gouvernance d'un Cercle.
 
-#### 3.3.1 Périmètre des Politiques
+#### 3.2.1 Périmètre des Politiques
 
 Une Politique peut seulement se définir par un ou plusieurs des cas suivants :
 
@@ -301,17 +283,20 @@ Une Politique peut seulement se définir par un ou plusieurs des cas suivants :
 
 Une Politique qui octroie ou contraint l'autorité s'applique également à tous les Sous-Cercles, récursivement, sauf indication contraire. Une Politique qui change une règle par défaut ou un processus de la Constitution s'applique uniquement au Cercle qui détient la Politique, ou, si énoncé explicitement, aux Sous-Cercles aussi, récursivement. Dans ce dernier cas, un Sous-Cercle peut toujours surcharger cette Politique par l'une des siennes, à moins que cela ne soit explicitement interdit par la Politique de plus haut rang.
 
-#### 3.3.2 Rayer une Gouvernance Invalide
+#### 3.2.2 Rayer une Gouvernance Invalide
 
 Tout Associé peut demander au Secrétaire d'un Cercle de se prononcer sur la validité de toute Gouvernance à l'intérieur de ce Cercle ou de l'un de ses Sous-Cercles. Si le Secrétaire conclue qu'elle viole les règles de cette Constitution, le Secrétaire doit la rayer des registres du Cercle. Après, le Secrétaire doit informer sans délai à tous les Membres du Cercle de ce qu'il a rayé et pourquoi.
 
-### 3.4 Modifier la Gouvernance
+### 3.3 Processus de Gouvernance
 
-Tout Membre de Cercle peut initier son Processus de Gouvernance en proposant de changer sa Gouvernance. Pour ce faire, le ***“Proposant”*** doit d'abord diffuser une ***“Proposition”*** à tous les Membres du Cercle. Les autres Membres du Cercle ont alors l'opportunité d'exprimer des préoccupations envers la Proposition. Chaque préoccupation est une ***“Objection”*** si elle satisfait aux critères de validité ci-dessous, et que la personne qui l'a soulevée en est l'***“Objecteur”***. En faisant des Propositions ou en soulevant des Objections, un Membre de Cercle peut seulement représenter les Rôles du Cercle dont il est Porteur ou qu'il représente en tant que Second Lien. Un Membre de Cercle peut aussi représenter un Rôle pour lequel il a obtenu la permission temporaire par l'un des Porteurs de Rôle, jusqu'à ce que cette permission expire ou qu'elle lui soit retirée.
+Tout Membre Structurel peut initier son Processus de Gouvernance en proposant de changer sa Gouvernance. Pour ce faire, le ***“Proposant”*** doit d'abord diffuser une ***“Proposition”*** à tous les Membres du Cercle, en utilisant les canaux de communication autorisés par le Secrétaire. Les autres Membres du Cercle ont alors l'opportunité d'exprimer des préoccupations envers la Proposition. Chaque préoccupation est une ***“Objection”*** si elle satisfait aux critères de validité ci-dessous, et que la personne qui l'a soulevée en est l'***“Objecteur”***. 
 
-Si aucune Objection n'est opposée à la Proposition, elle est adoptée et vient amender la Gouvernance du Cercle. Si des Objections sont soulevées, le Proposant et chaque Objecteur doivent trouver une façon d'intégrer les Objections avant que le Cercle n'adopte la Proposition. Après chaque objection intégrée, tous les Membres du Cercle doivent à nouveau avoir l'opportunité de soulever des Objections.
+Lorsque tous les Membres du Cercle ont confirmé qu'ils n'ant aucune Objection à la Proposition, elle est adoptée et vient amender la Gouvernance du Cercle. Si des Objections sont soulevées, le Proposant et chaque Objecteur doivent trouver une façon d'intégrer les Objections avant que le Cercle n'adopte la Proposition. Après chaque tentative, tous les Membres du Cercle doivent à nouveau avoir l'opportunité de soulever des Objections. Un Cercle peut adopter une Politique pour définir une limite de temps pour souvelver des Objections, après quoi, quiconque n'ayant pas répondu est réputé h'avoir aucune Objection.
 
-#### 3.4.1 Critères de Validité pour les Propositions
+En faisant des Propositions ou en soulevant des Objections, un Membre Structurel peut seulement représenter les Rôles du Cercle dont il est Porteur ou qu'il représente en tant que Second Lien. Un Membre Structurel peut aussi représenter un Rôle pour lequel il a obtenu la permission temporaire par l'un des Porteurs de Rôle, jusqu'à ce que cette permission expire ou qu'elle lui soit retirée.
+
+
+#### 3.3.1 Critères de Validité pour les Propositions
 
 Pour qu'une Proposition soit valide, le Proposant doit pouvoir:
 
@@ -321,7 +306,7 @@ Pour qu'une Proposition soit valide, le Proposant doit pouvoir:
 
 Si à tout moment le Facilitateur réalise que la Proposition ne remplit pas ces critères, il doit abandonner la Proposition.
 
-#### 3.4.2 Critères de Validité pour les Objections
+#### 3.3.2 Critères de Validité pour les Objections
 
 Une préoccupation pour l'adoption d'une Proposition n'est considérée comme une Objection que si l'Objecteur peut montrer raisonablement comment elle remplit **tous** les critères suivants:
 
@@ -332,13 +317,13 @@ Une préoccupation pour l'adoption d'une Proposition n'est considérée comme un
 
 Toutefois, indépendamment des critères ci-dessus, une préoccupation est toujours qualifiée d'Objection si adopter la Proposition violerait une règle de cette Constitution.
 
-#### 3.4.3 Tester les Objections
+#### 3.3.3 Tester les Objections
 
 Le Facilitateur peut tester la validité d'une Objection revendiquée en demandant à l'Objecteur si l'Objection réponds aux critères requis, et comment. Lors de l'évaluation des réponses, le Facilitateur peut seulement juger si l'Objecteur a présenté des arguments pour chaque critère en utilisant un raisonnement logique. Le Facilitateur ne peut pas juger sur la base de la précision d'un argument ni de l'importance de l'adresser.
 
 Lorsqu'une Objection revendiquée prétend que la Proposition violerait la Constitution, la Facilitateur peut demander au Secrétaire du Cercle si c'est vrai. Si le Secrétaire décide que ce n'est pas le cas, le Facilitateur doit rejeter l'Objection.
 
-#### 3.4.4 Règles d'Intégration
+#### 3.3.4 Règles d'Intégration
 
 Les règles suivantes s'appliquent lors de la résolution d'une objection :
 
@@ -347,29 +332,54 @@ Les règles suivantes s'appliquent lors de la résolution d'une objection :
 - **(c)** Tout Membre du Cercle peut poser au Proposant des questions de clarification sur la Tension à l'origine de la Proposition, ou demander des exemples permettant d'illustrer la Tension. Si le Facilitateur estime que le Proposant ne répond pas de bonne foi, il doit considérer la Proposition comme abandonnée.
 - **(d)** L'objecteur peut suggérer une Proposition amendée, et offrir des arguments raisonables pour expliquer pourquoi elle résoudrait la Tension. Alors, sur demande de l'Objecteur, le Proposant doit présenter une argument raisonable qui expliquerait pourquoi la Proposition amendée ne résoudrait pas la Tension dans au moins un des exemples utilisés pour illustrer sa Tension. Si nécessaire, le Proposant, peut ajouter un autre exemple pour illustrer pourquoi la Proposition amendée ne résoudrait pas sa Tension. Si le Facilitateur estime que le Proposant n'est pas capable ou ne veut pas le faire, il peut abandonner la Propostion.
 
-### 3.5 Gouvernance Meetings
+#### 3.3.5 Processus d'Election Intégratif 
 
-The Secrétaire of a Cercle is responsible for scheduling ***"Gouvernance Meetings"*** to enact the Cercle’s Processus de Gouvernance. The Cercle's Facilitateur is responsible for facilitating Gouvernance Meetings in alignment with the rules herein.
+En plus de faire une Proposition, tout Membre Structurel peut aussi initialiser le Processus de Gouvernance du Cercle en demandant une élection pour un Rôle de Second Lien, Facilitateur, ou Secrétaire. La personne agissant en qualité de Facilitateur doit alors mettre en oeuvre le ***"Processus d'Election Intégratif"*** comme suit:
 
-In addition to any regular Gouvernance Meetings of the Cercle, the Secrétaire must schedule special Gouvernance Meetings promptly upon request of any Cercle Member. The requester may further specify an intention for a special Gouvernance Meeting and any limits on what the meeting may change. This may include focusing the meeting on a specific Tension, or limiting it to only modifying certain Rôles. In that case, the authority of that special Gouvernance Meeting is constrained to only processing Proposals for the stated intent, and only making changes within the stated limits.
+- **(a) Décrire le Rôle:** Tout d'abord, le Facilitateur identifie le Rôle et le mandat pour l'élection. Le Facilitateur peut également présenter d'autres informations pertinentes pour cette élection. A cette étape, personne ne peut parler de candidat potentiels.
+- **(b) Remplir les Bulletins:** Chaque participant remplit un bulletin pour nominer le candidat éligible qu'il pense être le meilleur pour le Rôle. Chaque participant doit également s'identifier sur le bulletin comme nominant, et personne ne peut s'abstenir ou nominer plusieurs personnes.
+- **(c) Tour de Nomination :** A cette étape, le Facilitateur révèle le contenu de chaque bulletin, un par un, devant tous les participants. Pour chaque bulletin, le nominant explique pourquoi il/elle pense que leur nominé serait un bon choix pour le Rôle. Personne d'autre ne parle. Le nominant ne peut pas parler sur d'autres candidats potentiels en dehors de son nominé.
+- **(d) Tour de Changement des Nominations:** Une fois que toutes les nominations sont partagées, tout participant peut changer sa nomination. Un participant qui change de nomination peut expliquer la raison de ce changement, mais le Facilitateur peut mettre fin à tout commentaire ou discussion.
+- **(e) Faire une Proposition:** Le Facilitateur compte les nominations, et fait une Proposition pour élire le candidat qui en a reçu le plus. En cas d'égalité, le Facilitateur peut faire l'une des choses suivantes: (i) si un seul des candidats ex aequo s'est nominé lui/elle-même, il peut proposer cette personne; ou (ii) si la personne portant actuellement le Rôle est parmi les ex aequo, il peut proposer cette personne; ou (iii) sélectionner à l'aveugle et au hasard l'un des candidats ex aequo, et proposer cette personne; ou (iv) retourner à l'étape précédente et demander à chaque participant qui a nominé quelqu'un d'autre qu'un des candidats ex aequo de changer sa nomination vers l'un des candidats ex aequo.
+- **(f) Traiter la Proposition:** Le Facilitateur passe au Processus de Décision Intégratif, mais commence avec le tour d'Objection. Si des Objections surgissent, le Facilitateur peut choisir de les traiter normalement, ou abandonner la Proposition. Si elle est abandonnée, le Facilitateur doit alors revenir à l'étape précédente de ce processus, ignorer toutes les nominations pour le candidat éliminé, et appliquer les règles de l'étape précédente pour sélectionner un autre candidat à proposer.
 
-#### 3.5.1 Attendance
+Un Cercle peut adopter une Politique afin de définir une limite de temps pour nominer un candidat ou répondre à une Proposition durant le Processus d'Election Intégratif. Après que cette limite de temps soit atteinte, le Facilitateur doit exclure quiconque n'a pas répondu de la suite du processus.
 
-All Membres de Cercle of a Cercle may participate in its Gouvernance Meetings. The acting Facilitateur and Secrétaire may also participate even if they are not Membres de Cercle of the Cercle. In that case, they become temporary Membres de Cercle for the duration of the meeting.
+#### 3.3.6 Remplaçants des Facilitateurs et Secrétaires
+
+Un remplaçant peut agir en tant que Facilitateur ou Secrétaire lorsque le Rôle n'est pas porté. Un remplaçant peut aussi servir lorsque le Facilitateur ou Secrétaire habituel n'est pas disponible pour une réunion, ou demander un autre remplaçant pour toute raison.
+
+Lorsqu'un remplaçant est nécessaire, le remplaçant est, par ordre de priorité :
+
+- **(a)** quelqu'un désigné par la personne à remplacer; ou
+- **(b)** comme Facilitateur, le Secrétaire élu du Cercle, et comme Secrétaire, le Facilitateur effectif du Cercle;
+- **(c)** le Premier Lien du Cercle, ou, s'il y a plusieurs Premiers Liens, le premier à se déclarer remmplaçant; ou
+- **(d)** le premier Membre Structurel à se déclarer remplaçant.
+
+
+### 3.4 Réunions de Gouvernance
+
+En plus de traiter les Propositions faites de manière asynchrone en dehors des réunions, chaque Cercle doit également tenir régulièrement des ***"Réunions de Gouvernance"*** afin de mettre en oeuvre le Processus de Gouvernance du Cercle en temps réel. A tout moment durant le traitement d'une Proposition asynchrone, tout Membre Structurel peut demander à ce que la Proposition soit déplacée en Réunion de Gouvernance afin d'être traitée en temps réel à la place. Le processus asyncrhone doit alors s'interrompre immédiatement. 
+
+Le Secrétaire du Cercle est responsable de planifier les Réunions de Gouvernance, et son Facilitateur est responsable de les faciliter conformément aux règles ci-dessous. En plus des réunions de Gouvernance régulières, le Secrétaire peut planifier une réunion de Gouvernance exceptionnelle sur demande de l'un des Membres Structurels. Le demandeur peut préciser son intention pour la réunion de Gouvernance exceptionnelle et préciser des limites à ce que cette réunion pourra changer. Cela peut signifier se focaliser sur une seule Tension, ou se limiter à modifier certains Rôles. Dans ce cas, l'autorité de cette Réunion de Gouvernance exceptionnelle est contrainte aux seules Propositions en rapport avec l'intention énoncée, et doivent respecter les limites fixées.
+
+#### 3.4.1 Attendance
+
+All Membres Structurels of a Cercle may participate in its Gouvernance Meetings. The acting Facilitateur and Secrétaire may also participate even if they are not Membres Structurels of the Cercle. In that case, they become temporary Membres Structurels for the duration of the meeting.
 
 As a Second Lien for a Cercle, you may invite any Associé to join the Gouvernance Meeting of any Cercle immediately containing your Cercle. You may only extend this invitation to one Associé at a time, and only to aid in the processing of a specific Tension affecting the Cercle you represent. You must sense this Tension yourself as well, and believe it makes sense to process in the Cercle. Your invited guest becomes a temporary Cercle Member for the duration of the meeting, or until you withdraw the invitation. Your guest may represent your Cercle along with you in the meeting, but only while processing that specific Tension.
 
 Beyond the above, no one else may participate in a Cercle’s Gouvernance Meetings.
 
-#### 3.5.2 Notice & Duration
+#### 3.4.2 Notice & Duration
 
-A Cercle may only conduct a Gouvernance Meeting if the Secrétaire gave all Membres de Cercle reasonable advance notice of the meeting. Beyond that, there is no quorum required for a Cercle to conduct a Gouvernance Meeting, unless a Politique specifies one.
+A Cercle may only conduct a Gouvernance Meeting if the Secrétaire gave all Membres Structurels reasonable advance notice of the meeting. Beyond that, there is no quorum required for a Cercle to conduct a Gouvernance Meeting, unless a Politique specifies one.
 
 Gouvernance Meetings end once they reach the duration initially scheduled by the Secrétaire. The Secrétaire may choose to extend the duration within the meeting, but only if no Cercle Member requests otherwise.
 
 Any Cercle Member who misses part or all of a Gouvernance Meeting counts as having had a chance to raise concerns about any Proposals made therein. Thus, a Cercle may adopt Proposals in a Gouvernance Meeting without regard for absent members.
 
-#### 3.5.3 Meeting Process
+#### 3.4.3 Meeting Process
 
 The Facilitateur must use the following process for Gouvernance Meetings:
 
@@ -381,17 +391,17 @@ At any point during this process, a participant may request a ***“Time Out”*
 
 A Politique of the Cercle may add to this process, but may not conflict with any rules or requirements defined in this Article of the Constitution.
 
-#### 3.5.4 Agenda Building
+#### 3.4.4 Agenda Building
 
 The Facilitateur builds an agenda of Tensions to process by soliciting agenda items from all participants. The Facilitateur must do this in the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items during the meeting, between the processing of any existing agenda items.
 
 For a regular Gouvernance Meeting, the Facilitateur may choose the order in which to process agenda items. However, on request of a meeting participant, any agenda item calling for an election must go before all others. For a special Gouvernance Meeting scheduled on request of a participant, that participant may choose the agenda order.
 
-Agenda items are processed one at a time. To process a request for an election, the Facilitateur uses the ***“Integrative Election Process”*** defined below. To process anything else, the Facilitateur uses the ***“Integrative Decision-Making Process”*** defined below.
+Les points d'Agenda sont traités un à la fois. POur traiter une demande d'élection, le Facilitateur utilise le Processus D'Election INtégratif. Pour traiter quoi que ce soit d'autre, le Facilitateur utilise le Processus de Prise de Décision Intégratif défini ci-dessous.
 
-#### 3.5.5 Integrative Decision-Making Process
+#### 3.4.5 Integrative Decision-Making Process
 
-The Facilitateur must enact the Integrative Decision-Making Process as follows:
+The Facilitateur must enact the ***"Integrative Decision-Making Process"*** as follows:
 
 - **(a) Present Proposal:** First, the Proposer may describe the Tension and present a Proposal to address it. On the Proposer's request, the Facilitateur may allow others to help craft a Proposal. However, the Facilitateur must focus this help solely on getting to an initial Proposal to address the Proposer's Tension. The Facilitateur must disallow discussing other Tensions or concerns about the Proposal.
 - **(b) Clarifying Questions:** Once the Proposer makes a Proposal, others may ask clarifying questions. These must be to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitateur must stop any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Participants may also ask the Secrétaire to read the Proposal or show any existing Gouvernance, during this step or at any other time when the participant is allowed to speak, and the Secrétaire must do so.
@@ -400,29 +410,8 @@ The Facilitateur must enact the Integrative Decision-Making Process as follows:
 - **(e) Objection Round:** Next, each participant, one at a time, may raise potential Objections to adopting the Proposal. The Facilitateur must stop and disallow discussion or responses of any kind. The Facilitateur may test Objections, and must capture any valid Objections. If there are no valid Objections, the Proposal is adopted.
 - **(f) Integration:** If there are valid Objections, the Facilitateur then focuses on each one, one at a time. For each, the participants brainstorm to find a potential change to the Proposal to resolve the Objection. The Facilitateur marks an Objection resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that it still addresses the Tension. During this step, the Facilitateur must apply the rules of integration described in this Article. Once all Objections are resolved, the Facilitateur moves back to the Objection round with the amended Proposal.
 
-#### 3.5.6 Processus d'Election Intégratif 
 
-Le Facilitateur doit mettre en oeuvre le Processus d'Election Intégratif comme suit:
-
-- **(a) Décrire le Rôle:** Tout d'abord, le Facilitateur identifie le Rôle et le mandat pour l'élection. Le Facilitateur peut également présenter d'autres informations pertinentes pour cette élection. A cette étape, personne ne peut parler de candidat potentiels.
-- **(b) Remplir les Bulletins:** Chaque participant remplit un bulletin pour nominer le candidat éligible qu'il pense être le meilleur pour le Rôle. Chaque participant doit également s'identifier sur le bulletin comme nominant, et personne ne peut s'abstenir ou nominer plusieurs personnes.
-- **(c) Tour de Nomination :** A cette étape, le Facilitateur révèle le contenu de chaque bulletin, un par un, devant tous les participants. Pour chaque bulletin, le nominant explique pourquoi il/elle pense que leur nominé serait un bon choix pour le Rôle. Personne d'autre ne parle. Le nominant ne peut pas parler sur d'autres candidats potentiels en dehors de son nominé.
-- **(d) Tour de Changement des Nominations:** Une fois que toutes les nominations sont partagées, tout participant peut changer sa nomination. Un participant qui change de nomination peut expliquer la raison de ce changement, mais le Facilitateur peut mettre fin à tout commentaire ou discussion.
-- **(e) Faire une Proposition:** Le Facilitateur compte les nominations, et fait une Proposition pour élire le candidat qui en a reçu le plus. En cas d'égalité, le Facilitateur peut faire l'une des choses suivantes: (i) si un seul des candidats ex aequo s'est nominé lui/elle-même, il peut proposer cette personne; ou (ii) si la personne portant actuellement le Rôle est parmi les ex aequo, il peut proposer cette personne; ou (iii) sélectionner à l'aveugle et au hasard l'un des candidats ex aequo, et proposer cette personne; ou (iv) retourner à l'étape précédente et demander à chaque participant qui a nominé quelqu'un d'autre qu'un des candidats ex aequo de changer sa nomination vers l'un des candidats ex aequo.
-- **(f) Traiter la Proposition:** Le Facilitateur passe au Processus de Décision Intégratif, mais commence avec le tour d'Objection. Si des Objections surgissent, le Facilitateur peut choisir de les traiter normalement, ou abandonner la Proposition. Si elle est abandonnée, le Facilitateur doit alors revenir à l'étape précédente de ce processus, ignorer toutes les nominations pour le candidat éliminé, et appliquer les règles de l'étape précédente pour sélectionner un autre candidat à proposer.
-
-### 3.6 Gouvernance Asynchrone 
-
-Les Membres d'un Cercle peuvent faire des Propositions de manière asynchrone au lieu d'attendre une Réunion de Gouvernance. Pour ce faire, le Proposeur doit distribuer une Proposition écrite à tous les autres Membres du Cercle. Le Secrétaire du Cercle décide quels sont les cannaux de communication autorisés pour les Propositions asynchrones. Chaque Membre du Cercle peut alors poser des questions de clarification, partager des réactions, ou lever des Objections. A tout moment avant que le processus se termine, tout Membre du Cercle peut arrêter le processus en demandant que la Proposition soit portée en Réunion de Gouvernance.
-
-Un Membre de Cercle peut aussi demander au Facilitateur de conduire une élection en dehors d'une Réunion de Gouvernance. Le Facilitateur peut le faire en mettant en oeuvre un processus d'élection asynchrone.
-
-Un Cercle peut adopter des Politiques pour contraindre davantage quand et comment les Propositions ou les élections peuvent avoir lieu en dehors d'une Réunion de Gouvernance. Néanmoins, aucune Politique ne peut restreindre le droit d'arrêter le traitement asynchrone d'une Proposition en demandant de la porter en Réunion de Gouvernance.
-
-Un Cercle peut aussi adopter une Politique qui définit une limite de temps pour répondre à une Proposition asynchrone ou aux nominations d'élections. A la fin de la limite de temps, quiconque n'a pas répondu est réputé ne pas avoir d'Objection ou ne nomination.
-
-
-#### 3.7 Conflits d'Interprétation
+#### 3.5 Conflits d'Interprétation
 
 En tant qu'Associé, votre interprétation de cette Constitution et de la Gouvernance de l'Organisation peut parfois entrer en conflit avec celle d'un autre Associé. Quand cela arrive, vous pouvez demander au Secrétaire de tout Cercle impacté de trancher sur l'interprétation à faire. Avant qu'un Secrétaire ne réponde, chacun peut continuer à utiliser sa propre interprétation. Après que le Secrétaire ait répondu, quiconque agissant pour le compte de l'Organisation doit se conformer à l'interpétation du Secrétaire jusqu'à ce que le texte ou contexte en question change.
 
@@ -430,16 +419,15 @@ Après avoir arbitré une interprétation, un Secrétaire peut publier l'arbitra
 
 Vous pouvez faire appel d'une décision d'interprétation auprès du Secretaire de tout Super-Cercle. Le Secrétaire d'un Super Cercle peut annuler l'interprétation de tout Secrétaire d'un de ses Sous-Cercles.
 
-
-### 3.8 Rupture de Processus
+### 3.6 Rupture de Processus
 
 Une ***“Rupture de Processus”*** survient lorsqu'un Cercle montre des comportements ou des résultats qui violent les règles de cette Constitution. Le Facilitateur ou le Secrétaire d'un Cercle peuvent déclarer une Rupture de Processus dans leur Cercle ou dans un Sous-Cercle, en utilisant leur jugement raisonnable.
 
-#### 3.8.1 Rupture pour Echec de Gouvernance
+#### 3.6.1 Rupture pour Echec de Gouvernance
 
-Le Facilitateur d'un Cercle peut aussi déclarer une Rupture de Processus dans le Cercle si une Proposition faite dans une Réunion de Gouvernance ne parvient pas a être adoptée. Si le Proposant avait spécifiquement demandé la réunion, alors le Proposant peut aussi déclarer une Rupture de Processus. Dans chaque cas, les partcipants doivent d'abord passer un temps raisonnable à essayer de trouver une solution.
+Le Facilitateur d'un Cercle peut aussi déclarer une Rupture de Processus dans le Cercle si une Proposition ne parvient pas a être adoptée après que ceux impliqués aient dépensé un temps et un effort raisonable à rechercher une solution.
 
-#### 3.8.2 Processus de Restauration
+#### 3.6.2 Processus de Restauration
 
 Lorsqu'une des parties autorisées déclare une Rupture de Processus dans un Cercle, ce qui suit se produit:
 
@@ -452,9 +440,10 @@ Ces autorités finissent aussitôt que le Facilitateur du Super-Cercle évalue q
 
 Si le Cercle en Rupture de Processus n'a pas de Super-Cercle, alors les pouvoirs sont tous attribués à son propre Facilitateur.
 
-#### 3.8.3 Escalade de Rupture de Processus
+#### 3.6.3 Escalade de Rupture de Processus
 
 Une Rupture de Processus dans un Cercle n'est pas automatiquement considérée comme une Rupture de Processus de son Super-Cercle. Néanmoins, si elle reste non résolue pendant un temps raisonable, alors le Super-Cercle est aussi considéré en Rupture de Processus.
+
 
 
 ## Article 4: Personnes & Association
@@ -508,7 +497,7 @@ _Le Premier Lien porte toutes les Redevabilités du Cercle qui ne sont pas couve
 **Redevabilités:**
 
 - Facilitating the Processus de Gouvernance and Réunions de Triage of the Cercle or for its Rôles
-- Coaching other Membres de Cercle on the Constitution's rules and processes, either on request or when needed for effective meetings
+- Coaching other Membres Structurels on the Constitution's rules and processes, either on request or when needed for effective meetings
 - Auditing the meetings and records of Sub-Cercles on request, and declaring a Process Breakdown if one is discovered
 
 ## Secrétaire
@@ -523,6 +512,7 @@ _Le Premier Lien porte toutes les Redevabilités du Cercle qui ne sont pas couve
 
 - Scheduling Gouvernance Meetings and Réunions de Triage of the Cercle
 - Capturing and publishing the outputs of Gouvernance Meetings and Réunions de Triage
+- Demander des élections pour les Rôles élus à la fin de chaque mandat
 - Interpreting the Constitution and anything under its authority upon request
 
 ---
