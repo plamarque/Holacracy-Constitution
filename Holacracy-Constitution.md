@@ -228,7 +228,7 @@ Au service d'un Rôle, tout Associé peut convoquer une ***“Réunion de Triage
 
 L'Associé convoquant une Réunion de Triage doit nommer les Rôles souhaités dans cette réunion. Tous les Porteurs de ces Rôles sont alors invités à participer, sauf si le convoquant limite l'invitation à un sous-ensemble des Porteurs de Rôle. Le convoquant peut choisir le Facilitateur de tout Cercle pertinent pour faciliter cette réunion.
 
-#### 2.4.2 Facilitation & Processus
+#### 2.4.2 Processus de Réunion
 
 Sauf Politique contradictoire, quiconque facilite une Réunion de Triage doit utiliser le processus suivant:
 
@@ -237,7 +237,7 @@ Sauf Politique contradictoire, quiconque facilite une Réunion de Triage doit ut
 - **(c) Revue des Indicateurs:** Chaque participant partage toute métrique qu'il rapporte régulièrement dans la réunion au titre de ses Rôles.
 - **(d) Progrès Réalisés:** Chaque participant souligne l'avancement pour chaque Rôle ou Projet qu'il rapporte régulièrement dans la réunion au titre de ses Rôles. Les participants ne peuvent partager que l'avancement depuis le précédent rapport, et non pas l'état général d'un quelconque travail.
 - **(e) Construction de l'Ordre du Jour:** Le Facilitateur construit un ordre du jour des Tensions à traiter en invitant chaque participant à énoncer ses points. Le Facilitateur doit le faire pendant la réunion et non pas à l'avance. Chaque participant peut ajouter autant de points qu'il souhaite en indiquant un libellé bref pour chacun, sans explication ni discussion à ce stade. Après cette étape, les Participants pourront ajouter d'autres points à l'ordre du jour, entre le traitement de chaque point.
-- **(f) Points de Triage:** Pour traiter chaque point, le participant l'ayant amené peut faire appel aux autres participants, mais uniquement au titre des Rôles qu'il représente dans cette réunion. De plus, chaque participant a seulement des devoirs propres aux Rôles qu'il représente dans cette réunion, ou qui existent indépendemment des Rôles qu'il remplit. Le Facilitateur gère le temps de chaque point pour allouer assez de temps à tout l'ordre du jour. Pour ce faire, le Facilitateur peut interrompre le traitement de tout point après expiration de sa part de temps.
+- **(f) Points de Triage:** Pour traiter chaque point, le participant l'ayant amené peut faire appel à un autre participant, soit au titre de sa capacité générale de Partenaire, soit au titre d'un Rôle que le participant représente dans cette réunion. Cependant, les appels à un Rôle ne peuvent être faits qu'au service du Rôle que le demandeur représente dans cette réunion. Le Facilitateur gère le temps de chaque point pour allouer assez de temps à tout l'ordre du jour. Pour ce faire, le Facilitateur peut interrompre le traitement de tout point après expiration de sa part de temps.
 - **(g) Tour de Fermeture:** Chaque participant partage une dernière réflexion avant de quitter la réunion. Les réponses ne sont pas autorisées.
 
 Une Politique de Cercle peut spécifier un processus de Triage alternatif ou modifier ce processus par défaut sur demande de tout Rôle du Cercle.
