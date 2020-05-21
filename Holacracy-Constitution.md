@@ -62,7 +62,7 @@ Les Ratifieurs peuvent définir une structure initiale et une Gouvernance diffé
 
 #### 1.3.4 Relier les Cercles
 
-Un Rôle peut choisir de se lier à un autre Cercle si une Politique de cet autre Cercle ou de l'un des Super-Cercle dudit Cercle l'y invite. Un Rôle doit accepter une telle invitation si une Politique de l'un de ses Super-Cercles l'exige.
+Un Rôle peut se lier à un autre Cercle si une Politique de cet autre Cercle ou de l'un des Super-Cercle dudit Cercle l'y invite.
 
 Dès lors qu'il est relié à un autre Cercle, un Rôle participe pleinement à la Gouvernance du Cercle relié. Le Processus de Gouvernance du Cercle relié peut élargir le Rôle lié, et plus tard changer ce qu'il ajoute. Cependant, il ne peut pas supprimer le Rôle en lui-même ni changer quoi que ce soit d'ajouté par un autre Cercle, de même qu'un autre Cercle ne peut pas changer quoi que ce soit d'ajouté par un autre cercle au Rôle. L'autorité d'affectation à ce Rôle reste dans son Cercle d'origine. Le Cercle relié n'est pas considéré comme le Super-Cercle du lien, ni le Cercle intérieur du lien considéré comme un Sous-Cercle du Cercle relié.
 
