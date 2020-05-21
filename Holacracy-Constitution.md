@@ -78,15 +78,17 @@ Tout Associé Porteur d'un Rôle devient automatiquement un ***“Premier Lien**
 
 #### 1.4.1 Définir les Priorités et les Stratégies
 
-Un Premier Lien peut juger de la valeur potentielle des efforts du Cercle, afin d'aider à clarifier et aligner les priorités entre les Rôles. Un Premier Lien peut également définir une ***“Stratégie”*** pour le Cercle, ou plusieurs Stratégies, qui sont des heuristiques pour guider la prioritisation dans le Cercle.
+Un Premier Lien peut juger de la valeur potentielle des efforts du Cercle à résoudre les conflits de priorités entre les Rôles. Un Premier Lien peut également définir une ***“Stratégie”*** pour le Cercle, ou plusieurs Stratégies, qui sont des heuristiques pour guider la prioritisation dans le Cercle.
 
 #### 1.4.2 Router les Références Externes
 
 Lorsqu'une Gouvernance en dehors du Cercle référence le Cercle lui-même ou n'importe quel Rôle dans le Cercle, un Premier Lien peut mettre à jour cette référence pour pointer vers un autre Rôle du Cercle. Ceci ne requiert d'utiliser le Processus de Gouvernance d'aucun Cercle.
 
-#### 1.4.3 Amender le Rôle Premier Lien 
+#### 1.4.3 Amender le Rôle de Premier Lien 
 
-Un Cercle ne peut pas ajouter de Redevabilités ou d'autres fonctions à son Premier Lien, ni en changer la Raison d’Être, ni le supprimer. En revanche, un Cercle peut supprimer des Redevabilités, Domaines, autorités, ou fonctions à son Premier Lien. Il peut le faire soit en les confiant à un autre Rôle du Cercle, soit en définissant d'autres manières de les mettre en oeuvre. Faire cela supprime automatiquement l'élément en question du Rôle de Premier Lien, aussi longtemps que la délégation reste en place.
+Un Cercle ne peut pas modifier la Raison d’Être de son Rôle de Premier Lien, ni le supprimer.
+
+Un Cercle peut ajouter des Redevabilités ou des Domaines à son Rôle de Premier Lien, et ces ajouts s'appliquent enc ascade à tous les Rôles de Premier Lien des Sous-Cercles. Un Cercle ne peut pas ajouter des Domaines ou de Redevabilités seulement à son propre Rôle de Premier Lien. Un Cercle peut supprimer toutes Redevabilités, Domaines, autorités ou fonctions à son propre Rôle de Premier Lien. Il peut le faire soit en les plaçant dans un autre Rôle du Cercle, ou en définissant de'autres moyens de les metre en oeuvre. Faire cela supprime automatiquement l'élément en question du Rôle de Premier Lien, aussi longtemps que la délégation reste en place.
 
 ### 1.5 Membres de Cercle
 
@@ -185,9 +187,9 @@ Vous êtes tenu de capturer et suivre tous les Projets et Prochaine-Actions pour
 
 #### 2.2.5 Prioriser votre Attention
 
-Lorsque vous avez du temps pour agir dans un Rôle, vous êtes responsable de réfléchir aux Prochaine-Actions que vous pourriez prendre, et exécuter celles que vous pensez qui pourraient ajouter le plus de valeur à l'Organisation. En évaluant cela, vous devez intégrer toutes les priorités relatives et les Stratégies du Cercle qui détient votre Rôle, ainsi que toutes celles qui agissent sur ce Cercle. Si vous avez l'intention de prioriser d'une manière qui est substantiellement opposée à ces priorités, vous devez notifier les Premiers Liens concernés de votre intention.
+Lorsque vous avez du temps pour agir dans un Rôle, vous êtes responsable de réfléchir aux Prochaine-Actions que vous pourriez prendre, et exécuter celles que vous pensez qui pourraient ajouter le plus de valeur à l'Organisation. En évaluant cela, vous devez intégrer toutes les priorités relatives et les Stratégies définies par les Premiers Liens du Cercle ou tout Super-Cercle qui détient votre Rôle, ou par tout Rôle ou processus ayant l'autorité de résoudre les conflits de priorités et de définir les Stratégies de ces Cercles. Si vous avez l'intention de prioriser d'une manière différente, vous devez notifier les Premiers Liens concernés de votre intention.
 
-Si la Gouvernance d'un Cercle inclut une date butoir pour faire quelque chose, vous n'avez pas nécessairement à la respecter. A la place, vous devez l'interpréter comme une priorisation officielle du Cercle de toutes les actions soumises à cette date butoir sur toutes les autres actions de ce Cercle. Un Premier Lien ou un autre Rôle ou processus ayant l'autorité de juger les priorités du Cercle peut outrepasser cette priorisation.
+Si la Gouvernance d'un Cercle inclut une date butoir pour faire quelque chose, vous n'avez pas nécessairement à la respecter. A la place, vous devez l'interpréter comme une priorisation officielle du Cercle de toutes les actions soumises à cette date butoir sur toutes les autres actions de ce Cercle. Un Premier Lien ou un autre Rôle ou processus ayant l'autorité de résoudre les conflits de priorités entre Rôles peut outrepasser cette priorisation.
 
 ### 2.3 Devoirs envers les autres Porteurs de Rôle
 
@@ -483,11 +485,7 @@ Toutes vos responsabilités et contraintes en tant qu'Associé de l'Organisation
 
 **Redevabilités:**
 
-- Définir les Rôles et/ou Politiques via le Processus de Gouvernance du Cercle afin de manifester sa Raison d’Être et de mettre en oeuvre ses Redevabilités
-- Affecter des Associés aux Rôles du Cercle, en suivre l'adéquation, et si nécessaire réaffecter les Rôles à d'autres Associés pour une meilleure adéquation
-- Sur demande, juger la valeur relative des efforts du Cercle pour résoudre des conflits de priorité entre les Rôles
-
-_Le Premier Lien porte également toutes les Redevabilités du Cercle qui ne sont pas couvertes par des Rôles ou des processus._
+_Le Premier Lien porte toutes les Redevabilités du Cercle qui ne sont pas couvertes par des Rôles ou des processus._
 
 ## Second Lien
 
