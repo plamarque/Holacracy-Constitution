@@ -40,7 +40,7 @@ En tant qu'Associé, vous pouvez décliner l'affectation d'un Rôle ou y renonce
 
 ### 1.3 Cercles
 
-Un ***“Cercle”*** est un conteneur pour organiser des Rôles et des Politiques autour d'une Raison d’Être commune. Les Rôles et Politiques au sein d'un Cercle constituent sa ***“Gouvernance”***. Personne ne peut changer la Gouvernance d'un Cercle en dehors de son ***“Processus de Gouvernance”***, décrit dans l'Article 3.
+Un ***“Cercle”*** est un conteneur pour organiser des Rôles et des Politiques autour d'une Raison d’Être commune. Les Rôles et Politiques au sein d'un Cercle constituent sa ***“Gouvernance”***. Personne ne peut changer la Gouvernance d'un Cercle en dehors de son ***“Processus de Gouvernance”***.
 
 #### 1.3.1 Décomposer les Rôles
 
@@ -305,7 +305,7 @@ Tout Associé peut demander au Secrétaire d'un Cercle de se prononcer sur la va
 
 ### 3.4 Modifier la Gouvernance
 
-Tout Membre de Cercle peut proposer de changer la Gouvernance du Cercle. Pour ce faire, le ***“Proposant”*** doit diffuser une ***“Proposition”*** à tous les Membres du Cercle. Les autres Membres du Cercle doivent alors avoir l'opportunité d'exprimer des préoccupations envers la Proposition. Chaque préoccupation est une ***“Objection”*** si elle satisfait aux critères de validité ci-dessous, et que la personne qui l'a soulevée en est l'***“Objecteur”***. En faisant des Propositions ou en soulevant des Objections, un Membre de Cercle peut seulement représenter les Rôles du Cercle qu'ils remplissent en tant que Porteur ou qu'ils représentent en tant que Second Lien. Un Membre de Cercle peut aussi représenter un Rôle pour lequel il a obtenu la permission temporaire par l'un des Porteurs de Rôle, jusqu'à ce que cette permission expire ou qu'elle soit retirée.
+Tout Membre de Cercle peut initier son Processus de Gouvernance en proposant de changer sa Gouvernance. Pour ce faire, le ***“Proposant”*** doit d'abord diffuser une ***“Proposition”*** à tous les Membres du Cercle. Les autres Membres du Cercle ont alors l'opportunité d'exprimer des préoccupations envers la Proposition. Chaque préoccupation est une ***“Objection”*** si elle satisfait aux critères de validité ci-dessous, et que la personne qui l'a soulevée en est l'***“Objecteur”***. En faisant des Propositions ou en soulevant des Objections, un Membre de Cercle peut seulement représenter les Rôles du Cercle dont il est Porteur ou qu'il représente en tant que Second Lien. Un Membre de Cercle peut aussi représenter un Rôle pour lequel il a obtenu la permission temporaire par l'un des Porteurs de Rôle, jusqu'à ce que cette permission expire ou qu'elle lui soit retirée.
 
 Si aucune Objection n'est opposée à la Proposition, elle est adoptée et vient amender la Gouvernance du Cercle. Si des Objections sont soulevées, le Proposant et chaque Objecteur doivent trouver une façon d'intégrer les Objections avant que le Cercle n'adopte la Proposition. Après chaque objection intégrée, tous les Membres du Cercle doivent à nouveau avoir l'opportunité de soulever des Objections.
 
