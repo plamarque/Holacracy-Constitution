@@ -473,7 +473,7 @@ Toutes vos responsabilités et contraintes en tant qu'Associé de l'Organisation
 
 ---
 
-# **Appendix A**
+# **Annexe A**
 
 ## Premier Lien
 
