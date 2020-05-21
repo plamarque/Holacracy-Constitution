@@ -174,20 +174,20 @@ Vous êtes tenu de comparer l'expression effective de la Raison d’Être et des
 
 Vous êtes tenu de réfléchir régulièrement à comment mettre en oeuvre la Raison d’Être de votre Rôle et chaque Redevabilité, en définissant des:
 
-- **(a)** ***“Prochaine-Actions”***, qui sont des actions utiles que vous pourriez prendre immédiatement, du moins en l'absence de priorités concurrentes ; et des
+- **(a)** ***“Prochaines-Actions”***, qui sont des actions utiles que vous pourriez prendre immédiatement, du moins en l'absence de priorités concurrentes ; et des
 - **(b)** ***“Projets”***, qui sont des résultats particuliers vers lesquels il serait utile de travailler, du moins en l'absence de priorités concurrentes.
 
 #### 2.2.3 Décomposer les Projets
 
 Vous êtes tenu de définir régulièrement des Next-Actions pour chacun des Projets de votre Rôle.
 
-#### 2.2.4 Suivre les Projets, Prochaine-Actions, & Tensions
+#### 2.2.4 Suivre les Projets, Prochaines-Actions, & Tensions
 
-Vous êtes tenu de capturer et suivre tous les Projets et Prochaine-Actions pour votre Rôle sous forme de listes écrites. Vous devez aussi suivre les Tensions que vous avez l'intention de résoudre, du moins jusqu'à ce que vous les traitiez dans des Projets ou des Prochaine-Actions. Vous êtes aussi tenu de revoir et tenir à jour régulièrement ces listes, afin de les maintenir comme source fiable de travail potentiel pour le Rôle.
+Vous êtes tenu de capturer et suivre tous les Projets et Prochaines-Actions pour votre Rôle sous forme de listes écrites. Vous devez aussi suivre les Tensions que vous avez l'intention de résoudre, du moins jusqu'à ce que vous les traitiez dans des Projets ou des Prochaines-Actions. Vous êtes aussi tenu de revoir et tenir à jour régulièrement ces listes, afin de les maintenir comme source fiable de travail potentiel pour le Rôle.
 
 #### 2.2.5 Prioriser votre Attention
 
-Lorsque vous avez du temps pour agir dans un Rôle, vous êtes responsable de réfléchir aux Prochaine-Actions que vous pourriez prendre, et exécuter celles que vous pensez qui pourraient ajouter le plus de valeur à l'Organisation. En évaluant cela, vous devez intégrer toutes les priorités relatives et les Stratégies définies par les Premiers Liens du Cercle ou tout Super-Cercle qui détient votre Rôle, ou par tout Rôle ou processus ayant l'autorité de résoudre les conflits de priorités et de définir les Stratégies de ces Cercles. Si vous avez l'intention de prioriser d'une manière différente, vous devez notifier les Premiers Liens concernés de votre intention.
+Lorsque vous avez du temps pour agir dans un Rôle, vous êtes responsable de réfléchir aux Prochaines-Actions que vous pourriez prendre, et exécuter celles que vous pensez qui pourraient ajouter le plus de valeur à l'Organisation. En évaluant cela, vous devez intégrer toutes les priorités relatives et les Stratégies définies par les Premiers Liens du Cercle ou tout Super-Cercle qui détient votre Rôle, ou par tout Rôle ou processus ayant l'autorité de résoudre les conflits de priorités et de définir les Stratégies de ces Cercles. Si vous avez l'intention de prioriser d'une manière différente, vous devez notifier les Premiers Liens concernés de votre intention.
 
 Si la Gouvernance d'un Cercle inclut une date butoir pour faire quelque chose, vous n'avez pas nécessairement à la respecter. A la place, vous devez l'interpréter comme une priorisation officielle du Cercle de toutes les actions soumises à cette date butoir sur toutes les autres actions de ce Cercle. Un Premier Lien ou un autre Rôle ou processus ayant l'autorité de résoudre les conflits de priorités entre Rôles peut outrepasser cette priorisation.
 
@@ -199,9 +199,9 @@ En tant que Porteur, vous avez les Devoirs suivants envers tous les autres Rôle
 
 Sur demande, vous avez une Devoir de transparence sur chacun des domaines suivants:
 
-- **(a) Projets & Prochaine-Actions:** Vous devez partager tous les Projets et Prochaine-Actions que vous tracez pour vos Rôles.
-- **(b) Priorité Relative:** Vous devez partager votre jugement sur la priorité relative de chacun des Projets ou Prochaine-Actions de votre Rôle par rapport à toute chose qui demande votre attention.
-- **(c) Projections:** Vous devez fournir une projection de quand vous pensez terminer chacun de vos Projets ou Prochaine-Actions. Une estimation grossière est suffisante, en considérant votre contexte actuel et vos priorités. Une analyse détaillée ou un planning ne sont pas requis, et cette projection n'est en aucun cas un engagement. A moins que la Gouvernance ne le décide, vous n'avez pas d'Devoir de suivre la projection ni de revenir vers le destinataire si elle change.
+- **(a) Projets & Prochaines-Actions:** Vous devez partager tous les Projets et Prochaines-Actions que vous tracez pour vos Rôles.
+- **(b) Priorité Relative:** Vous devez partager votre jugement sur la priorité relative de chacun des Projets ou Prochaines-Actions de votre Rôle par rapport à toute chose qui demande votre attention.
+- **(c) Projections:** Vous devez fournir une projection de quand vous pensez terminer chacun de vos Projets ou Prochaines-Actions. Une estimation grossière est suffisante, en considérant votre contexte actuel et vos priorités. Une analyse détaillée ou un planning ne sont pas requis, et cette projection n'est en aucun cas un engagement. A moins que la Gouvernance ne le décide, vous n'avez pas d'Devoir de suivre la projection ni de revenir vers le destinataire si elle change.
 - **(d) Points de Checklist:** Vous devez vérifier chacune des actions que vous effectuez de manière récurrente pour vos Rôles ou en tant qu'Associé de l'Organisation. Si on vous le demande, vous devez continuer à partager ces vérifications régulièrement, jusqu'à ce que vous pensiez qu'elles ne sont plus utiles.
 - **(e) Indicateurs:** Vous devez partager tout indicateur que vous maintenez pour vos Rôles ou en tant qu'Associé de l'Organisation. Si on vous le demande, vous devez continuer à partager ces indicateurs régulièrement, jusqu'à ce que vous déterminiez qu'ils ne sont plus utiles.
 - **(f) Avancement:** Vous devez partager un résumé de l'avancement réalisé sur un Rôle ou sur chacun de vos Projets de Rôle depuis le dernier avancement que vous avez partagé. Si on vous le demande, vous devez continuer à partager cet avancement régulièrement, jusqu'à ce que vous déterminiez qu'il n'est plus nécessaire.
@@ -211,7 +211,7 @@ Sur demande, vous avez une Devoir de transparence sur chacun des domaines suivan
 Vous avez un devoir de promptement traiter les messages et les demandes, comme suit:
 
 - **(a) Demandes de Traitement:** D'autres membres peuvent vous demander de traiter la Raison d’Être ou toute Redevabilité ou Projet d'un Rôle que vous portez. Vous devez alors déterminer et communiquer une Prochaine-Action permettant d'avancer, s'il y en existe une que vous pourriez prendre. S'il n'y en a pas, vous devez à la place indiquer ce que vous attendez avant de prendre une Prochaine-Action. Si la Prochaine-Action ou le blocage que vous indiquez fait partie d'un résultat plus large que celui de votre Rôle, vous devez aussi le capturer et le communiquer en tant que Projet.
-- **(b) Demandes de Projets & Prochaine-Actions:** D'autres membres peuvent vous demander de prendre une Prochaine-Action particulière ou un Projet dans l'un de vos Rôles. Vous devez l'accepter et le tracer si vous pensez qu'il serait pertinent d'y travailler dans votre Rôle, au moins en l'absence de priorités concurrentes. Si vous ne le faites pas, vous devez soit expliquer votre raisonnement, ou suggérer quelquechose d'autre que vous pensez qui satisfairait l'objectif du demandeur à la place.
+- **(b) Demandes de Projets & Prochaines-Actions:** D'autres membres peuvent vous demander de prendre une Prochaine-Action particulière ou un Projet dans l'un de vos Rôles. Vous devez l'accepter et le tracer si vous pensez qu'il serait pertinent d'y travailler dans votre Rôle, au moins en l'absence de priorités concurrentes. Si vous ne le faites pas, vous devez soit expliquer votre raisonnement, ou suggérer quelquechose d'autre que vous pensez qui satisfairait l'objectif du demandeur à la place.
 - **(c) Demandes d'Impacter un Domaine:** D'autres membres peuvent vous demander d'impacter un Domaine contrôlé par l'un de vos Rôles. Vous devez autoriser l'impact si vous ne voyez pas d'Objections à la demande, tel que définit dans l'Article 3. Si vous le faites, vous devez expliquer toute Objection au demandeur.
 - **(d) Demandes d'Information:** D'autres peuvent vous poser des questions ou demander des informations. Vous devez répondre de bonne foi avec au moins des réponses brèves ou l'information pertinente dont vous disposez déjà.
 
@@ -219,8 +219,8 @@ Vous avez un devoir de promptement traiter les messages et les demandes, comme s
 
 Vous avez un devoir de prioriser votre attention comme suit:
 
-- **(a) Traitement avant Exécution:** Vous devez généralement prioriser le traitement des messages entrants de la part des autres Rôles sur l'exécution de vos propres Prochaine-Actions. Cependant, vous pouvez retarder le traitement des messages jusqu'à un moment approprié pour les traiter par lots, tant que votre traitement reste rapide. Traiter signifie honorer tous les devoirs de cette section, et sur demande, expliquer comment vous avez traité le message. Traiter ne signifie pas exécuter les Prochaine-Actions ou Projets que vous capturez.
-- **(b) Réunions avant Execution:** Vous devez prioriser votre présence aux réunions définies dans cette Constitution sur l'exécution de vos propres Prochaine-Actions, mais seulement si cette priorisation a été explicitement demandée pour une réunion particulière. Vous devez toujours décliner la demande si vous avez déjà des plans programmés pour le moment de la réunion.
+- **(a) Traitement avant Exécution:** Vous devez généralement prioriser le traitement des messages entrants de la part des autres Rôles sur l'exécution de vos propres Prochaines-Actions. Cependant, vous pouvez retarder le traitement des messages jusqu'à un moment approprié pour les traiter par lots, tant que votre traitement reste rapide. Traiter signifie honorer tous les devoirs de cette section, et sur demande, expliquer comment vous avez traité le message. Traiter ne signifie pas exécuter les Prochaines-Actions ou Projets que vous capturez.
+- **(b) Réunions avant Execution:** Vous devez prioriser votre présence aux réunions définies dans cette Constitution sur l'exécution de vos propres Prochaines-Actions, mais seulement si cette priorisation a été explicitement demandée pour une réunion particulière. Vous devez toujours décliner la demande si vous avez déjà des plans programmés pour le moment de la réunion.
 
 ### 2.4 Réunions de Triage
 
