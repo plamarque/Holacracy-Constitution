@@ -2,9 +2,10 @@
 
 ## Préambule
 
-Les ***“Ratifieurs”*** adoptent cette ***“Constitution”*** comme structure d'autorité formelle de l'***“Organisation”***. Ce faisant, les Ratifieurs cèdent leur pouvoir de gouverner et appliquent les règles et processus de la Constitution au sein de l'Organisation, à l'exception de tout pouvoirs que les Ratifieurs n'ont pas l'autorité de déléguer. Les Ratifieurs et tous les autres ***“Associés”*** que l'Organisation a impliqué dans sa gouvernance et ses opérations doivent le faire sous les autorités et contraintes définies dessous.
+Les ***“Ratifieurs”*** adoptent cette ***“Constitution”*** comme structure d'autorité formelle de l'***“Organisation”*** spécifiée. Les Ratifieurs et tous les autres ***“Associés”*** que l'Organisation a impliqué dans sa gouvernance et ses opérations doivent le faire selon les règles et processus définis ci-dessous.
 
 Les Ratifieurs ou leurs successeurs peuvent amender ou abroger la présente Constitution en utilisant le processus sur lequel ils se sont appuyés pour l'adopter. Les amendements doivent être rédigés et publiés dans un endroit où les Associés peuvent y accéder.
+
 
 ## Article 1: Structure Organisationnelle 
 
@@ -180,7 +181,9 @@ Une Politique de Cercle peut spécifier un processus de Triage alternatif ou mod
 Si un Rôle non élu qui est invité à une Réunion de Triage n'est pas représenté dans la réunion pour une quelconque raison, un Premier Lien du Super-Cercle de ce Rôle peut le représenter pendant la réunion.
 
 
-## Article 4: Bascule de Pouvoir
+## Article 4: Bascule du Pouvoir
+
+En adoptant cette Constitution, les Ratifieurs défèrent leur pouvoir de gouverner et gérer l'Organisation aux règles et processus ci-inclus, à l'exception de tout pouvoir que les Ratifieurs n'ont pas l'autorité de déléguer. En tant qu'Associé, vous pouvez pleinement vous reposer sur les autorités octroyées par cette Constitution tout comme les Ratifieurs qui détenaient de tels pouvoirs le faisaient avant de l'adopter.
 
 
 ### 4.1 Autorité des Porteurs de Rôle
@@ -236,9 +239,6 @@ Vous devez prioriser la communication et la restauration exigées par cette sect
 Toutes les politiques et systèmes existants dans l'Organisation avant d'adopter la Constitution restent pleinement en vigueur après l'adoption, même s'ils comprennent des autorités ou des contraintes qui n'ont pas été créés dans le cadre des processus de la Constitution. Cependant, ces politiques et systèmes historiques ne peuvent être étendus ou modifiés, et perdent tout poids et autorité aussitôt que les processus de la présente Constitution créent quelque chose qui les remplace ou les contredit.
 
 Au delà de ça, toutes vos responsabilités et contraintes en tant qu'Associé de l'Organisation viennent de cette Constitution ainsi que de la Gouvernance et des Ententes de Travail qu'elle permet, ou bien de vos obligations légales envers l'Organisation lorsque vous agissez pour son compte. Les attentes ou contraintes implicites n'ont aucun poids ni autorité. Pas plus que les dictats émanant l'ancienne structure de pouvoir de l'Organisation avant qu'elle n'adopte cette Constitution. 
-
-En tant qu'Associé, vous pouvez vous reposer sur les autorités octroyées par cette Constitution au même titre que les Ratifieurs détenaient de tels pouvoirs avant de l'adopter.
-
 
 
 ## Article 5: Gouvernance
