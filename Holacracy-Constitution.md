@@ -84,7 +84,7 @@ Octroyer un Domaine à un Rôle ne délègue aucun des droits dont le Cercle dis
 
 #### 1.4.3 Cercle d'Ancrage
 
-Le Cercle le plus large détenant la Raison d’Être de l'ensemble de l'Organisation est son ***“Cercle d'Ancrage”***. Le Cercle d'Ancrage n'a pas de Super-Cercle, et détient toutes les autorités et Domaines de l'Organisation. Le Cercle d'Ancrage peut changer sa propre Raison d’Être ou ses Redevabilités via une Politique.
+Le Cercle le plus large détenant la Raison d’Être de l'ensemble de l'Organisation est son ***“Cercle d'Ancrage”***. Le Cercle d'Ancrage détient toutes les autorités et Domaines de que l'Organisation elle-même contrôle, et n'a pas de Super-Cercle ni de Redevabilités. Le Cercle d'Ancrage peut changer sa propre Raison d’Être via une Politique.
 
 Les Ratifieurs peuvent définir une structure initiale et une Gouvernance différente pour le Cercle d'Ancrage lors de l'adoption de sa Constitution.
 
@@ -98,7 +98,7 @@ Un Cercle peut délier un Rôle en supprimant la Politique qui l'a invité à se
 
 #### 1.4.5 Créer des Cercles Transverses
 
-Deux ou plusieurs Rôles peuvent créer un nouveau Cercle à tout moment pour gouverner une Raison d’Être partagée à travers des Rôles. Pour ce faire, les Rôles fondateurs doivent s'accorder sur une Raison d’Être initiale et sur les Redevabilités du nouveau Cercle. Le nouveau Cercle démarre avec les Rôles fondateurs reliés en son sein, et une Politique invitant ces liens. Un Cercle créé de cette façon n'a pas de Super-Cercle ni de Domaines, et peut changer sa propre Raison d’Être ou ses Redevabilités via une Politique. Un tel Cercle est immédiatement dissous dès lors qu'il n'a plus de Rôles reliés.
+Deux ou plusieurs Rôles peuvent créer un nouveau Cercle à tout moment pour gouverner une Raison d’Être partagée transverse aux Rôles. Pour ce faire, les Rôles fondateurs doivent s'accorder sur une Raison d’Être pour le nouveau Cercle, qu'ils pourront changer ultérieurement via une Politique. Le nouveau Cercle démarre avec uniquement les Rôles fondateurs comme liens, et une Politique les invitant. Un Cercle créé de cette façon n'a pas de Super-Cercle ni de Redevabilités, ni de Domaines, sauf si une Politique d'un autre Cercle lui en délègue le contrôle. Un tel Cercle est immédiatement dissous dès lors qu'il n'a plus de Rôles liés.
 
 ### 1.5 Premiers Liens
 
