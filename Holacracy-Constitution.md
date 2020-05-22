@@ -401,13 +401,15 @@ A tout moment durant ce processus, un participant peut demander une pause de ***
 
 Une politique du Cercle peut élargir ce Processus, mais ne peut pas entrer en conflit avec toutes règles ou exigences de cet Article de la Constitution.
 
-#### 5.4.4 Agenda Building
+#### 5.4.4 Construction de l'Ordre du Jour
 
-The Facilitateur builds an agenda of Tensions to process by soliciting agenda items from all participants. The Facilitateur must do this in the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items during the meeting, between the processing of any existing agenda items.
+Le Facilitateur construit un ordre du jour des Tensions à traiter en sollicitant des points auprès de tous les participants. Le Faciliteteur doit le faire dans la réunion et pas à l'avance. Chaque participant peut ajouter autant de points qu'il souhaite en énonçant un bref intitulé pour chacun, sans explication ni discussion à ce stade. Après cette étape, les Participants pourront ajouter d'autres points à l'ordre du jour, entre le traitement de chaque point.
 
-For a regular Gouvernance Meeting, the Facilitateur may choose the order in which to process agenda items. However, on request of a meeting participant, any agenda item calling for an election must go before all others. For a special Gouvernance Meeting scheduled on request of a participant, that participant may choose the agenda order.
+Pour une Réunion de Gouvernance régulière, le Facilitateur peut choisir l'ordre dans lequel il va traiter les points de l'ordre du jour. Cependant, sur demande d'un des participants de la réunion, tout point appelant une élection devra passer avant les autres. Pour une réunion de Gouvernance exceptionnelle programmée sur demande de l'un des participants, ce participant peut choisir l'ordre des points.
 
-Les points d'Agenda sont traités un à la fois. POur traiter une demande d'élection, le Facilitateur utilise le Processus D'Election INtégratif. Pour traiter quoi que ce soit d'autre, le Facilitateur utilise le Processus de Prise de Décision Intégratif défini ci-dessous.
+Les points d'Agenda sont traités un à la fois. Pour traiter une demande d'élection, le Facilitateur utilise le Processus D'Election Intégratif. Pour traiter quoi que ce soit d'autre, le Facilitateur utilise le Processus de Prise de Décision Intégratif défini ci-dessous.
+
+
 
 #### 5.4.5 Integrative Decision-Making Process
 
