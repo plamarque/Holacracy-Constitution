@@ -4,7 +4,7 @@
 
 Les ***“Ratifieurs”*** adoptent cette ***“Constitution”*** comme structure d'autorité formelle de l'***“Organisation”*** spécifiée. Les Ratifieurs et tous les autres ***“Associés”*** que l'Organisation a impliqué dans sa gouvernance et ses opérations doivent le faire selon les règles et processus définis ci-dessous.
 
-Les Ratifieurs ou leurs successeurs peuvent amender ou abroger la présente Constitution en utilisant le processus sur lequel ils se sont appuyés pour l'adopter. Les amendements doivent être rédigés et publiés dans un endroit où les Associés peuvent y accéder.
+Les Ratifieurs ou leurs successeurs peuvent amender ou abroger la présente Constitution en utilisant l'autorité sur laquelle ils se sont appuyés pour l'adopter. Les amendements doivent être rédigés et diffusés à tous les Associés.
 
 
 ## Article 1: Structure Organisationnelle 
