@@ -374,13 +374,14 @@ En plus de traiter les Propositions faites de manière asynchrone en dehors des 
 
 Le Secrétaire du Cercle est responsable de planifier les Réunions de Gouvernance, et son Facilitateur est responsable de les faciliter conformément aux règles ci-dessous. En plus des réunions de Gouvernance régulières, le Secrétaire peut planifier une réunion de Gouvernance exceptionnelle sur demande de l'un des Membres Structurels. Le demandeur peut préciser son intention pour la réunion de Gouvernance exceptionnelle et préciser des limites à ce que cette réunion pourra changer. Cela peut signifier se focaliser sur une seule Tension, ou se limiter à modifier certains Rôles. Dans ce cas, l'autorité de cette Réunion de Gouvernance exceptionnelle est contrainte aux seules Propositions en rapport avec l'intention énoncée, et doivent respecter les limites fixées.
 
-#### 5.4.1 Attendance
 
-All Membres Structurels of a Cercle may participate in its Gouvernance Meetings. The acting Facilitateur and Secrétaire may also participate even if they are not Membres Structurels of the Cercle. In that case, they become temporary Membres Structurels for the duration of the meeting.
+#### 5.4.1 Participation
 
-As a Second Lien for a Cercle, you may invite any Associé to join the Gouvernance Meeting of any Cercle immediately containing your Cercle. You may only extend this invitation to one Associé at a time, and only to aid in the processing of a specific Tension affecting the Cercle you represent. You must sense this Tension yourself as well, and believe it makes sense to process in the Cercle. Your invited guest becomes a temporary Cercle Member for the duration of the meeting, or until you withdraw the invitation. Your guest may represent your Cercle along with you in the meeting, but only while processing that specific Tension.
+Tous les Membres Structurels d'un Cercle peuvent participer à ses Réunions de Gouvernance. Les personnes agissant en qualité de Facilitateur ou de Secrétaire peuvent aussi participer même s'ils ne sont pas Membres Structurels du Cercle. Dans ce cas, ils deviennent des Membres temporaires du Cercle pour la durée de la réunion.
 
-Beyond the above, no one else may participate in a Cercle’s Gouvernance Meetings.
+En tant que Second Lien d'un Cercle, vous pouvez inviter tout Associé à rejoindre la Réunion de Gouvernance de tout Cercle contenant directement votre Cercle. Vous ne pouvez étendre cette invitation qu'à un seul Associé à la fois, et uniquement pour aider à traiter une Tension spécifique qui affecte le Cercle que vous représentez. Vous devez ressentir cette Tension vous-même, et penser qu'il serait utile de la traiter dans le Cercle. Votre invité devient temporairement Membre Structurel pour la durée de la réunion, ou jusqu'à ce que vous retiriez l'invitation. Votre invité peut représenter votre Cercle avec vous dans la réunion, mais uniquement lors du traitement de cette Tension particulière.
+
+
 
 #### 5.4.2 Notice & Duration
 
