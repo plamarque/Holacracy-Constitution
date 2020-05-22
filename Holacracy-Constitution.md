@@ -389,17 +389,17 @@ Les Réunions de Gouvernance se terminent une fois qu'elles atteignent la durée
 
 Tout Membre Structurel qui manque tout ou partie d'une Réunion de Gouvernance compte comme s'il avait eu une chance d'exprimer des préoccupations pour chacune des Propositions qui y ont été faites. Ainsi, un Cercle peut adopter des Propositions dans une Réunion de Gouvernance sans se soucier des membres absents.
 
-#### 5.4.3 Meeting Process
+#### 5.4.3 Processus de Réunion
 
-The Facilitateur must use the following process for Gouvernance Meetings:
+Le Facilitateur doit utiliser le processus suivant pour les Réunions de Gouvernance:
 
-- **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
-- **(b) Agenda Building & Processing:** The Facilitateur builds an agenda of Tensions to process, then processes each agenda item in turn.
-- **(c) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
+- **(a) Tour d'Inclusion:** Chaque participant évoque tour à tour son état d'esprit du moment, ou offre un commentaire d'ouverture pour la réunion. Les réponses ne sont pas autorisées.
+- **(b) Ordre du jour & Traitement:** Le Facilitateur construit l'ordre du jour des Tensions à traiter, puis le traite point par point.
+- **(c) Tour de Fermeture:** Chaque participant partage une dernière réflexion avant de quitter la réunion. Les réponses ne sont pas autorisées.
 
-At any point during this process, a participant may request a ***“Time Out”*** pause. The Facilitateur may choose to grant or deny this request. During the Time Out, participants may discuss administrative issues or the rules of this Constitution. They may not use the Time Out to work towards the resolution of a Tension, Proposal, or Objection. The Facilitateur may end a Time Out at any point and resume the normal meeting process.
+A tout moment durant ce processus, un participant peut demander une pause de ***“Temps Mort”***. Le Facilitateur peut choisir d'autoriser ou refuser la pause. Pendant le Temps Mort, les participants peuvent discuter des questions administratives ou des règles de la Constitution. Mais ils ne peuvent pas utiliser le Temps Mort pour travailler sur la résolution d'une Tension, sur une Proposition ou une Objection. Le facilitateur peut terminer le Temps Mort à tout moment et reprendre le processus de réunion.
 
-A Politique of the Cercle may add to this process, but may not conflict with any rules or requirements defined in this Article of the Constitution.
+Une politique du Cercle peut élargir ce Processus, mais ne peut pas entrer en conflit avec toutes règles ou exigences de cet Article de la Constitution.
 
 #### 5.4.4 Agenda Building
 
