@@ -4,8 +4,6 @@
 
 Les ***“Ratifieurs”*** adoptent cette ***“Constitution”*** comme structure d'autorité formelle de l'***“Organisation”***. Ce faisant, les Ratifieurs cèdent leur pouvoir de gouverner et appliquent les règles et processus de la Constitution au sein de l'Organisation, à l'exception de tout pouvoirs que les Ratifieurs n'ont pas l'autorité de déléguer. Les Ratifieurs et tous les autres ***“Associés”*** que l'Organisation a impliqué dans sa gouvernance et ses opérations doivent le faire sous les autorités et contraintes définies dessous.
 
-Toutes les politiques et systèmes existants dans l'Organisation avant d'adopter la Constitution restent pleinement en vigueur après l'adoption, même s'ils comprennent des autorités ou des contraintes qui n'ont pas été créés dans le cadre des processus de la Constitution. Cependant, ces politiques et systèmes anciens ne peuvent être étendus ou modifiés, et perdent tout poids et autorité aussitôt que les processus de la présente Constitution créent quelque chose qui les remplace ou les contredit.
-
 Les Ratifieurs ou leurs successeurs peuvent amender ou abroger la présente Constitution en utilisant le processus sur lequel ils se sont appuyés pour l'adopter. Les amendements doivent être rédigés et publiés dans un endroit où les Associés peuvent y accéder.
 
 ## Article 1: Structure Organisationnelle 
@@ -38,17 +36,45 @@ Celui qui décide d'une affectation de Rôle peut la focaliser sur seulement une
 
 En tant qu'Associé, vous pouvez décliner l'affectation d'un Rôle ou y renoncer à tout moment, à moins que vous n'en ayez convenu autrement.
 
-### 1.3 Cercles
+### 1.3 Responsabilité des Porteurs de Rôle
+
+Lorsque vous portez un Rôle, vous avez les responsabilités suivantes:
+
+#### 1.3.1 Traiter les Tensions
+
+Vous êtes tenu de comparer l'expression effective de la Raison d’Être et des Redevabilités de votre Rôle à votre vision idéale de leur expression potentielle, afin d'identifier les écarts entre les deux (chaque écart est une ***“Tension”***). Vous êtes alors tenu d'essayer de résoudre ces Tensions.
+
+
+#### 1.3.2 Traiter Raison d’Être & Redevabilités
+
+Vous êtes tenu de réfléchir régulièrement à comment mettre en oeuvre la Raison d’Être de votre Rôle et chaque Redevabilité, en définissant des:
+
+- **(a)** ***“Prochaines-Actions”***, qui sont des actions utiles que vous pourriez prendre immédiatement, du moins en l'absence de priorités concurrentes ; et des
+- **(b)** ***“Projets”***, qui sont des résultats particuliers pour lesquels il serait utile de travailler, du moins en l'absence de priorités concurrentes.
+
+#### 1.3.3 Décomposer les Projets
+
+Vous êtes tenu de définir régulièrement des Prochaines-Actions pour chacun des Projets actifs de votre Rôle.
+
+#### 1.3.4 Suivre les Projets, Prochaines-Actions, & Tensions
+
+Vous êtes tenu de capturer et suivre tous les Projets et Prochaines-Actions pour votre Rôle sous forme de listes écrites. Vous devez aussi suivre les Tensions que vous avez l'intention de résoudre, du moins jusqu'à ce que vous les traitiez dans des Projets ou des Prochaines-Actions. Vous êtes aussi tenu de revoir et tenir à jour régulièrement ces listes, afin de les maintenir comme source fiable de travail potentiel pour le Rôle.
+
+#### 1.3.5 Effectuer les Prochaines-Actions
+
+Lorsque vous avez du temps pour agir dans un Rôle, vous êtes responsable de réfléchir aux Prochaines-Actions que vous pourriez prendre, et effectuer celles que vous pensez qui pourraient ajouter le plus de valeur à l'Organisation. 
+
+### 1.4 Cercles
 
 Un ***“Cercle”*** est un conteneur pour organiser des Rôles et des Politiques autour d'une Raison d’Être commune. Les Rôles et Politiques au sein d'un Cercle constituent sa ***“Gouvernance”***. Personne ne peut changer la Gouvernance d'un Cercle en dehors de son ***“Processus de Gouvernance”***.
 
-#### 1.3.1 Décomposer les Rôles
+#### 1.4.1 Décomposer les Rôles
 
 Chaque Rôle est aussi un Cercle à l'intérieur. Le Cercle intérieur d'un Rôle peut détenir des Rôles et des Politiques pour décomposer et organiser le travail de ce Rôle. Ceci ne s'applique pas aux Rôles définis dans l'Annexe A, qui ne peuvent pas être plus décomposés.
 
 Le Cercle intérieur d'un Rôle est appelé ***“Sous-Cercle”*** du Cercle supérieur détenant le Rôle, alors que ce cercle supérieur est son ***“Super-Cercle”***.
 
-#### 1.3.2 Déléguer des Domaines
+#### 1.4.2 Déléguer des Domaines
 
 Lorsqu'un Cercle octroie un Domaine à l'un de ses Rôles, tout Porteur de ce Rôle peut contôler ce Domaine au nom du Cercle. Un Cercle ne peut octroyer à ses Rôles que des Domaines qui relèvent des ses propres Domaines, ou qui sont valables au sein de ses propres processus internes.
 
@@ -56,13 +82,13 @@ Lorsqu'un Rôle contrôle un Domaine, il peut créer des Politiques pour gouvern
 
 Octroyer un Domaine à un Rôle ne délègue aucun des droits dont le Cercle dispose pour contrôler des actifs ou dépenser de l'argent, à moins que cela ne soit explicitement spécifié.
 
-#### 1.3.3 Cercle d'Ancrage
+#### 1.4.3 Cercle d'Ancrage
 
 Le Cercle le plus large détenant la Raison d’Être de l'ensemble de l'Organisation est son ***“Cercle d'Ancrage”***. Le Cercle d'Ancrage n'a pas de Super-Cercle, et détient toutes les autorités et Domaines de l'Organisation. Le Cercle d'Ancrage peut changer sa propre Raison d’Être ou ses Redevabilités via une Politique adoptée par son Processus de Gouvernance.
 
 Les Ratifieurs peuvent définir une structure initiale et une Gouvernance différente pour le Cercle d'Ancrage lors de l'adoption de sa Constitution.
 
-#### 1.3.4 Relier les Cercles
+#### 1.4.4 Relier les Cercles
 
 Un Rôle peut se lier à un autre Cercle si une Politique de cet autre Cercle ou de l'un des Super-Cercle dudit Cercle l'y invite.
 
@@ -70,151 +96,72 @@ Dès lors qu'il est relié à un autre Cercle, un Rôle participe pleinement à 
 
 Un Cercle peut délier un Rôle en supprimant la Politique qui l'a invité à se relier, ou par un autre mécanisme défini dans cette Politique. Un Rôle peut aussi choisir de se retirer d'un Cercle auquel il est relié, à moins qu'une Politique au sein du - ou agissant sur - le Super-Cercle du Rôle n'en décide autrement. Une fois délié, toute Gouvernance ajoutée au Rôle par un Cercle aupravant relié est automatiquement supprimée.
 
-#### 1.3.5 Créer des Cercles Transverses
+#### 1.4.5 Créer des Cercles Transverses
 
 Deux ou plusieurs Rôles peuvent créer un nouveau Cercle à tout moment pour gouverner une Raison d’Être partagée à travers des Rôles. Pour ce faire, les Rôles fondateurs doivent s'accorder sur une Raison d’Être initiale et sur les Redevabilités du nouveau Cercle. Le nouveau Cercle démarre avec les Rôles fondateurs reliés en son sein, et une Politique invitant ces liens. Un Cercle créé de cette façon n'a pas de Super-Cercle ni de Domaines, et peut changer sa propre Raison d’Être ou ses Redevabilités via une Politique. Un tel Cercle est immédiatement dissous dès lors qu'il n'a plus de Rôles reliés.
 
-### 1.4 Premiers Liens
+### 1.5 Premiers Liens
 
 Tout Porteur d'un Rôle devient automatiquement un ***“Premier Lien*** pour le Cercle intérieur de ce Rôle, et agit donc en pleine capacité de Premier Lien. La définition du Rôle Premier Lien est donnée dans l'Annexe A. Un Cercle sans Super-Cercle n'a pas de Premier Lien, à moins qu'une Politique du Cercle n'en dispose autrement.
 
-#### 1.4.1 Définir les Priorités et les Stratégies
+#### 1.5.1 Définir les Priorités et les Stratégies
 
 Un Premier Lien peut juger de la valeur potentielle des efforts du Cercle à résoudre les conflits de priorités entre les Rôles. Un Premier Lien peut également définir une ***“Stratégie”*** pour le Cercle, ou plusieurs Stratégies, qui sont des heuristiques pour guider la prioritisation dans le Cercle.
 
-#### 1.4.2 Router les Références Externes
+#### 1.5.2 Router les Références Externes
 
 Lorsqu'une Gouvernance en dehors du Cercle référence le Cercle lui-même ou n'importe quel Rôle dans le Cercle, un Premier Lien peut mettre à jour cette référence pour pointer vers un autre Rôle du Cercle. Ceci ne requiert d'utiliser le Processus de Gouvernance d'aucun Cercle.
 
-#### 1.4.3 Amender le Rôle de Premier Lien 
+#### 1.5.3 Amender le Rôle de Premier Lien 
 
 Un Cercle ne peut pas modifier la Raison d’Être de son Rôle de Premier Lien, ni le supprimer.
 
 Un Cercle peut ajouter des Redevabilités ou des Domaines à son Rôle de Premier Lien, et ces ajouts s'appliquent enc ascade à tous les Rôles de Premier Lien des Sous-Cercles. Un Cercle ne peut pas ajouter des Domaines ou de Redevabilités seulement à son propre Rôle de Premier Lien. Un Cercle peut supprimer toutes Redevabilités, Domaines, autorités ou fonctions à son propre Rôle de Premier Lien. Il peut le faire soit en les plaçant dans un autre Rôle du Cercle, ou en définissant de'autres moyens de les metre en oeuvre. Faire cela supprime automatiquement l'élément en question du Rôle de Premier Lien, aussi longtemps que la délégation reste en place.
 
 
+## Article 2: Devoirs envers les Autres Porteurs de Rôle
 
+En tant que Porteur, vous avez les devoirs suivants envers tous les autres Rôles dans l'Organisation. Ces devoirs ne s'appliquent que lorsque l'autre partie agit au nom d'un de ses propres Rôles dans l'Organisation, et nomme ce Rôle sur demande. 
 
-## Article 2: Opérations
-
-### 2.1 Responsabilité des Porteurs de Rôle
-
-Lorsque vous portez un Rôle, vous avez les responsabilités suivantes:
-
-#### 2.1.1 Traiter les Tensions
-
-Vous êtes tenu de comparer l'expression effective de la Raison d’Être et des Redevabilités de votre Rôle à votre vision idéale de leur expression potentielle, afin d'identifier les écarts entre les deux (chaque écart est une ***“Tension”***). Vous êtes alors tenu d'essayer de résoudre ces Tensions.
-
-
-#### 2.1.2 Traiter Raison d’Être & Redevabilités
-
-Vous êtes tenu de réfléchir régulièrement à comment mettre en oeuvre la Raison d’Être de votre Rôle et chaque Redevabilité, en définissant des:
-
-- **(a)** ***“Prochaines-Actions”***, qui sont des actions utiles que vous pourriez prendre immédiatement, du moins en l'absence de priorités concurrentes ; et des
-- **(b)** ***“Projets”***, qui sont des résultats particuliers vers lesquels il serait utile de travailler, du moins en l'absence de priorités concurrentes.
-
-#### 2.1.3 Décomposer les Projets
-
-Vous êtes tenu de définir régulièrement des Next-Actions pour chacun des Projets de votre Rôle.
-
-#### 2.1.4 Suivre les Projets, Prochaines-Actions, & Tensions
-
-Vous êtes tenu de capturer et suivre tous les Projets et Prochaines-Actions pour votre Rôle sous forme de listes écrites. Vous devez aussi suivre les Tensions que vous avez l'intention de résoudre, du moins jusqu'à ce que vous les traitiez dans des Projets ou des Prochaines-Actions. Vous êtes aussi tenu de revoir et tenir à jour régulièrement ces listes, afin de les maintenir comme source fiable de travail potentiel pour le Rôle.
-
-#### 2.1.5 Prioriser votre Attention
-
-Lorsque vous avez du temps pour agir dans un Rôle, vous êtes responsable de réfléchir aux Prochaines-Actions que vous pourriez prendre, et exécuter celles que vous pensez qui pourraient ajouter le plus de valeur à l'Organisation. En évaluant cela, vous devez intégrer toutes les priorités relatives et les Stratégies définies par les Premiers Liens du Cercle ou tout Super-Cercle qui détient votre Rôle, ou par tout Rôle ou processus ayant l'autorité de résoudre les conflits de priorités et de définir les Stratégies de ces Cercles. Si vous avez l'intention de prioriser d'une manière différente, vous devez notifier les Premiers Liens concernés de votre intention.
-
-Si la Gouvernance d'un Cercle inclut une date butoir pour faire quelque chose, vous n'avez pas nécessairement à la respecter. A la place, vous devez l'interpréter comme une priorisation officielle du Cercle de toutes les actions soumises à cette date butoir sur toutes les autres actions de ce Cercle. Un Premier Lien ou un autre Rôle ou processus ayant l'autorité de résoudre les conflits de priorités entre Rôles peut outrepasser cette priorisation.
-
-### 2.2 Autorité des Porteurs de Rôle
-
-Lorsque vous portez un Rôle, vous avez l'autorité de prendre toute action ou décision afin de mettre en oeuvre la Raison d’Être de votre Rôle ou ses Redevabilités, tant que vous n'enfreignez pas les règles définies dans cette Constitution.
-
-En faisant celà, vous pourrez utiliser votre jugement raisonable pour interpréter cette Constitution et toute chose sous son autorité. Vous pourrez également interpréter comment les appliquer lors d'une situation aprticulière à laquelle vous faites face, et pourrez agir selon vos interprétations. Cependant, vous devez interpréter toute Gouvernance dans le contexte de la Raison d’Être et des Redevabilités du Cercle qui les contient. Vous ne pourrez pas utiliser une interprétation qui est en conflit avec ce contexte.
-
-
-#### 2.2.1 Ne Violez pas les Politiques
-
-Lorsque vous agissez dans un Rôle, vous ne devez violer aucune des Politiques du Rôle lui-même ou de tout Cercle contenant le Rôle.
-
-#### 2.2.2 N'impactez pas les Domaines
-
-Au service de votre Rôle, vous avez l'autorité d'impacter et de contrôler les Domaines de votre Rôle.
-
-Vous pouvez aussi impacter tout Domaine détenu par un Cercle contenant votre Rôle mais non délégué, ou tout Domaine qu'un Cercle lui-même peut impacter. Mais si vous pensez que votre impact sera substantiellement difficile ou coûteux à défaire, vous devez obtenir un accord préalable.
-
-Vous ne pouvez pas exercer de contôle ou causer un impact matériel sur un Domaine delegué à un Rôle ou un Cercle qui ne contient pas votre Rôle, à moins d'en obtenir la permission. Vous ne pouvez pas non plus le faire sur un Domaine appartenant à la souveraineté d'une entité sans sa permission.
-
-Lorsque vous avez besoin de la permission d'impacter un Domaine, vous pouvez l'obtenir de quiconque contrôle ce Domaine. Vous pouvez aussi obtenir la permission en annonçant votre intention de prendre une action particulière, et en invitant quiconque avec un Domaine pertinent à objecter. Vous devez alors attendre un temps raisonnable pour recevoir des réponses. Si personne n'objecte dans ce temps, vous avez alors la permission d'impacter tout Domaine détenu par tout Rôle de l'Organisation que votre annonce atteint. Vous pouvez considérer qu'une annonce écrite a atteint quiconque lisant généralement les messages dans le canal que vous avez utilisé. Toute permission ainsi octroyée s'applique seulement pendant le temps de l'action en question que vous avez annoncé. Une Politique peut modifier ou contraindre plus avant ce processus.
-
-#### 2.2.3 Ne Dépensez pas d'Argent
-
-Lorsque vous énergisez votre Rôle, vous ne pouvez pas dépenser d'argent ou d'autres actifs à moins d'y être autorisé. Cette autorisation doit venir d'un Cercle qui contrôle déjà la dépense de ces ressources. Disposer d'un bien important pour le Cercle ou en restreindre significativement son accès est considéré comme une dépense.
-
-Pour être autorisé à dépenser, vous devez annoncer par écrit votre intention de dépenser au Cercle dont vous cherchez à obtenir l'autorisation. Vous devez partager cette annonce là où tous les Associés Porteurs de Rôles dans ce Cercle pourront habituellement la voir. Votre déclaration doit inclure la raison de votre dépense, et le Rôle pour lequel vous dépenserez. Vous devez ensuite attendre un temps raisonnable pour permettre aux destinataires d'en prendre connaissance et de répondre. Tout destinataire de votre annonce peut escalader pour reconsidérer la dépense. Vous ne pouvez pas procéder à la dépense si elle est escaladée, cependant, le Premier Lien de ce Cercle peut annuler une escalade, comme le peut la personne qui a escaladé. Lorsqu'un temps raisonnable est passé et qu'aucune escalade ne perdure, votre Rôle gagne le contrôle de ces ressources. Vous pouvez les dépenser pour la Raison d’Être indiquée, ou autoriser les autres à le faire. Le Cercle qui vous a donné l'autorisation en perd alors le contrôle, cependant le Premier Lien de ce Cercle peut révoquer l'autorisation à tout moment.
-
-Une politique peut changer ce processus de quelque façon que ce soit, ou autoriser directement un Rôle à contrôler la dépense des resources du cercle.
-
-### 2.3 Initiative Individuelle
-
-En tant qu'Associé de l'Organisation, dans certains cas vous êtes autorisé à agir au delà de l'autorité de vos Rôles, ou enfreindre les règles de cette Constitution. En agissant sous cette autorité étendue vous prenez une ***“Initiative Individuelle”***, et vous êtes tenu de suivre les règles suivantes:
-
-#### 2.3.1 Situations Autorisées
-
-Vous pouvez prendre une Initiative Individuelle, seulement lorsque toutes les conditions suivantes sont réunies:
-
-- **(a)** Vous agissez de bonne foi pour servir la Raison d’Être ou exprimer les Redevabilités d'un Rôle dans l'Organisation.
-- **(b)** Vous pensez que votre action va résoudre ou empêcher une Tension plus importante pour l'Organisation que ce qu'elle ne devrait créer.
-- **(c)** Votre action n'engagera pas l'Organisation à des dépenses au delà de ce que vous êtes déjà autorisé à dépenser.
-- **(d)** Si votre action viole des Politiques ou des Domaines, vous croyez que trop de valeur serait perdue en la reportant pour obtenir la permission ou changer la Gouvernance.
-
-#### 2.3.2 Communication & Restauration
-
-En prenant une Initiative Individuelle, vous devez expliquer votre action à tous les Porteurs de Rôle qui pourraient en être significativement affectés. Sur demande de ces Porteurs, vous devez prendre des actions pour aider à résoudre toutes Tensions créées par votre Initiative Individuelle. Vous devez aussi vous abstenir de prendre des Initiatives Individuelles similaires sur demande de l'un de ces Porteurs.
-
-Vous devez prioriser la communication et la restauration exigées par cette section sur votre travail habituel. Cependant, un Premier Lien d'un Cercle contenant tous les Rôles affectés par votre action peut changer cette priorité par défaut.
-
-### 2.4 Devoirs envers les autres Porteurs de Rôle
-
-En tant que Porteur, vous avez les Devoirs suivants envers tous les autres Rôles dans l'Organisation. Ces Devoirs ne s'appliquent que lorsque l'autre partie agit au nom d'un de ses propres Rôles dans l'Organisation, et nomme ce Rôle sur demande. 
-
-#### 2.4.1 Devoir de Transparence
+### 2.1 Devoir de Transparence
 
 Sur demande, vous avez une Devoir de transparence sur chacun des domaines suivants:
 
 - **(a) Projets & Prochaines-Actions:** Vous devez partager tous les Projets et Prochaines-Actions que vous tracez pour vos Rôles.
-- **(b) Priorité Relative:** Vous devez partager votre jugement sur la priorité relative de chacun des Projets ou Prochaines-Actions de votre Rôle par rapport à toute chose qui demande votre attention.
-- **(c) Projections:** Vous devez fournir une projection de quand vous pensez terminer chacun de vos Projets ou Prochaines-Actions. Une estimation grossière est suffisante, en considérant votre contexte actuel et vos priorités. Une analyse détaillée ou un planning ne sont pas requis, et cette projection n'est en aucun cas un engagement. A moins que la Gouvernance ne le décide, vous n'avez pas d'Devoir de suivre la projection ni de revenir vers le destinataire si elle change.
-- **(d) Points de Checklist:** Vous devez vérifier chacune des actions que vous effectuez de manière récurrente pour vos Rôles ou en tant qu'Associé de l'Organisation. Si on vous le demande, vous devez continuer à partager ces vérifications régulièrement, jusqu'à ce que vous pensiez qu'elles ne sont plus utiles.
+- **(b) Priorité Relative:** Vous devez exprimer votre jugement sur la priorité relative de chacun des Projets ou Prochaines-Actions de votre Rôle par rapport à toute chose qui demande votre attention.
+- **(c) Estimation:** Vous devez partager une estimation de quand vous pensez terminer chacun de vos Projets ou Prochaines-Actions. Une estimation grossière est suffisante, en considérant votre contexte actuel et vos priorités. Une analyse détaillée ou un planning ne sont pas requis, et cette projection n'est en aucun cas un engagement. A moins que la Gouvernance ne le décide, vous n'avez pas le devoir de respecter l'estimation ni de revenir vers le destinataire si elle change.
+- **(d) Points de Checklist:** Vous devez vérifier régulièrement le bon achèvement de chacune des actions que vous effectuez pour vos Rôles ou en tant qu'Associé de l'Organisation. Si on vous le demande, vous devez continuer à partager ces vérifications régulièrement, jusqu'à ce que vous pensiez qu'elles ne sont plus utiles.
 - **(e) Indicateurs:** Vous devez partager tout indicateur que vous maintenez pour vos Rôles ou en tant qu'Associé de l'Organisation. Si on vous le demande, vous devez continuer à partager ces indicateurs régulièrement, jusqu'à ce que vous déterminiez qu'ils ne sont plus utiles.
-- **(f) Avancement:** Vous devez partager un résumé de l'avancement réalisé sur un Rôle ou sur chacun de vos Projets de Rôle depuis le dernier avancement que vous avez partagé. Si on vous le demande, vous devez continuer à partager cet avancement régulièrement, jusqu'à ce que vous déterminiez qu'il n'est plus nécessaire.
+- **(f) Avancement:** Vous devez partager un résumé de l'avancement réalisé sur un Rôle ou sur chacun de vos Projets de Rôle depuis le dernier avancement que vous avez partagé. Si on vous le demande, vous devez continuer à partager cet avancement régulièrement, jusqu'à ce que vous déterminiez que ce n'est plus nécessaire.
 
-#### 2.4.2 Devoir de Traitement
+### 2.2 Devoir de Traitement
 
-Vous avez un devoir de promptement traiter les messages et les demandes, comme suit:
+Vous avez un devoir de rapidement traiter les messages et les demandes, comme suit:
 
-- **(a) Demandes de Traitement:** D'autres membres peuvent vous demander de traiter la Raison d’Être ou toute Redevabilité ou Projet d'un Rôle que vous portez. Vous devez alors déterminer et communiquer une Prochaine-Action permettant d'avancer, s'il y en existe une que vous pourriez prendre. S'il n'y en a pas, vous devez à la place indiquer ce que vous attendez avant de prendre une Prochaine-Action. Si la Prochaine-Action ou le blocage que vous indiquez fait partie d'un résultat plus large que celui de votre Rôle, vous devez aussi le capturer et le communiquer en tant que Projet.
-- **(b) Demandes de Projets & Prochaines-Actions:** D'autres membres peuvent vous demander de prendre une Prochaine-Action particulière ou un Projet dans l'un de vos Rôles. Vous devez l'accepter et le tracer si vous pensez qu'il serait pertinent d'y travailler dans votre Rôle, au moins en l'absence de priorités concurrentes. Si vous ne le faites pas, vous devez soit expliquer votre raisonnement, ou suggérer quelquechose d'autre que vous pensez qui satisfairait l'objectif du demandeur à la place.
-- **(c) Demandes d'Impacter un Domaine:** D'autres membres peuvent vous demander d'impacter un Domaine contrôlé par l'un de vos Rôles. Vous devez autoriser l'impact si vous ne voyez pas d'Objections à la demande, tel que définit dans l'Article 3. Si vous le faites, vous devez expliquer toute Objection au demandeur.
-- **(d) Demandes d'Information:** D'autres peuvent vous poser des questions ou demander des informations. Vous devez répondre de bonne foi avec au moins des réponses brèves ou l'information pertinente dont vous disposez déjà.
+- **(a) Demandes de Traitement:** D'autres membres peuvent vous demander de traiter la Raison d’Être ou toute Redevabilité ou Projet d'un Rôle que vous portez. Vous devez alors déterminer et communiquer une Prochaine-Action permettant d'avancer, s'il en existe une que vous pourriez prendre. S'il n'y en a pas, vous devez à la place indiquer ce que vous attendez avant de prendre une Prochaine-Action. Si la Prochaine-Action ou le blocage que vous indiquez fait partie d'un résultat plus large que celui de votre Rôle, vous devez aussi le capturer et le communiquer en tant que Projet.
+- **(b) Demandes de Projets & Prochaines-Actions:** D'autres membres peuvent vous demander de prendre une Prochaine-Action particulière ou un Projet dans l'un de vos Rôles. Vous devez l'accepter et y donner suite si vous pensez qu'il serait pertinent d'y travailler dans votre Rôle, au moins en l'absence de priorités concurrentes. Si vous ne le faites pas, vous devez soit expliquer votre raisonnement, ou suggérer quelque chose d'autre que vous pensez qui satisfairait l'objectif du demandeur à la place.
+- **(c) Demandes d'Impacter un Domaine:** D'autres membres peuvent vous demander d'impacter un Domaine contrôlé par l'un de vos Rôles. Vous devez autoriser l'impact si vous ne voyez pas de raison à ce que l'impact réduise votre capacité à mettre en oeuvre la Raison d’Être de votre Rôle. Si vous en voyez, vous devez expliquer la raison au demandeur.
+- **(d) Demandes d'Information:** D'autres peuvent vous poser des questions ou demander des informations. Vous devez répondre de bonne foi avec au moins des réponses brèves ou l'information pertinente dont vous disposez à ce moment là.
 
-#### 2.4.3 Devoir de Priorisation
+### 2.3 Devoir de Priorisation
 
 Vous avez un devoir de prioriser votre attention comme suit:
 
-- **(a) Traitement avant Exécution:** Vous devez généralement prioriser le traitement des messages entrants de la part des autres Rôles sur l'exécution de vos propres Prochaines-Actions. Cependant, vous pouvez retarder le traitement des messages jusqu'à un moment approprié pour les traiter par lots, tant que votre traitement reste rapide. Traiter signifie honorer tous les devoirs de cette section, et sur demande, expliquer comment vous avez traité le message. Traiter ne signifie pas exécuter les Prochaines-Actions ou Projets que vous capturez.
-- **(b) Réunions avant Execution:** Vous devez prioriser votre présence aux réunions définies dans cette Constitution sur l'exécution de vos propres Prochaines-Actions, mais seulement si cette priorisation a été explicitement demandée pour une réunion particulière. Vous devez toujours décliner la demande si vous avez déjà des plans programmés pour le moment de la réunion.
+- **(a) Traitement:** Vous devez généralement donner la priorité au traitement des messages entrants de la part des autres Rôles par rapport à l'exécution de vos propres Prochaines-Actions. Cependant, vous pouvez retarder le traitement des messages jusqu'à un moment approprié pour les traiter par lots, tant que votre traitement reste rapide. Traiter inclut honorer tous les devoirs dans cette section, et sur demande, expliquer comment vous avez traité le message. Traiter ne signifie pas effectuer les Prochaines-Actions ou les Projets que vous capturez.
+- **(b) Réunions:** Vous devez donner la priorité à votre présence aux réunions définies dans cette Constitution par rapport à l'exécution de vos propres Prochaines-Actions, mais seulement si cette priorisation a été explicitement demandée pour une réunion particulière. Vous pouvez quand même décliner la demande si vous avez déjà des choses programmées au le moment de la réunion.
+- **(c) Priorités du Cercle:** En choisissant sur quoi travailler, vous devez prendre en compte toute Stratégie officielle ou priorisations relatives au Cercle détenant votre Rôle ou de tout Super-Cercle. Les priorités officielles sont définies par un Premier Lien, ou par tout Rôle ou processus ayant l'autorité de résoudre les conflits et de définir les Stratégies de ces Cercles. Vous devez généralement aligner votre choix de travail avec ces priorités officielles à moins d'avoir une forte raison de dévier, auquel cas vous devez notifier les Premiers Liens concernés de votre intention.
+- **(d) Echéances:** Si la Gouvernance d'un Cercle iou toute Stratégie officielle ou priorisation inclut une date butoir pour faire quelque chose, vous n'avez pas nécessairement à la respecter. A la place, vous devez l'interpréter comme une priorisation officielle de toutes les actions soumises à cette échéance sur toutes les autres actions pour ce Cercle, et agir en conséquence. Un Premier Lien ou un autre Rôle ou processus ayant l'autorité de résoudre les conflits de priorités entre Rôles peut outrepasser cette priorisation.
 
-### 2.5 Réunions de Triage
+
+## Article 3: Réunions de Triage
 
 Au service d'un Rôle, tout Associé peut convoquer une ***“Réunion de Triage”*** pour engager les autres Rôles dans leurs responsabilités et devoirs.
 
-#### 2.5.1 Participation
+### 3.1 Participation
 
 L'Associé convoquant une Réunion de Triage doit nommer les Rôles souhaités dans cette réunion. Tous les Associés qui agissent en tant que Porteurs de ces Rôles sont alors invités à participer, sauf si le convoquant limite l'invitation à un sous-ensemble des Porteurs de Rôle.
 
-#### 2.5.2 Processus de Réunion
+### 3.2 Processus de Réunion
 
 L'Associé convoquant une réunion de Triage doit trouver quelqu'un pour la faciliter. Sauf Politique contradictoire, cette personne doit utiliser le processus suivant:
 
@@ -228,20 +175,81 @@ L'Associé convoquant une réunion de Triage doit trouver quelqu'un pour la faci
 
 Une Politique de Cercle peut spécifier un processus de Triage alternatif ou modifier ce processus par défaut sur demande de tout Rôle du Cercle.
 
-#### 2.5.3 Remplaçant pour les Membres Absents
+#### 3.3 Remplaçant pour les Membres Absents
 
 Si un Rôle non élu qui est invité à une Réunion de Triage n'est pas représenté dans la réunion pour une quelconque raison, un Premier Lien du Super-Cercle de ce Rôle peut le représenter pendant la réunion.
 
 
-## Article 3: Gouvernance
+## Article 4: Bascule de Pouvoir
 
-### 3.1 Participants à la Gouvernance
+
+### 4.1 Autorité des Porteurs de Rôle
+
+Lorsque vous portez un Rôle, vous avez l'autorité de prendre toute action ou décision afin de mettre en oeuvre la Raison d’Être de votre Rôle ou ses Redevabilités, tant que vous n'enfreignez pas les règles définies dans cette Constitution.
+
+En faisant celà, vous pourrez utiliser votre jugement raisonable pour interpréter cette Constitution et toute chose sous son autorité. Vous pourrez également interpréter comment les appliquer lors d'une situation aprticulière à laquelle vous faites face, et pourrez agir selon vos interprétations. Cependant, vous devez interpréter toute Gouvernance dans le contexte de la Raison d’Être et des Redevabilités du Cercle qui les contient. Vous ne pourrez pas utiliser une interprétation qui est en conflit avec ce contexte.
+
+
+#### 4.1.1 Ne Violez pas les Politiques
+
+Lorsque vous agissez dans un Rôle, vous ne devez violer aucune des Politiques du Rôle lui-même ou de tout Cercle contenant le Rôle.
+
+#### 4.1.2 N'impactez pas les Domaines
+
+Au service de votre Rôle, vous avez l'autorité d'impacter et de contrôler les Domaines de votre Rôle.
+
+Vous pouvez aussi impacter tout Domaine détenu par un Cercle contenant votre Rôle mais non délégué, ou tout Domaine qu'un Cercle lui-même peut impacter. Mais si vous pensez que votre impact sera substantiellement difficile ou coûteux à défaire, vous devez obtenir un accord préalable.
+
+Vous ne pouvez pas exercer de contôle ou causer un impact matériel sur un Domaine delegué à un Rôle ou un Cercle qui ne contient pas votre Rôle, à moins d'en obtenir la permission. Vous ne pouvez pas non plus le faire sur un Domaine appartenant à la souveraineté d'une entité sans sa permission.
+
+Lorsque vous avez besoin de la permission d'impacter un Domaine, vous pouvez l'obtenir de quiconque contrôle ce Domaine. Vous pouvez aussi obtenir la permission en annonçant votre intention de prendre une action particulière, et en invitant quiconque avec un Domaine pertinent à objecter. Vous devez alors attendre un temps raisonnable pour recevoir des réponses. Si personne n'objecte dans ce temps, vous avez alors la permission d'impacter tout Domaine détenu par tout Rôle de l'Organisation que votre annonce atteint. Vous pouvez considérer qu'une annonce écrite a atteint quiconque lisant généralement les messages dans le canal que vous avez utilisé. Toute permission ainsi octroyée s'applique seulement pendant le temps de l'action en question que vous avez annoncé. Une Politique peut modifier ou contraindre plus avant ce processus.
+
+#### 4.1.3 Ne Dépensez pas d'Argent
+
+Lorsque vous énergisez votre Rôle, vous ne pouvez pas dépenser d'argent ou d'autres actifs à moins d'y être autorisé. Cette autorisation doit venir d'un Cercle qui contrôle déjà la dépense de ces ressources. Disposer d'un bien important pour le Cercle ou en restreindre significativement son accès est considéré comme une dépense.
+
+Pour être autorisé à dépenser, vous devez annoncer par écrit votre intention de dépenser au Cercle dont vous cherchez à obtenir l'autorisation. Vous devez partager cette annonce là où tous les Associés Porteurs de Rôles dans ce Cercle pourront habituellement la voir. Votre déclaration doit inclure la raison de votre dépense, et le Rôle pour lequel vous dépenserez. Vous devez ensuite attendre un temps raisonnable pour permettre aux destinataires d'en prendre connaissance et de répondre. Tout destinataire de votre annonce peut escalader pour reconsidérer la dépense. Vous ne pouvez pas procéder à la dépense si elle est escaladée, cependant, le Premier Lien de ce Cercle peut annuler une escalade, comme le peut la personne qui a escaladé. Lorsqu'un temps raisonnable est passé et qu'aucune escalade ne perdure, votre Rôle gagne le contrôle de ces ressources. Vous pouvez les dépenser pour la Raison d’Être indiquée, ou autoriser les autres à le faire. Le Cercle qui vous a donné l'autorisation en perd alors le contrôle, cependant le Premier Lien de ce Cercle peut révoquer l'autorisation à tout moment.
+
+Une politique peut changer ce processus de quelque façon que ce soit, ou autoriser directement un Rôle à contrôler la dépense des resources du cercle.
+
+### 4.2 Initiative Individuelle
+
+En tant qu'Associé de l'Organisation, dans certains cas vous êtes autorisé à agir au delà de l'autorité de vos Rôles, ou enfreindre les règles de cette Constitution. En agissant sous cette autorité étendue vous prenez une ***“Initiative Individuelle”***, et vous êtes tenu de suivre les règles suivantes:
+
+#### 4.2.1 Situations Autorisées
+
+Vous pouvez prendre une Initiative Individuelle, seulement lorsque toutes les conditions suivantes sont réunies:
+
+- **(a)** Vous agissez de bonne foi pour servir la Raison d’Être ou exprimer les Redevabilités d'un Rôle dans l'Organisation.
+- **(b)** Vous pensez que votre action va résoudre ou empêcher une Tension plus importante pour l'Organisation que ce qu'elle ne devrait créer.
+- **(c)** Votre action n'engagera pas l'Organisation à des dépenses au delà de ce que vous êtes déjà autorisé à dépenser.
+- **(d)** Si votre action viole des Politiques ou des Domaines, vous croyez que trop de valeur serait perdue en la reportant pour obtenir la permission ou changer la Gouvernance.
+
+#### 4.2.2 Communication & Restauration
+
+En prenant une Initiative Individuelle, vous devez expliquer votre action à tous les Porteurs de Rôle qui pourraient en être significativement affectés. Sur demande de ces Porteurs, vous devez prendre des actions pour aider à résoudre toutes Tensions créées par votre Initiative Individuelle. Vous devez aussi vous abstenir de prendre des Initiatives Individuelles similaires sur demande de l'un de ces Porteurs.
+
+Vous devez prioriser la communication et la restauration exigées par cette section sur votre travail habituel. Cependant, un Premier Lien d'un Cercle contenant tous les Rôles affectés par votre action peut changer cette priorité par défaut.
+
+### 4.3 Evoluer avec le Pouvoir Historique
+
+Toutes les politiques et systèmes existants dans l'Organisation avant d'adopter la Constitution restent pleinement en vigueur après l'adoption, même s'ils comprennent des autorités ou des contraintes qui n'ont pas été créés dans le cadre des processus de la Constitution. Cependant, ces politiques et systèmes historiques ne peuvent être étendus ou modifiés, et perdent tout poids et autorité aussitôt que les processus de la présente Constitution créent quelque chose qui les remplace ou les contredit.
+
+Au delà de ça, toutes vos responsabilités et contraintes en tant qu'Associé de l'Organisation viennent de cette Constitution ainsi que de la Gouvernance et des Ententes de Travail qu'elle permet, ou bien de vos obligations légales envers l'Organisation lorsque vous agissez pour son compte. Les attentes ou contraintes implicites n'ont aucun poids ni autorité. Pas plus que les dictats émanant l'ancienne structure de pouvoir de l'Organisation avant qu'elle n'adopte cette Constitution. 
+
+En tant qu'Associé, vous pouvez vous reposer sur les autorités octroyées par cette Constitution au même titre que les Ratifieurs détenaient de tels pouvoirs avant de l'adopter.
+
+
+
+## Article 5: Gouvernance
+
+### 5.1 Participants à la Gouvernance
 
 Chaque Cercle a un groupe de ***"Membres Structurels"*** qui peuvent représenter ses Rôles dans son Processus de Gouvernance.
 
 Les Membres Structurels incluent tous ses Premiers Liens, de même que chaque Associé Porteur d'un Rôle du Cercle. Si un Rôle a plusieurs Porteurs de Rôle, un Cercle peut adopter une Politique pour limiter combien de Porteurs représentent ce Rôle en tant que Membres Structurels dans son Processus de Gouvernance.
 
-#### 3.1.1 Seconds Liens
+#### 5.1.1 Seconds Liens
 
 Tout Membre Structurel peut appeler à la sélection ou au remplacement d'un ***"Second Lien"*** pour faciliter la représentation de ce Cercle dans un Cercle supérieur le contenant. Le Second Lien sélectionné remplit le ***"Rôle Second Lien"*** dans le Cercle, tel que défini dans l'Annexe A.
 
@@ -251,7 +259,7 @@ Le Cercle doit utiliser le Processus d'Election Intégratif défini ci-dessous p
 
 Un Cercle peut ajouter des Redevabilités ou des Domaines à son Rôle de Second Lien, de même qu'amender ou supprimer ces ajouts. Aucun Cercle ne peut amender ou supprimer la Raison d’Être ou toute Redevabilité du Rôle de Second Lien, ni supprimer ce Rôle.
 
-### 3.1.2 Facilitateur et Secrétaire
+### 5.1.2 Facilitateur et Secrétaire
 
 Tout Cercle avec plus d'un Membre Structurel inclut un ***“Rôle Facilitateur”*** et un ***“Rôle Secrétaire”***, tel que défini dans l'Annexe A. Les personnes agissant dans chacun de ces rôles deviennent respectivement le ***“Facilitateur”*** et le ***“Secrétaire”*** du Cercle. Tout Membre Structurel d'un Cercle peut solliciter une élection à tout moment afin de remplir ou remplacer quelqu'un comme Facilitateur ou Secrétaire du Cercle.
 
@@ -260,7 +268,7 @@ Le Cercle doit utiliser le Processus d'Election Intégratif défini ci-dessous p
 Un Cercle peut ajouter des Redevabilités ou des Domaines à ses propre Rôles Facilitateur ou Secrétaire, de même qu'il peut changer et supprimer ces ajouts. Aucun Cercle ne peut amender ou supprimer la Raison d’Être, le Domaine, une Redevabilité, ni supprimer le Rôle.
 
 
-### 3.2 Périmètre de la Gouvernance
+### 5.2 Périmètre de la Gouvernance
 
 Dans le cadre du Processus de Gouvernance d'un Cercle, le Cercle peut:
 
@@ -272,7 +280,7 @@ Dans le cadre du Processus de Gouvernance d'un Cercle, le Cercle peut:
 
 Aucune autre décision ne peut être considérée comme un résultat valide du Processus de Gouvernance d'un Cercle.
 
-#### 3.2.1 Périmètre des Politiques
+#### 5.2.1 Périmètre des Politiques
 
 Une Politique peut seulement se définir par un ou plusieurs des cas suivants :
 
@@ -283,11 +291,11 @@ Une Politique peut seulement se définir par un ou plusieurs des cas suivants :
 
 Une Politique qui octroie ou contraint l'autorité s'applique également à tous les Sous-Cercles, récursivement, sauf indication contraire. Une Politique qui change une règle par défaut ou un processus de la Constitution s'applique uniquement au Cercle qui détient la Politique, ou, si énoncé explicitement, aux Sous-Cercles aussi, récursivement. Dans ce dernier cas, un Sous-Cercle peut toujours surcharger cette Politique par l'une des siennes, à moins que cela ne soit explicitement interdit par la Politique de plus haut rang.
 
-#### 3.2.2 Rayer une Gouvernance Invalide
+#### 5.2.2 Rayer une Gouvernance Invalide
 
 Tout Associé peut demander au Secrétaire d'un Cercle de se prononcer sur la validité de toute Gouvernance à l'intérieur de ce Cercle ou de l'un de ses Sous-Cercles. Si le Secrétaire conclue qu'elle viole les règles de cette Constitution, le Secrétaire doit la rayer des registres du Cercle. Après, le Secrétaire doit informer sans délai à tous les Membres du Cercle de ce qu'il a rayé et pourquoi.
 
-### 3.3 Processus de Gouvernance
+### 5.3 Processus de Gouvernance
 
 Tout Membre Structurel peut initier son Processus de Gouvernance en proposant de changer sa Gouvernance. Pour ce faire, le ***“Proposant”*** doit d'abord diffuser une ***“Proposition”*** à tous les Membres du Cercle, en utilisant les canaux de communication autorisés par le Secrétaire. Les autres Membres du Cercle ont alors l'opportunité d'exprimer des préoccupations envers la Proposition. Chaque préoccupation est une ***“Objection”*** si elle satisfait aux critères de validité ci-dessous, et que la personne qui l'a soulevée en est l'***“Objecteur”***. 
 
@@ -296,7 +304,7 @@ Lorsque tous les Membres du Cercle ont confirmé qu'ils n'ant aucune Objection �
 En faisant des Propositions ou en soulevant des Objections, un Membre Structurel peut seulement représenter les Rôles du Cercle dont il est Porteur ou qu'il représente en tant que Second Lien. Un Membre Structurel peut aussi représenter un Rôle pour lequel il a obtenu la permission temporaire par l'un des Porteurs de Rôle, jusqu'à ce que cette permission expire ou qu'elle lui soit retirée.
 
 
-#### 3.3.1 Critères de Validité pour les Propositions
+#### 5.3.1 Critères de Validité pour les Propositions
 
 Pour qu'une Proposition soit valide, le Proposant doit pouvoir:
 
@@ -306,7 +314,7 @@ Pour qu'une Proposition soit valide, le Proposant doit pouvoir:
 
 Si à tout moment le Facilitateur réalise que la Proposition ne remplit pas ces critères, il doit abandonner la Proposition.
 
-#### 3.3.2 Critères de Validité pour les Objections
+#### 5.3.2 Critères de Validité pour les Objections
 
 Une préoccupation pour l'adoption d'une Proposition n'est considérée comme une Objection que si l'Objecteur peut montrer raisonablement comment elle remplit **tous** les critères suivants:
 
@@ -317,13 +325,13 @@ Une préoccupation pour l'adoption d'une Proposition n'est considérée comme un
 
 Toutefois, indépendamment des critères ci-dessus, une préoccupation est toujours qualifiée d'Objection si adopter la Proposition violerait une règle de cette Constitution.
 
-#### 3.3.3 Tester les Objections
+#### 5.3.3 Tester les Objections
 
 Le Facilitateur peut tester la validité d'une Objection revendiquée en demandant à l'Objecteur si l'Objection réponds aux critères requis, et comment. Lors de l'évaluation des réponses, le Facilitateur peut seulement juger si l'Objecteur a présenté des arguments pour chaque critère en utilisant un raisonnement logique. Le Facilitateur ne peut pas juger sur la base de la précision d'un argument ni de l'importance de l'adresser.
 
 Lorsqu'une Objection revendiquée prétend que la Proposition violerait la Constitution, la Facilitateur peut demander au Secrétaire du Cercle si c'est vrai. Si le Secrétaire décide que ce n'est pas le cas, le Facilitateur doit rejeter l'Objection.
 
-#### 3.3.4 Règles d'Intégration
+#### 5.3.4 Règles d'Intégration
 
 Les règles suivantes s'appliquent lors de la résolution d'une objection :
 
@@ -332,7 +340,7 @@ Les règles suivantes s'appliquent lors de la résolution d'une objection :
 - **(c)** Tout Membre du Cercle peut poser au Proposant des questions de clarification sur la Tension à l'origine de la Proposition, ou demander des exemples permettant d'illustrer la Tension. Si le Facilitateur estime que le Proposant ne répond pas de bonne foi, il doit considérer la Proposition comme abandonnée.
 - **(d)** L'objecteur peut suggérer une Proposition amendée, et offrir des arguments raisonables pour expliquer pourquoi elle résoudrait la Tension. Alors, sur demande de l'Objecteur, le Proposant doit présenter une argument raisonable qui expliquerait pourquoi la Proposition amendée ne résoudrait pas la Tension dans au moins un des exemples utilisés pour illustrer sa Tension. Si nécessaire, le Proposant, peut ajouter un autre exemple pour illustrer pourquoi la Proposition amendée ne résoudrait pas sa Tension. Si le Facilitateur estime que le Proposant n'est pas capable ou ne veut pas le faire, il peut abandonner la Propostion.
 
-#### 3.3.5 Processus d'Election Intégratif 
+#### 5.3.5 Processus d'Election Intégratif 
 
 En plus de faire une Proposition, tout Membre Structurel peut aussi initialiser le Processus de Gouvernance du Cercle en demandant une élection pour un Rôle de Second Lien, Facilitateur, ou Secrétaire. La personne agissant en qualité de Facilitateur doit alors mettre en oeuvre le ***"Processus d'Election Intégratif"*** comme suit:
 
@@ -345,7 +353,7 @@ En plus de faire une Proposition, tout Membre Structurel peut aussi initialiser 
 
 Un Cercle peut adopter une Politique afin de définir une limite de temps pour nominer un candidat ou répondre à une Proposition durant le Processus d'Election Intégratif. Après que cette limite de temps soit atteinte, le Facilitateur doit exclure quiconque n'a pas répondu de la suite du processus.
 
-#### 3.3.6 Remplaçants des Facilitateurs et Secrétaires
+#### 5.3.6 Remplaçants des Facilitateurs et Secrétaires
 
 Un remplaçant peut agir en tant que Facilitateur ou Secrétaire lorsque le Rôle n'est pas porté. Un remplaçant peut aussi servir lorsque le Facilitateur ou Secrétaire habituel n'est pas disponible pour une réunion, ou demander un autre remplaçant pour toute raison.
 
@@ -357,13 +365,13 @@ Lorsqu'un remplaçant est nécessaire, le remplaçant est, par ordre de priorit�
 - **(d)** le premier Membre Structurel à se déclarer remplaçant.
 
 
-### 3.4 Réunions de Gouvernance
+### 5.4 Réunions de Gouvernance
 
 En plus de traiter les Propositions faites de manière asynchrone en dehors des réunions, chaque Cercle doit également tenir régulièrement des ***"Réunions de Gouvernance"*** afin de mettre en oeuvre le Processus de Gouvernance du Cercle en temps réel. A tout moment durant le traitement d'une Proposition asynchrone, tout Membre Structurel peut demander à ce que la Proposition soit déplacée en Réunion de Gouvernance afin d'être traitée en temps réel à la place. Le processus asyncrhone doit alors s'interrompre immédiatement. 
 
 Le Secrétaire du Cercle est responsable de planifier les Réunions de Gouvernance, et son Facilitateur est responsable de les faciliter conformément aux règles ci-dessous. En plus des réunions de Gouvernance régulières, le Secrétaire peut planifier une réunion de Gouvernance exceptionnelle sur demande de l'un des Membres Structurels. Le demandeur peut préciser son intention pour la réunion de Gouvernance exceptionnelle et préciser des limites à ce que cette réunion pourra changer. Cela peut signifier se focaliser sur une seule Tension, ou se limiter à modifier certains Rôles. Dans ce cas, l'autorité de cette Réunion de Gouvernance exceptionnelle est contrainte aux seules Propositions en rapport avec l'intention énoncée, et doivent respecter les limites fixées.
 
-#### 3.4.1 Attendance
+#### 5.4.1 Attendance
 
 All Membres Structurels of a Cercle may participate in its Gouvernance Meetings. The acting Facilitateur and Secrétaire may also participate even if they are not Membres Structurels of the Cercle. In that case, they become temporary Membres Structurels for the duration of the meeting.
 
@@ -371,7 +379,7 @@ As a Second Lien for a Cercle, you may invite any Associé to join the Gouvernan
 
 Beyond the above, no one else may participate in a Cercle’s Gouvernance Meetings.
 
-#### 3.4.2 Notice & Duration
+#### 5.4.2 Notice & Duration
 
 A Cercle may only conduct a Gouvernance Meeting if the Secrétaire gave all Membres Structurels reasonable advance notice of the meeting. Beyond that, there is no quorum required for a Cercle to conduct a Gouvernance Meeting, unless a Politique specifies one.
 
@@ -379,7 +387,7 @@ Gouvernance Meetings end once they reach the duration initially scheduled by the
 
 Any Cercle Member who misses part or all of a Gouvernance Meeting counts as having had a chance to raise concerns about any Proposals made therein. Thus, a Cercle may adopt Proposals in a Gouvernance Meeting without regard for absent members.
 
-#### 3.4.3 Meeting Process
+#### 5.4.3 Meeting Process
 
 The Facilitateur must use the following process for Gouvernance Meetings:
 
@@ -391,7 +399,7 @@ At any point during this process, a participant may request a ***“Time Out”*
 
 A Politique of the Cercle may add to this process, but may not conflict with any rules or requirements defined in this Article of the Constitution.
 
-#### 3.4.4 Agenda Building
+#### 5.4.4 Agenda Building
 
 The Facilitateur builds an agenda of Tensions to process by soliciting agenda items from all participants. The Facilitateur must do this in the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items during the meeting, between the processing of any existing agenda items.
 
@@ -399,7 +407,7 @@ For a regular Gouvernance Meeting, the Facilitateur may choose the order in whic
 
 Les points d'Agenda sont traités un à la fois. POur traiter une demande d'élection, le Facilitateur utilise le Processus D'Election INtégratif. Pour traiter quoi que ce soit d'autre, le Facilitateur utilise le Processus de Prise de Décision Intégratif défini ci-dessous.
 
-#### 3.4.5 Integrative Decision-Making Process
+#### 5.4.5 Integrative Decision-Making Process
 
 The Facilitateur must enact the ***"Integrative Decision-Making Process"*** as follows:
 
@@ -411,7 +419,7 @@ The Facilitateur must enact the ***"Integrative Decision-Making Process"*** as f
 - **(f) Integration:** If there are valid Objections, the Facilitateur then focuses on each one, one at a time. For each, the participants brainstorm to find a potential change to the Proposal to resolve the Objection. The Facilitateur marks an Objection resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that it still addresses the Tension. During this step, the Facilitateur must apply the rules of integration described in this Article. Once all Objections are resolved, the Facilitateur moves back to the Objection round with the amended Proposal.
 
 
-#### 3.5 Conflits d'Interprétation
+#### 5.5 Conflits d'Interprétation
 
 En tant qu'Associé, votre interprétation de cette Constitution et de la Gouvernance de l'Organisation peut parfois entrer en conflit avec celle d'un autre Associé. Quand cela arrive, vous pouvez demander au Secrétaire de tout Cercle impacté de trancher sur l'interprétation à faire. Avant qu'un Secrétaire ne réponde, chacun peut continuer à utiliser sa propre interprétation. Après que le Secrétaire ait répondu, quiconque agissant pour le compte de l'Organisation doit se conformer à l'interpétation du Secrétaire jusqu'à ce que le texte ou contexte en question change.
 
@@ -419,15 +427,15 @@ Après avoir arbitré une interprétation, un Secrétaire peut publier l'arbitra
 
 Vous pouvez faire appel d'une décision d'interprétation auprès du Secretaire de tout Super-Cercle. Le Secrétaire d'un Super Cercle peut annuler l'interprétation de tout Secrétaire d'un de ses Sous-Cercles.
 
-### 3.6 Rupture de Processus
+### 5.6 Rupture de Processus
 
 Une ***“Rupture de Processus”*** survient lorsqu'un Cercle montre des comportements ou des résultats qui violent les règles de cette Constitution. Le Facilitateur ou le Secrétaire d'un Cercle peuvent déclarer une Rupture de Processus dans leur Cercle ou dans un Sous-Cercle, en utilisant leur jugement raisonnable.
 
-#### 3.6.1 Rupture pour Echec de Gouvernance
+#### 5.6.1 Rupture pour Echec de Gouvernance
 
 Le Facilitateur d'un Cercle peut aussi déclarer une Rupture de Processus dans le Cercle si une Proposition ne parvient pas a être adoptée après que ceux impliqués aient dépensé un temps et un effort raisonable à rechercher une solution.
 
-#### 3.6.2 Processus de Restauration
+#### 5.6.2 Processus de Restauration
 
 Lorsqu'une des parties autorisées déclare une Rupture de Processus dans un Cercle, ce qui suit se produit:
 
@@ -440,19 +448,19 @@ Ces autorités finissent aussitôt que le Facilitateur du Super-Cercle évalue q
 
 Si le Cercle en Rupture de Processus n'a pas de Super-Cercle, alors les pouvoirs sont tous attribués à son propre Facilitateur.
 
-#### 3.6.3 Escalade de Rupture de Processus
+#### 5.6.3 Escalade de Rupture de Processus
 
 Une Rupture de Processus dans un Cercle n'est pas automatiquement considérée comme une Rupture de Processus de son Super-Cercle. Néanmoins, si elle reste non résolue pendant un temps raisonable, alors le Super-Cercle est aussi considéré en Rupture de Processus.
 
 
 
-## Article 4: Personnes & Association
+## Article 6: Personnes & Association
 
-### 4.1 Relation d'Associé
+### 6.1 Relation d'Associé
 
 L'Organisation peut octroyer le statut d'Associé à quiconque a accepté de se conformer à toutes les règles pertinentes de cette Constitution. Ceci crée une ***“Relation d'Associé”*** entre cette personne et l'Organisation. Toute promesse que l'une des parties fait à l'autre dans le cadre de l'octroi du statut d'Associé fait partie de cette Relation d'Associé. Sauf convention contraire, chaque partie a besoin du consentement de l'autre pour modifier ces accords. Toutefois, chacune des parties peut toujours mettre fin à la Relation d'Associé sans le consentement de l'autre. Ce faisant, cette personne perd immédiatement ses droits et responsabilités en tant qu'Associé.
 
-### 4.2 Ententes de Travail
+### 6.2 Ententes de Travail
 
 Les Associés de l'Organisation peuvent passer des ***“Ententes de Travail”*** entre eux. Ce sont des accords sur la façon dont les Associés se comporteront ensemble ou rempliront leurs fonctions générales en tant qu'Associés. Ils doivent se focaliser à façonner les comportements en rapport avec le travail. Ils ne devraient pas fixer des attentes sur le travail d'un Rôle, ni d'attentes sur comment un Associé priorisera ses différents Rôles. De plus, ils ne peuvent spécifier que des actes concrets à faire ou des contraintes comportementales à honorer. Ils ne doivent pas inclure des promesses d'atteindre des résultats particuliers ou d'incarner des qualités abstraites.
 
@@ -460,9 +468,7 @@ En tant qu'Associé, vous pouvez demander une Entente de Travail à un autre Ass
 
 En tant qu'Associé, vous avez le devoir d'aligner votre comportement avec toute Entente de Travail que vous avez passée. Un Facilitateur peut aussi faire appliquer une Entente de Travail lors de ses facilitations de réunion, tant qu'elles ne sont pas en conflit avec les processus et règles de cette Constitution.
 
-### 4.3 Bascule de Pouvoir
 
-Toutes vos responsabilités et contraintes en tant qu'Associé de l'Organisation viennent de cette Constitution ainsi que de la Gouvernance et des Ententes de Travail qu'elle permet, ou bien de vos obligations légales envers l'Organisation lorsque vous agissez pour son compte. Les attentes ou contraintes implicites n'ont aucun poids ni autorité. Pas plus que les dictats émanant l'ancienne structure de pouvoir de l'Organisation avant qu'elle n'adopte cette Constitution. En tant qu'Associé, vous pouvez vous reposer sur les autorités octroyées par cette Constitution dans toute la mesure où les Ratifieurs détenaient de tels pouvoirs avant de l'adopter.
 
 ---
 
