@@ -198,7 +198,7 @@ Vous pouvez également utiliser votre jugement raisonné pour interpréter cette
 
 Lorsque vous agissez dans un Rôle, vous ne devez violer aucune des Politiques du Rôle lui-même ou de tout Cercle contenant le Rôle.
 
-#### 4.1.2 N'impactez pas les Domaines
+#### 4.1.2 Obtenez la Permission avant d'Impacter des Domaines
 
 Au service de votre Rôle, vous avez l'autorité d'impacter et de contrôler les Domaines de votre Rôle.
 
@@ -208,7 +208,7 @@ Vous ne pouvez pas exercer de contôle ou causer un impact matériel sur un Doma
 
 Lorsque vous avez besoin de la permission d'impacter un Domaine, vous pouvez l'obtenir de quiconque contrôle ce Domaine. Vous pouvez aussi obtenir la permission en annonçant votre intention de prendre une action particulière, et en invitant quiconque avec un Domaine pertinent à objecter. Vous devez alors attendre un temps raisonnable pour recevoir des réponses. Si personne n'objecte dans ce temps, vous avez alors la permission d'impacter tout Domaine détenu par tout Rôle de l'Organisation que votre annonce atteint. Vous pouvez considérer qu'une annonce écrite a atteint quiconque lisant généralement les messages dans le canal que vous avez utilisé. Toute permission ainsi octroyée s'applique seulement pendant le temps de l'action en question que vous avez annoncé. Une Politique peut modifier ou contraindre plus avant ce processus.
 
-#### 4.1.3 Ne Dépensez pas d'Argent
+#### 4.1.3 Obtenez l'Autorisation avant de Dépenser de l'Argent
 
 Lorsque vous énergisez votre Rôle, vous ne pouvez pas dépenser d'argent ou d'autres actifs à moins d'y être autorisé. Cette autorisation doit venir d'un Rôle ou d'un Cercle qui contrôle déjà la dépense de ces ressources. Disposer d'un bien important pour le Cercle ou en restreindre significativement son accès est considéré comme une dépense.
 
