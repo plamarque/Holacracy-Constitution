@@ -381,15 +381,13 @@ Tous les Membres Structurels d'un Cercle peuvent participer à ses Réunions de 
 
 En tant que Second Lien d'un Cercle, vous pouvez inviter tout Associé à rejoindre la Réunion de Gouvernance de tout Cercle contenant directement votre Cercle. Vous ne pouvez étendre cette invitation qu'à un seul Associé à la fois, et uniquement pour aider à traiter une Tension spécifique qui affecte le Cercle que vous représentez. Vous devez ressentir cette Tension vous-même, et penser qu'il serait utile de la traiter dans le Cercle. Votre invité devient temporairement Membre Structurel pour la durée de la réunion, ou jusqu'à ce que vous retiriez l'invitation. Votre invité peut représenter votre Cercle avec vous dans la réunion, mais uniquement lors du traitement de cette Tension particulière.
 
+#### 5.4.2 Préavis & Durée
 
+Un Cercle ne peut tenir une Réunion de Gouvernance que si le Secrétaire a prévenu tous les Membres Structurels raisonnablement à l'avance de sa tenue. Hormis cela, il n'y a pas de quorum requis pour tenir une Réunion de Gouvernance, sauf si une Politique le stipule.
 
-#### 5.4.2 Notice & Duration
+Les Réunions de Gouvernance se terminent une fois qu'elles atteignent la durée initialement programmée par le Secrétaire. Le Secrétaire peut choisir d'étendre la durée en cours de réunion, mais uniquement si aucun des Membres Structurels ne s'y oppose.
 
-A Cercle may only conduct a Gouvernance Meeting if the Secrétaire gave all Membres Structurels reasonable advance notice of the meeting. Beyond that, there is no quorum required for a Cercle to conduct a Gouvernance Meeting, unless a Politique specifies one.
-
-Gouvernance Meetings end once they reach the duration initially scheduled by the Secrétaire. The Secrétaire may choose to extend the duration within the meeting, but only if no Cercle Member requests otherwise.
-
-Any Cercle Member who misses part or all of a Gouvernance Meeting counts as having had a chance to raise concerns about any Proposals made therein. Thus, a Cercle may adopt Proposals in a Gouvernance Meeting without regard for absent members.
+Tout Membre Structurel qui manque tout ou partie d'une Réunion de Gouvernance compte comme s'il avait eu une chance d'exprimer des préoccupations pour chacune des Propositions qui y ont été faites. Ainsi, un Cercle peut adopter des Propositions dans une Réunion de Gouvernance sans se soucier des membres absents.
 
 #### 5.4.3 Meeting Process
 
