@@ -67,7 +67,7 @@ Lorsque vous avez du temps pour agir dans un Rôle, vous êtes responsable de r�
 
 ### 1.4 Cercles
 
-Un ***“Cercle”*** est un conteneur pour organiser des Rôles et des Politiques autour d'une Raison d’Être commune. Les Rôles et Politiques au sein d'un Cercle constituent sa ***“Gouvernance”***. Personne ne peut changer la Gouvernance d'un Cercle en dehors de son ***“Processus de Gouvernance”***.
+Un ***“Cercle”*** est un conteneur pour organiser des Rôles et des Politiques autour d'une Raison d’Être commune. Les Rôles et Politiques au sein d'un Cercle constituent sa ***“Gouvernance”***.
 
 #### 1.4.1 Décomposer les Rôles
 
@@ -79,13 +79,13 @@ Le Cercle intérieur d'un Rôle est appelé ***“Sous-Cercle”*** du Cercle su
 
 Lorsqu'un Cercle octroie un Domaine à l'un de ses Rôles, tout Porteur de ce Rôle peut contôler ce Domaine au nom du Cercle. Un Cercle ne peut octroyer à ses Rôles que des Domaines qui relèvent des ses propres Domaines, ou qui sont valables au sein de ses propres processus internes.
 
-Lorsqu'un Rôle contrôle un Domaine, il peut créer des Politiques pour gouverner ce Domaine à travers son propre Processus de Gouvernance. Cependant, le Cercle qui a délégué le Domaine conserve le droit de définir ses propres Politiques pour gouverner ce Domaine. En cas de conflit, ces politiques l'emportent sur celles définies au niveau du Rôle.
+Lorsqu'un Rôle contrôle un Domaine, il peut créer des Politiques pour gouverner ce Domaine dans sa propre Gouvernance. Cependant, le Cercle qui a délégué le Domaine conserve aussi le droit de définir ses propres Politiques pour gouverner ce Domaine. En cas de conflit, les Politiques du Cercle l'emportent sur celles définies au niveau du Rôle.
 
 Octroyer un Domaine à un Rôle ne délègue aucun des droits dont le Cercle dispose pour contrôler des actifs ou dépenser de l'argent, à moins que cela ne soit explicitement spécifié.
 
 #### 1.4.3 Cercle d'Ancrage
 
-Le Cercle le plus large détenant la Raison d’Être de l'ensemble de l'Organisation est son ***“Cercle d'Ancrage”***. Le Cercle d'Ancrage n'a pas de Super-Cercle, et détient toutes les autorités et Domaines de l'Organisation. Le Cercle d'Ancrage peut changer sa propre Raison d’Être ou ses Redevabilités via une Politique adoptée par son Processus de Gouvernance.
+Le Cercle le plus large détenant la Raison d’Être de l'ensemble de l'Organisation est son ***“Cercle d'Ancrage”***. Le Cercle d'Ancrage n'a pas de Super-Cercle, et détient toutes les autorités et Domaines de l'Organisation. Le Cercle d'Ancrage peut changer sa propre Raison d’Être ou ses Redevabilités via une Politique.
 
 Les Ratifieurs peuvent définir une structure initiale et une Gouvernance différente pour le Cercle d'Ancrage lors de l'adoption de sa Constitution.
 
@@ -93,7 +93,7 @@ Les Ratifieurs peuvent définir une structure initiale et une Gouvernance diffé
 
 Un Rôle peut se lier à un autre Cercle si une Politique de cet autre Cercle ou de l'un des Super-Cercle dudit Cercle l'y invite.
 
-Dès lors qu'il est relié à un autre Cercle, un Rôle participe pleinement à la Gouvernance du Cercle relié. Le Processus de Gouvernance du Cercle relié peut élargir le Rôle lié, et plus tard changer ce qu'il ajoute. Cependant, il ne peut pas supprimer le Rôle en lui-même ni changer quoi que ce soit d'ajouté par un autre Cercle, de même qu'un autre Cercle ne peut pas changer quoi que ce soit d'ajouté par un autre cercle au Rôle. L'autorité d'affectation à ce Rôle reste dans son Cercle d'origine. Le Cercle relié n'est pas considéré comme le Super-Cercle du lien, ni le Cercle intérieur du lien considéré comme un Sous-Cercle du Cercle relié.
+Dès lors qu'il est relié à un autre Cercle, un Rôle lien fait pleinement partie de la Gouvernance du Cercle relié. Ce Cercle relié peut élargir le Rôle lien, et plus tard changer ce qu'il ajoute. Cependant, il ne peut pas supprimer le Rôle lien en lui-même ni changer quoi que ce soit d'ajouté par un autre Cercle, de même qu'un autre Cercle ne peut pas changer quoi que ce soit d'ajouté par un autre cercle au Rôle lien. L'autorité d'affectation à ce Rôle lien reste dans son Cercle d'origine. Le Cercle relié n'est pas considéré comme le Super-Cercle du lien, ni le Cercle intérieur du lien considéré comme un Sous-Cercle du Cercle relié.
 
 Un Cercle peut délier un Rôle en supprimant la Politique qui l'a invité à se relier, ou par un autre mécanisme défini dans cette Politique. Un Rôle peut aussi choisir de se retirer d'un Cercle auquel il est relié, à moins qu'une Politique au sein du - ou agissant sur - le Super-Cercle du Rôle n'en décide autrement. Une fois délié, toute Gouvernance ajoutée au Rôle par un Cercle aupravant relié est automatiquement supprimée.
 
@@ -111,7 +111,7 @@ Un Premier Lien peut juger de la valeur potentielle des efforts du Cercle à ré
 
 #### 1.5.2 Router les Références Externes
 
-Lorsqu'une Gouvernance en dehors du Cercle référence le Cercle lui-même ou n'importe quel Rôle dans le Cercle, un Premier Lien peut mettre à jour cette référence pour pointer vers un autre Rôle du Cercle. Ceci ne requiert d'utiliser le Processus de Gouvernance d'aucun Cercle.
+Lorsqu'une Gouvernance en dehors du Cercle référence le Cercle lui-même ou n'importe quel Rôle dans le Cercle, un Premier Lien peut mettre à jour cette référence pour pointer vers un autre Rôle du Cercle. Cette clarification n'est pas considérée comme un changement dans la Gouvernance de ce Cercle.
 
 #### 1.5.3 Amender le Rôle de Premier Lien 
 
@@ -242,6 +242,8 @@ Au delà de ça, toutes vos responsabilités et contraintes en tant qu'Associé 
 
 
 ## Article 5: Gouvernance
+
+Changer la Gouvernance d'un Cercle requiert d'utiliser le ***“Processus de Gouvernance”*** défini ci-après.
 
 ### 5.1 Participants à la Gouvernance
 
