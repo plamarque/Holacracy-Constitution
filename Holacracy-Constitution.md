@@ -489,41 +489,41 @@ _Le Premier Lien porte toutes les Redevabilités du Cercle qui ne sont pas couve
 
 ## Second Lien
 
-**Raison d’Être:** Tensions relevant to process in a broader Cercle channeled out and resolved.
+**Raison d’Être:** Les Tensions pertinentes à traiter dans un Cercle plus large sont sorties et résolues.
 
 **Redevabilités:**
 
-- Seeking to understand Tensions conveyed by Rôle-fillers within the Cercle
-- Discerning Tensions appropriate to process within a broader Cercle that holds the Cercle
-- Processing Tensions within a broader Cercle to remove constraints on the Cercle
+- Chercher à comprendre les Tensions exprimées par ceux qui remplissent des rôles au sein du Cercle
+- Discerner les Tensions qu'il est approprié de traiter dans un Super Cercle plus large
+- Traiter les Tensions dans un Super Cercle afin de supprimer les contraintes sur le Cercle
 
 ## Facilitateur
 
-**Raison d’Être:** Cercle Gouvernance and operational practices aligned with the Constitution.
+**Raison d’Être:** La Gouvernance et les pratiques opérationnelles du Cercle dont alignées avec la constitution.
 
 **Redevabilités:**
 
-- Facilitating the Processus de Gouvernance and Réunions de Triage of the Cercle or for its Rôles
-- Coaching other Membres Structurels on the Constitution's rules and processes, either on request or when needed for effective meetings
-- Auditing the meetings and records of Sub-Cercles on request, and declaring a Process Breakdown if one is discovered
+- Faciliter Processus de Gouvernance et les Réunions de Triage du Cercle ou pour ses Rôles
+- Coacher les autres Membres Structurels sur les règles et les processus de la Constitution, soit sur demande ou lorsque c'est utile à l'efficacité des réunions
+- Auditer les réunions et enregistrements des Sous-Cercles sur demande, et déclarer ne Rupture de Processus si une en est découverte
 
 ## Secrétaire
 
-**Raison d’Être:** Steward the Cercle’s Gouvernance records and stabilize its record-keeping process.
+**Raison d’Être:** Coordonner les registres de Gouvernance du Cercle et stabiliser son processus de conservation des registres.
 
 **Domaines:**
 
-- All Gouvernance records of the Cercle
+- Tous les registres de Gouvernance du Cercle
 
 **Redevabilités:**
 
 - Programmer les Réunions de Gouvernance et les Réunions de Triage pour le Cercle
-- Capturing and publishing the outputs of Gouvernance Meetings and Réunions de Triage
+- Capturer et publier les résultats des Réunions de Gouvernance et de Réunions de Triage
 - Demander des élections pour les Rôles élus à la fin de chaque mandat
-- Interpreting the Constitution and anything under its authority upon request
+- Interpréter la Constitution et toute chose sous son autorité sur demande
 
 ---
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Ce travail est sous licence <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 ---
