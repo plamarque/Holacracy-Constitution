@@ -262,7 +262,7 @@ Le Cercle doit utiliser le Processus d'Election Intégratif défini ci-dessous p
 
 Un Cercle peut ajouter des Redevabilités ou des Domaines à son Rôle de Second Lien, de même qu'amender ou supprimer ces ajouts. Aucun Cercle ne peut amender ou supprimer la Raison d’Être ou toute Redevabilité du Rôle de Second Lien, ni supprimer ce Rôle.
 
-### 5.1.2 Facilitateur et Secrétaire
+#### 5.1.2 Facilitateur et Secrétaire
 
 Tout Cercle avec plus d'un Membre Structurel inclut un ***“Rôle Facilitateur”*** et un ***“Rôle Secrétaire”***, tel que défini dans l'Annexe A. Les personnes agissant dans chacun de ces rôles deviennent respectivement le ***“Facilitateur”*** et le ***“Secrétaire”*** du Cercle. Tout Membre Structurel d'un Cercle peut solliciter une élection à tout moment afin de remplir ou remplacer quelqu'un comme Facilitateur ou Secrétaire du Cercle.
 
