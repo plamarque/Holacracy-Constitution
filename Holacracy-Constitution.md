@@ -235,7 +235,7 @@ En prenant une Initiative Individuelle, vous devez expliquer votre action à tou
 
 Vous devez prioriser la communication et la restauration exigées par cette section sur votre travail habituel. Cependant, un Premier Lien d'un Cercle contenant tous les Rôles affectés par votre action peut changer cette priorité par défaut.
 
-### 4.3 Evoluer avec le Pouvoir Historique
+### 4.3 Naviguer dans le Pouvoir Historique
 
 Toutes les politiques et systèmes existants dans l'Organisation avant d'adopter la Constitution restent pleinement en vigueur après l'adoption, même s'ils comprennent des autorités ou des contraintes qui n'ont pas été créés dans le cadre des processus de la Constitution. Cependant, ces politiques et systèmes historiques ne peuvent être étendus ou modifiés, et perdent tout poids et autorité aussitôt que les processus de la présente Constitution créent quelque chose qui les remplace ou les contredit.
 
