@@ -175,7 +175,7 @@ L'Associé convoquant une réunion de Triage doit trouver quelqu'un pour la faci
 
 Une Politique de Cercle peut spécifier un processus de Triage alternatif ou modifier ce processus par défaut sur demande de tout Rôle du Cercle.
 
-#### 3.3 Remplaçant pour les Membres Absents
+### 3.3 Remplaçant pour les Membres Absents
 
 Si un Rôle défini par un Cercle et qui est invité à une Réunion de Triage n'est pas représenté dans la réunion pour une quelconque raison, un Premier Lien du Super-Cercle de ce Rôle peut le représenter pendant la réunion.
 
