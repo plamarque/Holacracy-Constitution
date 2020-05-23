@@ -420,7 +420,7 @@ Le Facilitateur doit mettre en oeuvre le ***“Processus de Prise de Décision I
 - **(e) Tour d'Objection:** Ensuite, chaque participant, un à la fois, peut soulever des Objections potentielles à l'adoption de la pProposition. Le Facilitateur doit arrêter et interdire toute forme de discussion et réponses. Le Facilitateur peut tester les Onkections, et doit capturer toutes led Objections Valides. S'il n'y a pas d'Objections valides, la Proposition est adoptée.
 - **(f) Intégration:** S'il y a des Objections valides, le Facilitateur se concentre alors sur chacune d'elle, une à la fois. Pour chacun, les participants brainstorment pour trouver un amendement potentiel à la Proposition afin de résoudre l'Objection. Le facilitateur marque l'Objection comme résolue une fois que l'Objecteur confirme que la Proposition amendée ne déclencherait plus son Objection, et que le Proposant confirme qu'elle adresse toujours sa Tension. A cette étape, le Facilitateur doit appliquer les règles d'intégration décrites dans cet Article. Une fois que toutes led Objections sont résolues, le Facilitateur revient au tour d'Objection avec la Proposition amendée.
 
-#### 5.5 Conflits d'Interprétation
+### 5.5 Conflits d'Interprétation
 
 En tant qu'Associé, votre interprétation de cette Constitution et de la Gouvernance de l'Organisation peut parfois entrer en conflit avec celle d'un autre Associé. Quand cela arrive, vous pouvez demander au Secrétaire de tout Cercle impacté de trancher sur l'interprétation à faire. Avant qu'un Secrétaire ne réponde, chacun peut continuer à utiliser sa propre interprétation. Après que le Secrétaire ait répondu, tout le monde doit se conformer à l'interprétation du Secrétaire jusqu'à ce que le texte ou contexte en question change.
 
