@@ -119,7 +119,7 @@ Un Cercle ne peut pas modifier la Raison d’Être de son Rôle de Premier Lien,
 Un Cercle peut ajouter des Redevabilités ou des Domaines à son Rôle de Premier Lien, et ces ajouts s'appliquent enc ascade à tous les Rôles de Premier Lien des Sous-Cercles. Un Cercle ne peut pas ajouter des Domaines ou de Redevabilités seulement à son propre Rôle de Premier Lien. Un Cercle peut supprimer toutes Redevabilités, Domaines, autorités ou fonctions à son propre Rôle de Premier Lien. Il peut le faire soit en les plaçant dans un autre Rôle du Cercle, ou en définissant de'autres moyens de les metre en oeuvre. Faire cela supprime automatiquement l'élément en question du Rôle de Premier Lien, aussi longtemps que la délégation reste en place.
 
 
-## Article 2: Devoirs envers les Autres Porteurs de Rôle
+## Article 2: Devoirs envers les Autres
 
 En tant que Porteur de Rôle, vous avez les devoirs suivants envers les autres Porteurs de Rôles dans l'Organisation lorsqu'ils agissent au nom de leurs propres Rôles. 
 
@@ -493,7 +493,7 @@ _Le Premier Lien porte toutes les Redevabilités du Cercle qui ne sont pas couve
 
 **Redevabilités:**
 
-- Chercher à comprendre les Tensions exprimées par ceux qui remplissent des rôles au sein du Cercle
+- Chercher à comprendre les Tensions exprimées par les Porteurs de Rôles au sein du Cercle
 - Discerner les Tensions qu'il est approprié de traiter dans un Super Cercle plus large
 - Traiter les Tensions dans un Super Cercle afin de supprimer les contraintes sur le Cercle
 
