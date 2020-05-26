@@ -21,7 +21,7 @@ Un Rôle peut aussi détenir des ***“Politiques”***, qui sont des octrois ou
 
 ### 1.2 Affectation de Rôle
 
-Un Rôle peut contrôler qui porte un autre Rôle grâce à un Domaine dédié à l'affectation de ce Rôle. Toute personne détenant un tel Domaine peut désigner des personnes pour porter le Rôle cible à quiconque accepte l'affectation, y compris à plusieurs personnes simultanément. Un Porteur de Rôle peut par la suite en démissionner à tout moment, sauf convention contraire. Toute personne ainsi affectée remplit le rôle en devenant son ***"Porteur de Rôle"***.  Celui qui contrôle les affectations peut aussi désaffecter un Porteur de Rôle à tout moment. Une Politique peut toutefois préciser des contraintes dans l'affectation et la désaffectation des Rôles.
+Un Rôle peut contrôler qui remplit un autre Rôle grâce à un Domaine dédié à l'affectation de ce Rôle. Toute personne détenant un tel Domaine peut affecter le Rôle cible à quiconque souhaite le remplir, y compris à plusieurs personnes simultanément. Un Porteur de Rôle peut par la suite en démissionner à tout moment, sauf convention contraire. Toute personne ainsi affectée remplit le rôle en devenant son ***"Porteur de Rôle"***.  Celui qui contrôle les affectations peut aussi désaffecter un Porteur de Rôle à tout moment. Une Politique peut toutefois préciser des contraintes dans l'affectation et la désaffectation des Rôles.
 
 #### 1.2.1 Affectation par Défaut
 
