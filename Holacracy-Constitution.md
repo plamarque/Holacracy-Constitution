@@ -250,7 +250,7 @@ Changer la Gouvernance d'un Cercle requiert d'utiliser le ***“Processus de Gou
 
 Chaque Cercle a un groupe de ***"Membres Structurels"*** qui peuvent représenter ses Rôles dans son Processus de Gouvernance.
 
-Les Membres Structurels incluent tous ses Premiers Liens, de même que chaque Associé Porteur d'un Rôle du Cercle. Si un Rôle a plusieurs Porteurs de Rôle, un Cercle peut adopter une Politique pour limiter combien de Porteurs représentent ce Rôle en tant que Membres Structurels dans son Processus de Gouvernance.
+Les Membres Structurels sont les Associés remplissant le Rôle de Premier Lien du Cercle ainsi que chaque Associé Porteur d'un des Rôles du Cercle. Si un Rôle a plusieurs Porteurs de Rôle, un Cercle peut adopter une Politique pour limiter combien de Porteurs représentent ce Rôle en tant que Membres Structurels dans son Processus de Gouvernance.
 
 #### 5.1.1 Seconds Liens
 
