@@ -394,7 +394,7 @@ Tout Membre Structurel qui manque tout ou partie d'une Réunion de Gouvernance c
 Le Facilitateur doit utiliser le processus suivant pour les Réunions de Gouvernance:
 
 - **(a) Tour d'Inclusion:** Chaque participant évoque tour à tour son état d'esprit du moment, ou offre un commentaire d'ouverture pour la réunion. Les réponses ne sont pas autorisées.
-- **(b) Ordre du jour & Traitement:** Le Facilitateur construit l'ordre du jour des Tensions à traiter, puis le traite point par point.
+- **(b) Ordre du jour & Traitement:** Le Facilitateur construit l'ordre du jour des points à traiter, puis le parcours point par point.
 - **(c) Tour de Fermeture:** Chaque participant partage une dernière réflexion avant de quitter la réunion. Les réponses ne sont pas autorisées.
 
 A tout moment durant ce processus, un participant peut demander une pause de ***“Temps Mort”***. Le Facilitateur peut choisir d'autoriser ou refuser la pause. Pendant le Temps Mort, les participants peuvent discuter des questions administratives ou des règles de la Constitution. Mais ils ne peuvent pas utiliser le Temps Mort pour travailler sur la résolution d'une Tension, sur une Proposition ou une Objection. Le facilitateur peut terminer le Temps Mort à tout moment et reprendre le processus de réunion.
